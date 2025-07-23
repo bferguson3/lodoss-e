@@ -1,0 +1,120 @@
+1 　U　#0x10a108
+2 　D　#0x10a113
+3 　L　#0x10a11e
+4 　R　#0x10a129
+5 Warr　#0x10a138
+6 Kni#0x10a143
+7 Scou#0x10a150
+8 Pries#0x10a15f
+9 Shamn#0x10a16e
+10 Sorcr#0x10a17e
+11 Wizrd#0x10a18e
+56 Shamn#0x10a2a6
+57 Sorcr#0x10a2b6
+58 Fi#0x10a2c0
+59 Run#0x10a2cc
+60 MvAtk#0x10a2dc
+61 Ifrit#0x10a2ec
+62 Syl#0x10a2f8
+63 Def　#0x10a306
+64 At#0x10a310
+65 Mv#0x10a31a
+66 Mg#0x10a324
+67 Item#0x10a332
+68 Def　#0x10a340
+69 Cnt#0x10a34c
+70 Rtrn#0x10a35a
+71 At#0x10a364
+72 Mv#0x10a36e
+73 Mg#0x10a378
+74 Df#0x10a382
+76 Hea#0x10a39c
+77 Atk#0x10a3a8
+78 Def#0x10a3b4
+79 Smn#0x10a3c0
+80 Firbolt#0x10a3e3
+81 Snar#0x10a3f1
+82 Mute　#0x10a401
+83 Wil　oh　wisp#0x10a41d
+84 Shde#0x10a42b
+85 Invisibl#0x10a441
+86 Push#0x10a44f
+87 ShdwBody#0x10a465
+88 FlamBody#0x10a47b
+89 AirArmr #0x10a490
+90 Slp　#0x10a49e
+91 VlkryJavelin#0x10a4bc
+92 Fanticsm#0x10a4d2
+93 Cnfusion#0x10a4e8
+94 FireWall#0x10a4fe
+95 Blnk#0x10a50c
+96 SmnElmntl#0x10a524
+97 FirStorm#0x10a53a
+98 SpirtBarr#0x10a552
+99 Ertquak#0x10a566
+100 Vortex　#0x10a57b
+101 EnrgyBlt#0x10a592
+102 Shld#0x10a5a1
+103 ReadLang#0x10a5b8
+104 SlpCloud#0x10a5cf
+105 FireWepn#0x10a5e6
+106 Visi#0x10a5f5
+107 Levitat#0x10a60a
+108 Spidrweb#0x10a621
+109 Dragontooth　Wr#0x10a644
+110 Slw#0x10a651
+111 Quik#0x10a660
+112 LitngBolt#0x10a679
+113 Firebal#0x10a68e
+114 Teleport#0x10a6a5
+115 Blzrd#0x10a6b6
+116 Frcefield#0x10a6cf
+117 Low#0x10a6dc
+118 FrzBlood#0x10a6f3
+119 CmdGolem#0x10a70a
+120 CmnMagc#0x10a71f
+121 Meteor　　#0x10a736
+122 Disntigrat#0x10a751
+123 CntrMagic#0x10a76a
+124 BdyProtctn#0x10a785
+125 Unloc#0x10a796
+126 EnchantedWpn#0x10a7b5
+127 DispelMgc#0x10a7ce
+128 Heal　#0x10a7df
+129 Transfer　Magic#0x10a802
+130 TrnUnded#0x10a819
+131 Wnds#0x10a828
+132 Ble#0x10a835
+133 HolyWepn#0x10a84c
+134 CureInjury#0x10a867
+135 SunShn#0x10a87a
+136 FeinDt#0x10a88d
+137 Cure　Poison　#0x10a8ac
+138 CureDisea#0x10a8c5
+139 Refrsh#0x10a8d8
+140 SmnHero#0x10a8ed
+141 Resi#0x10a8fc
+142 Rsurect#0x10a911
+143 Vansh#0x10a922
+144 HlyPray#0x10a937
+145 Cmnd#0x10a946
+146 Barr#0x10a955
+147 BtlSng#0x10a968
+148 WpnTrnce#0x10a97f
+149 Luc#0x10a98c
+150 Pea#0x10a999
+151 Alrt#0x10a9a8
+152 Weak　Pt　#0x10a9bf
+153 Restore　Lvl#0x10a9dc
+154 Guided　Teleprt#0x10a9ff
+155 Lit#0x10aa0c
+156 Detect#0x10aa1f
+157 CurePrlyz#0x10aa38
+MntlAtak#0x10aa50
+SmnInsec#0x10aa63
+PoisTch#0x10aa74
+Mindblst#0x10aa87
+Plge#0x10aa92
+Gte#0x10aa9b
+Crs#0x10aaa4
+StnClou#0x10aab5
