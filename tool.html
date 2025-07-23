@@ -1,0 +1,285 @@
+<html>
+    <head>
+        <title>
+            Lodoss 1 Tool
+        </title>
+    </head>
+    <body class="bodyStyle">
+        <input type="file" id="filePicker" class="buttonStyle" accept=".json"/>
+        <p>
+        <label class="stdLabel">Original text:</label><label id="numWord" class="wordNum">No. 0 / 0</label>
+        <br>
+        <textarea id="originalText" class="originalTextStyle" readonly="true"></textarea>
+        <br>
+        <label class="stdLabel">Translation:</label><br>
+        <textarea id="translation" class="originalTextStyle" onchange="RecountChars();"></textarea><br>
+        <label class="selLabel" id="lblSel">Ct: 0</label>
+        <label class="sizeLabel" id="lblSize">Size: 0 b</label>
+        <p>
+        <button class="buttonStyle" id="prevWord">&nbsp;&nbsp;&nbsp;&nbsp;
+            ←
+        &nbsp;&nbsp;&nbsp;&nbsp;</button>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <button class="buttonStyle" id="nextWord">&nbsp;&nbsp;&nbsp;&nbsp;
+            →
+        &nbsp;&nbsp;&nbsp;&nbsp;</button>
+        <p>
+        <button class="buttonStyle smallButtonStyle" id="pickStrBtn">Go to...</button>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <button class="buttonStyle commit" id="commitBtn">&nbsp;&nbsp;&nbsp;Save JSON&nbsp;&nbsp;</button>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <button class="buttonStyle smallButtonStyle" id="searchBtn">Find...</button>
+    </body>
+</html>
+
+<script>
+    // vars 
+    var database = null;
+    var currentWord = 0;
+    var curFilename = "";
+    var fileList = null;
+
+    // Update char count only 
+    function RecountChars() {
+        const tl = document.getElementById("translation");
+        const sz = document.getElementById("lblSize");
+        sz.innerHTML = "Size: " + database.words[currentWord].size + "b (" + tl.value.length + ")";
+    }
+
+    // Load word from memory 
+    function UpdateCurrentWord() {
+        const ot = document.getElementById("originalText");
+        const tl = document.getElementById("translation");
+        const sz = document.getElementById("lblSize");
+        const no = document.getElementById("numWord");
+        //console.log(database);
+        ot.innerHTML = database.words[currentWord].text;
+        if(database.words[currentWord].translation == "") {
+            tl.value = database.words[currentWord].text;
+        } else {
+            tl.value = database.words[currentWord].translation;
+        }
+        sz.innerHTML = "Size: " + database.words[currentWord].size + "b (" + tl.value.length + ")";
+        no.innerHTML = "No. " + (currentWord+1) + " / " + database.words.length;
+    }
+
+    // Sets text in memory 
+    function ApplyTranslation() { 
+        const tl = document.getElementById("translation");
+        const ot = document.getElementById("originalText");
+        if(tl.value != ot.innerHTML) {
+            database.words[currentWord].translation = tl.value;
+        }
+    }
+
+    // Save file 
+    function CommitChanges() { 
+        ApplyTranslation();
+        const jsonstr = JSON.stringify(database, null, 4);
+        let f = new Blob([jsonstr], {type: "application/json"});
+        saveAs(f, fileList[0].name, null);
+    }
+
+    // Go forward / back 
+    function nextWord() {
+        ApplyTranslation();
+        currentWord += 1;
+        if(currentWord >= database.words.length) {
+            currentWord = 0;
+        }
+        UpdateCurrentWord();
+    }
+    function prevWord() {
+        ApplyTranslation();
+        currentWord -= 1;
+        if(currentWord < 0) {
+            currentWord = database.words.length - 1;
+        }
+        UpdateCurrentWord();
+    }
+
+    function Search() {
+        let searchStr = prompt("Search string:", "");
+        let outputStr = "Found on strings: \n";
+        for(let i = 0; i < database.words.length; i++) {
+            if(database.words[i].text.indexOf(searchStr) != -1) {
+                outputStr += (i + 1) + ", ";
+            }
+            if(database.words[i].translation.indexOf(searchStr) != -1) {
+                outputStr += (i + 1) + ", "
+            }
+        }
+        window.alert(outputStr);
+    }
+
+    // Load in json file 
+    function handleFiles() {
+        fileList = this.files; /* now you can work with the file list */
+        const reader = new FileReader();    
+        reader.onload = function() { 
+            database = JSON.parse(reader.result);
+            UpdateCurrentWord();
+        };
+        reader.onerror = function() { 
+            console.error("error");
+        }
+        reader.readAsText(fileList[0], 'utf-8');
+    }
+
+    function GoTo() {
+        let g = prompt("Input string number:", 1);
+        try { 
+            let n = Number(g);
+            currentWord = n - 1;
+            UpdateCurrentWord();
+        } catch { 
+            window.alert("Not a valid number!");
+        }
+    }
+
+    function countSel() {
+        const sel_ = window.getSelection().toString().length;
+        const sl = document.getElementById("lblSel");
+        sl.innerHTML = "Ct: " + sel_;
+    }
+
+    // Setup buttons 
+    const inputElement = document.getElementById("filePicker");
+    const translationTxt = document.getElementById("translation");
+    const nextBtn = document.getElementById("nextWord");
+    const prevBtn = document.getElementById("prevWord");
+    const commitBtn = document.getElementById("commitBtn");
+    const gotoBtn = document.getElementById("pickStrBtn");
+    const searchBtn = document.getElementById("searchBtn");
+    
+    translationTxt.addEventListener("input", RecountChars, false);
+    inputElement.addEventListener("change", handleFiles, false);
+
+    nextBtn.addEventListener("click", nextWord, false);
+    prevBtn.addEventListener("click", prevWord, false);
+
+    commitBtn.addEventListener("click", CommitChanges, false);
+
+    gotoBtn.addEventListener("click", GoTo, false);
+    searchBtn.addEventListener("click", Search, false);
+
+    document.addEventListener('keyup', countSel, false);
+
+    // end bent script
+
+/*
+ * FileSaver.js (MINIFIED)
+* source  : http://purl.eligrey.com/github/FileSaver.js
+*/
+var _global="object"==typeof window&&window.window===window?window:"object"==typeof self&&self.self===self?
+self:"object"==typeof global&&global.global===global?global:this;function bom(e,t){return(void 0===t?
+t={autoBom:!1}:"object"!=typeof t&&(console.warn("Deprecated: Expected third argument to be a object"),
+t={autoBom:!t}),t.autoBom&&/^\s*(?:text\/\S*|application\/xml|\S*\/\S*\+xml)\s*;.*charset\s*=\s*utf-8/i.test(
+e.type))?new Blob(["\uFEFF",e],{type:e.type}):e}function download(e,t,o){var n=new XMLHttpRequest;n.open(
+"GET",e),n.responseType="blob",n.onload=function(){saveAs(n.response,t,o)},n.onerror=function(){
+console.error("could not download file")},n.send()}function corsEnabled(e){var t=new XMLHttpRequest;t.open(
+"HEAD",e,!1);try{t.send()}catch(o){}return t.status>=200&&t.status<=299}function click(e){try{
+e.dispatchEvent(new MouseEvent("click"))}catch(t){var o=document.createEvent("MouseEvents");o.initMouseEvent(
+"click",!0,!0,window,0,0,0,80,20,!1,!1,!1,!1,0,null),e.dispatchEvent(o)}}var isMacOSWebView=_global.navigator
+&&/Macintosh/.test(navigator.userAgent)&&/AppleWebKit/.test(navigator.userAgent)&&!/Safari/.test(
+navigator.userAgent),saveAs=_global.saveAs||("object"!=typeof window||window!==_global?function e(){
+}:"download"in HTMLAnchorElement.prototype&&!isMacOSWebView?function e(t,o,n){var a=_global.URL||
+_global.webkitURL,l=document.createElementNS("http://www.w3.org/1999/xhtml","a");o=o||t.name||"download",
+l.download=o,l.rel="noopener","string"==typeof t?(l.href=t,l.origin!==location.origin?corsEnabled(l.href)?
+download(t,o,n):click(l,l.target="_blank"):click(l)):(l.href=a.createObjectURL(t),setTimeout(function(){
+a.revokeObjectURL(l.href)},4e4),setTimeout(function(){click(l)},0))}:"msSaveOrOpenBlob"in navigator?
+function e(t,o,n){if(o=o||t.name||"download","string"==typeof t){if(corsEnabled(t))download(t,o,n);else{
+var a=document.createElement("a");a.href=t,a.target="_blank",setTimeout(function(){click(a)})}}else 
+navigator.msSaveOrOpenBlob(bom(t,n),o)}:function e(t,o,n,a){if((a=a||open("","_blank"))&&(a.document.title=
+a.document.body.innerText="downloading..."),"string"==typeof t)return download(t,o,n);var l=
+"application/octet-stream"===t.type,r=/constructor/i.test(_global.HTMLElement)||_global.safari,c=
+/CriOS\/[\d]+/.test(navigator.userAgent);if((c||l&&r||isMacOSWebView)&&"undefined"!=typeof FileReader){
+var i=new FileReader;i.onloadend=function(){var e=i.result;e=c?e:e.replace(/^data:[^;]*;/,
+"data:attachment/file;"),a?a.location.href=e:location=e,a=null},i.readAsDataURL(t)}else{var s=
+_global.URL||_global.webkitURL,d=s.createObjectURL(t);a?a.location=d:location.href=d,a=null,setTimeout(
+function(){s.revokeObjectURL(d)},4e4)}});_global.saveAs=saveAs.saveAs=saveAs,"undefined"!=typeof module&&(
+module.exports=saveAs);
+/*
+*/
+
+</script>
+
+<style>
+
+/* Bentons CSS */
+
+    .bodyStyle { 
+        background-color: #aaa;
+    }
+
+    .wordNum { 
+        padding-left:250px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .sizeLabel {
+        padding-left: 325px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .selLabel { 
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .stdLabel { 
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+
+    .originalTextStyle {
+        width: 500px;
+        height: 80px;
+        resize: none;
+    }
+
+    .buttonStyle { 
+        /* taken from geekswhocode */
+        border: 0;
+        line-height: 2.5;
+        padding: 0 20px;
+        font-size: 1rem;
+        text-align: center;
+        color: #fff;
+        text-shadow: 1px 1px 1px #000;
+        border-radius: 10px;
+        background-color: rgb(30, 138, 117);
+        background-image: linear-gradient(
+            to top left,
+            rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0.2) 30%,
+            rgba(0, 0, 0, 0)
+        );
+        box-shadow:
+            inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+            inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+    }
+
+    .smallButtonStyle {
+        font-size: 0.75rem;
+    }
+
+    .commit { 
+        height: 60px;
+    }
+
+    .buttonStyle:hover {
+        background-color: rgba(255, 0, 0, 1);
+    }
+
+    .buttonStyle:active {
+        box-shadow:
+            inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+            inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+    }
+
+</style>

@@ -36,7 +36,6 @@ for w in data["words"]:
                 jlines.append(a)
         except Exception as e:
             print(e)
-print(tct,"translated of",nct, "{:01}".format(tct/nct*100)[:5]+"%")
 
 # fix all yes/no
 yn = bytes([0x82, 0xCD, 0x82, 0xA2, 0x23, 0x82, 0xA2, 0x82, 0xA2, 0x82, 0xA6, 0x23])
@@ -105,10 +104,14 @@ while tl != "":
         c += 1
     t.txt = new 
     t.addr = int(l[1],16) #- len(bytes(t.txt))
+    tct+=1
+    nct+=1
     #print(bytes(t.txt), len(t.txt), hex(t.addr))
     tl = f.readline()
     lines.append(t)
 f.close()
+
+print(tct,"translated of",nct, "{:01}".format(tct/nct*100)[:5]+"%")
 
 
 k = 0
