@@ -52,43 +52,43 @@
             "address": "0x114df4",
             "size": 18,
             "text": "ひとりはウォリアー",
-            "translation": ""
+            "translation": "Ａ ｗａｒｒｉｏｒ"
         },
         {
             "address": "0x114e09",
             "size": 14,
             "text": "ひとりはナイト",
-            "translation": ""
+            "translation": "Ｋｎｉｇｈｔ，"
         },
         {
             "address": "0x114e1a",
             "size": 16,
             "text": "ひとりはスカウト",
-            "translation": ""
+            "translation": "Ｓｃｏｕｔ，"
         },
         {
             "address": "0x114e2d",
             "size": 18,
             "text": "ひとりはプリースト",
-            "translation": ""
+            "translation": "Ｐｒｉｅｓｔ，"
         },
         {
             "address": "0x114e42",
             "size": 18,
             "text": "ひとりはシャーマン",
-            "translation": ""
+            "translation": "Ｓｈａｍａｎ，"
         },
         {
             "address": "0x114e57",
             "size": 18,
             "text": "ひとりはソーサラー",
-            "translation": ""
+            "translation": "Ｓｏｒｃｅｒｅｒ，"
         },
         {
             "address": "0x114e6c",
             "size": 18,
             "text": "ひとりはウィザード",
-            "translation": ""
+            "translation": "Ｗｉｚａｒｄ，"
         },
         {
             "address": "0x114e81",
@@ -160,37 +160,37 @@
             "address": "0x114f6c",
             "size": 32,
             "text": "　　北のドワーフ族の細工師　ギム",
-            "translation": ""
+            "translation": "　　Ｇｈｉｍ，　ａ　Ｄｗａｒｆ"
         },
         {
             "address": "0x114f8f",
             "size": 42,
             "text": "　　すべてを見通すスターシーカー　スレイン",
-            "translation": ""
+            "translation": "　Ｔｈｅ　ｓｔａｒｓｅｅｋｅｒ　Ｓｌａｙｎ"
         },
         {
             "address": "0x114fbc",
             "size": 22,
             "text": "　　勇敢な騎士　パーン",
-            "translation": ""
+            "translation": "　Ｂｒａｖｅ　Ｐａｒｎ"
         },
         {
             "address": "0x114fd5",
             "size": 30,
             "text": "　　偉大なファリスの司祭　エト",
-            "translation": ""
+            "translation": "　　Ｐｒｉｅｓｔ　Ｅｔｏｈ"
         },
         {
             "address": "0x114ff6",
             "size": 32,
             "text": "　　美しき森の娘　ディードリット",
-            "translation": ""
+            "translation": "　　Ｆａｉｒ　Ｄｅｅｄｌｉｔ"
         },
         {
             "address": "0x115019",
             "size": 38,
             "text": "　　アラニアの大盗賊　ウッド・チャック",
-            "translation": ""
+            "translation": "Ｗｏｏｄｃｈｕｃｋ　ｔｈｅ　Ｔｈｉｅｆ"
         },
         {
             "address": "0x115042",
@@ -238,751 +238,751 @@
             "address": "0x115e00",
             "size": 10,
             "text": "は全快した",
-            "translation": ""
+            "translation": "　ｈｅａｌ"
         },
         {
             "address": "0x115e0d",
             "size": 6,
             "text": "C6睡眠",
-            "translation": ""
+            "translation": "C6ＳＬ"
         },
         {
             "address": "0x115e16",
             "size": 18,
             "text": "は元の世界に戻った",
-            "translation": ""
+            "translation": "　ｒｅｔｕｒｎｅｄ"
         },
         {
             "address": "0x115e2b",
             "size": 8,
             "text": "は倒れた",
-            "translation": ""
+            "translation": "　ＫＯ"
         },
         {
             "address": "0x115e36",
             "size": 18,
             "text": "は粉々に分解された",
-            "translation": ""
+            "translation": "Ｓｈａｔｔｅｒｅｄ"
         },
         {
             "address": "0x115e4b",
             "size": 22,
             "text": "押す方向を選んで下さい",
-            "translation": ""
+            "translation": "Ｄｉｒｅｃｔｉｏｎ？"
         },
         {
             "address": "0x115e64",
             "size": 16,
             "text": "どこに飛びますか",
-            "translation": ""
+            "translation": "Ｔｏ　ｗｈｅｒｅ"
         },
         {
             "address": "0x115e77",
             "size": 26,
             "text": "は次の行動がとれなくなった",
-            "translation": ""
+            "translation": "　ｌｏｓｔ　ａ　ｔｕｒｎ．"
         },
         {
             "address": "0x115e94",
             "size": 22,
             "text": "は硬く石のようになった",
-            "translation": ""
+            "translation": "　ｉｓ　ｓｔｏｎｅｄ！"
         },
         {
             "address": "0x115ead",
             "size": 10,
             "text": "を破壊した",
-            "translation": ""
+            "translation": "Ｂｒｏｋｅ"
         },
         {
             "address": "0x115eba",
             "size": 12,
             "text": "を消しさった",
-            "translation": ""
+            "translation": "Ｖａｎｉｓｈ"
         },
         {
             "address": "0x115ec9",
             "size": 18,
             "text": "は死んだ様になった",
-            "translation": ""
+            "translation": "ＰｌａｙｓＤｅａｄ"
         },
         {
             "address": "0x115ede",
             "size": 18,
             "text": "は精霊の守りを得た",
-            "translation": ""
+            "translation": "Ｐｒｏｔｅｃｔｅｄ"
         },
         {
             "address": "0x115ef3",
             "size": 6,
             "text": "C7浮遊",
-            "translation": ""
+            "translation": "C7ＦＬ"
         },
         {
             "address": "0x115efc",
             "size": 10,
             "text": "は弓を射た",
-            "translation": ""
+            "translation": "　ｓｈｏｔ"
         },
         {
             "address": "0x115f09",
             "size": 32,
             "text": "ポイントの精神的ダメージを与えた",
-            "translation": ""
+            "translation": "ｐ　ｍｅｎｔａｌ　ｄａｍａｇｅ！"
         },
         {
             "address": "0x115f2c",
             "size": 26,
             "text": "は眠気をさそうガスをはいた",
-            "translation": ""
+            "translation": "Ｓｐａｔ　ｓｌｅｅｐｇａｓ"
         },
         {
             "address": "0x115f49",
             "size": 14,
             "text": "炎の壁をたてた",
-            "translation": ""
+            "translation": "Ｆｉｒｗａｌｌ"
         },
         {
             "address": "0x115f5a",
             "size": 10,
             "text": "壁をたてた",
-            "translation": ""
+            "translation": "　ｗａｌｌ"
         },
         {
             "address": "0x115f67",
             "size": 8,
             "text": "を使った",
-            "translation": ""
+            "translation": "Ｕｓｅｄ"
         },
         {
             "address": "0x115f72",
             "size": 12,
             "text": "を身につけた",
-            "translation": ""
+            "translation": "Ｅｑｕｉｐｄ"
         },
         {
             "address": "0x115f81",
             "size": 32,
             "text": "はこれをここで使うことができない",
-            "translation": ""
+            "translation": "　ｃａｎ´ｔ　ｕｓｅ　ｈｅｒｅ！"
         },
         {
             "address": "0x115fa4",
             "size": 36,
             "text": "しかし、呪われているので装備できない",
-            "translation": ""
+            "translation": "Ｃｕｒｓｅｄ，ｃａｎ´ｔ　ｅｑｕｉｐ"
         },
         {
             "address": "0x115fcb",
             "size": 26,
             "text": "しかし、何も起こらなかった",
-            "translation": ""
+            "translation": "Ｎｏ　ｅｆｆｅｃｔ．"
         },
         {
             "address": "0x115fe8",
             "size": 18,
             "text": "は呪われてしまった",
-            "translation": ""
+            "translation": "　ｃｕｒｓｅｄ！"
         },
         {
             "address": "0x115ffd",
             "size": 14,
             "text": "の魔法を使った",
-            "translation": ""
+            "translation": "　ｃａｓｔ！"
         },
         {
             "address": "0x11600e",
             "size": 10,
             "text": "パーティー",
-            "translation": ""
+            "translation": "Ｐａｒｔｙ"
         },
         {
             "address": "0x11601b",
             "size": 2,
             "text": "敵",
-            "translation": ""
+            "translation": "Ｅ"
         },
         {
             "address": "0x116020",
             "size": 20,
             "text": "はレベルを下げられた",
-            "translation": ""
+            "translation": "　ＬＶＬ　ｄｏｗｎ！"
         },
         {
             "address": "0x116037",
             "size": 30,
             "text": "は敵の弱点が見えるようになった",
-            "translation": ""
+            "translation": "　ｓａｗ　ｗｅａｋ　ｐｏｉｎｔ"
         },
         {
             "address": "0x116058",
             "size": 18,
             "text": "の武器が軽くなった",
-            "translation": ""
+            "translation": "　ｉｍｐｒｏｖｅｓ"
         },
         {
             "address": "0x11606d",
             "size": 16,
             "text": "の士気が上がった",
-            "translation": ""
+            "translation": "ＭｏｒａｌｅＵｐ"
         },
         {
             "address": "0x116080",
             "size": 20,
             "text": "の武器の威力が増した",
-            "translation": ""
+            "translation": "　ｗｅａｐｏｎ　ｕｐ"
         },
         {
             "address": "0x116097",
             "size": 16,
             "text": "の士気が上がった",
-            "translation": ""
+            "translation": "ＭｏｒａｌｅＵｐ"
         },
         {
             "address": "0x1160aa",
             "size": 22,
             "text": "は魔法を避け易くなった",
-            "translation": ""
+            "translation": "ＭａｇｃＢａｒｒｉｅｒ"
         },
         {
             "address": "0x1160c3",
             "size": 18,
             "text": "は動きを封じられた",
-            "translation": ""
+            "translation": "Ｐａｒａｌｙｚｅｄ"
         },
         {
             "address": "0x1160d8",
             "size": 26,
             "text": "は敵の攻撃を避け易くなった",
-            "translation": ""
+            "translation": "　ｄｏｄｇｅ　ｕｐ！"
         },
         {
             "address": "0x1160f5",
             "size": 22,
             "text": "は魔法を封じ込められた",
-            "translation": ""
+            "translation": "　ｉｓ　ｍｕｔｅｄ！"
         },
         {
             "address": "0x11610e",
             "size": 16,
             "text": "はブレスを吹いた",
-            "translation": ""
+            "translation": "　ｂｒｅａｔｈ！"
         },
         {
             "address": "0x116121",
             "size": 40,
             "text": "タクティカルコンバットをおこないますか？",
-            "translation": ""
+            "translation": "Ｔａｃｔｉｃａｌ　ｃｏｍｂａｔ？"
         },
         {
             "address": "0x11614c",
             "size": 16,
             "text": "はどうしますか？",
-            "translation": ""
+            "translation": "´ｓ　ｔｕｒｎ"
         },
         {
             "address": "0x11615f",
             "size": 18,
             "text": "これでいいですか？",
-            "translation": ""
+            "translation": "Ｔｈｉｓ　ＯＫ？"
         },
         {
             "address": "0x116174",
             "size": 6,
             "text": "の攻撃",
-            "translation": ""
+            "translation": "Ａｔｋ"
         },
         {
             "address": "0x11617d",
             "size": 12,
             "text": "を呼び出した",
-            "translation": ""
+            "translation": "Ｓｕｍｍｏｎ"
         },
         {
             "address": "0x11618c",
             "size": 20,
             "text": "クリティカルヒット！",
-            "translation": ""
+            "translation": "Ｃｒｉｔｉｃａｌ！！"
         },
         {
             "address": "0x1161a3",
             "size": 12,
             "text": "ファンブル！",
-            "translation": ""
+            "translation": "Ｆｕｍｂｌｅ"
         },
         {
             "address": "0x1161b2",
             "size": 14,
             "text": "武器を落とした",
-            "translation": ""
+            "translation": "Ｄｒｏｐｐｅｄ"
         },
         {
             "address": "0x1161c3",
             "size": 12,
             "text": "武器が壊れた",
-            "translation": ""
+            "translation": "Ｂｒｏｋｅｎ"
         },
         {
             "address": "0x1161d2",
             "size": 14,
             "text": "足首をいためた",
-            "translation": ""
+            "translation": "Ｓｌｉｐｐｅｄ"
         },
         {
             "address": "0x1161e3",
             "size": 22,
             "text": "足首をいためて動けない",
-            "translation": ""
+            "translation": "ＳｌｉｐＡｎｄＦａｌｌ"
         },
         {
             "address": "0x1161fc",
             "size": 12,
             "text": "は石を投げた",
-            "translation": ""
+            "translation": "　ｓｔｏｎｅ"
         },
         {
             "address": "0x11620b",
             "size": 8,
             "text": "を倒した",
-            "translation": ""
+            "translation": "　ＫＯ"
         },
         {
             "address": "0x116216",
             "size": 16,
             "text": "は死んでしまった",
-            "translation": ""
+            "translation": "　ｄｉｅｄ！"
         },
         {
             "address": "0x116229",
             "size": 10,
             "text": "は気絶した",
-            "translation": ""
+            "translation": "Ｆａｉｎｔ"
         },
         {
             "address": "0x116236",
             "size": 14,
             "text": "の体は麻痺した",
-            "translation": ""
+            "translation": "Ｐａｒａｌｙｚ"
         },
         {
             "address": "0x116247",
             "size": 16,
             "text": "は毒におかされた",
-            "translation": ""
+            "translation": "Ｐｏｉｓｏｎｅｄ"
         },
         {
             "address": "0x11625a",
             "size": 16,
             "text": "は病におかされた",
-            "translation": ""
+            "translation": "Ｄｉｓｅａｓｅｄ"
         },
         {
             "address": "0x11626d",
             "size": 16,
             "text": "の体は石になった",
-            "translation": ""
+            "translation": "　ｓｔｏｎｅｄ！"
         },
         {
             "address": "0x116280",
             "size": 18,
             "text": "は意識不明になった",
-            "translation": ""
+            "translation": "　ｉｓ　ｄａｚｅｄ"
         },
         {
             "address": "0x116295",
             "size": 16,
             "text": "の呪文をとなえた",
-            "translation": ""
+            "translation": "　ｃａｓｔ"
         },
         {
             "address": "0x1162a8",
             "size": 20,
             "text": "は移動できなくなった",
-            "translation": ""
+            "translation": "Ｃａｎ´ｔ　ｍｏｖｅ"
         },
         {
             "address": "0x1162bf",
             "size": 20,
             "text": "しかし効果がなかった",
-            "translation": ""
+            "translation": "Ｎｏ　ｅｆｆｅｃｔ！"
         },
         {
             "address": "0x1162d6",
             "size": 10,
             "text": "を召喚した",
-            "translation": ""
+            "translation": "　ｃａｌｌ"
         },
         {
             "address": "0x1162e3",
             "size": 12,
             "text": "の姿が消えた",
-            "translation": ""
+            "translation": "　ｇｏｎｅ"
         },
         {
             "address": "0x1162f2",
             "size": 28,
             "text": "は敵の攻撃を避けやすくなった",
-            "translation": ""
+            "translation": "　ｄｏｄｇｅ　ｉｓ　ｕｐ！"
         },
         {
             "address": "0x116311",
             "size": 18,
             "text": "の体は炎に包まれた",
-            "translation": ""
+            "translation": "　ｅｎｆｌａｍｅｄ"
         },
         {
             "address": "0x116326",
             "size": 24,
             "text": "パーティーは光に包まれた",
-            "translation": ""
+            "translation": "Ｌｉｇｈｔ　ｃｌｏａｋ！"
         },
         {
             "address": "0x116341",
             "size": 8,
             "text": "は眠った",
-            "translation": ""
+            "translation": "　ｚｚｚ"
         },
         {
             "address": "0x11634c",
             "size": 14,
             "text": "は目を覚ました",
-            "translation": ""
+            "translation": "　ａｗａｋｅｓ"
         },
         {
             "address": "0x11635d",
             "size": 10,
             "text": "は逆上した",
-            "translation": ""
+            "translation": "　ｒａｇｅ"
         },
         {
             "address": "0x11636a",
             "size": 10,
             "text": "は混乱した",
-            "translation": ""
+            "translation": "Ｃｈａｏｓ"
         },
         {
             "address": "0x116377",
             "size": 16,
             "text": "はテレポートした",
-            "translation": ""
+            "translation": "　ｗａｒｐｅｄ！"
         },
         {
             "address": "0x11638a",
             "size": 12,
             "text": "を消し去った",
-            "translation": ""
+            "translation": "　ｇｏｎｅ"
         },
         {
             "address": "0x116399",
             "size": 20,
             "text": "の武器は炎に包まれた",
-            "translation": ""
+            "translation": "　ｆｉｒｅｂｌａｄｅ"
         },
         {
             "address": "0x1163b0",
             "size": 16,
             "text": "は浮かび上がった",
-            "translation": ""
+            "translation": "　ｆｌｏａｔｓ！"
         },
         {
             "address": "0x1163c3",
             "size": 16,
             "text": "の動きがにぶった",
-            "translation": ""
+            "translation": "　ｓｌｏｗｅｄ！"
         },
         {
             "address": "0x1163d6",
             "size": 18,
             "text": "の動きが早くなった",
-            "translation": ""
+            "translation": "　ｈａｓｔｅｎｅｄ"
         },
         {
             "address": "0x1163eb",
             "size": 20,
             "text": "の武器は光に包まれた",
-            "translation": ""
+            "translation": "Ｌｉｇｈｔｂｌａｄｅ"
         },
         {
             "address": "0x116402",
             "size": 18,
             "text": "魔法の効果を消した",
-            "translation": ""
+            "translation": "Ｍａｇｉｃ　ｏｆｆ"
         },
         {
             "address": "0x116417",
             "size": 8,
             "text": "のＬＰが",
-            "translation": ""
+            "translation": "　ＬＰ　"
         },
         {
             "address": "0x116422",
             "size": 16,
             "text": "ポイント回復した",
-            "translation": ""
+            "translation": "ｐ　ｈｅａｌｅｄ"
         },
         {
             "address": "0x116435",
             "size": 8,
             "text": "のＭＰが",
-            "translation": ""
+            "translation": "　ＭＰ　"
         },
         {
             "address": "0x116440",
             "size": 18,
             "text": "は意識を取り戻した",
-            "translation": ""
+            "translation": "　ａｗａｋｅｎｅｄ"
         },
         {
             "address": "0x116455",
             "size": 10,
             "text": "を破壊した",
-            "translation": ""
+            "translation": "Ｂｒｏｋｅ"
         },
         {
             "address": "0x116462",
             "size": 14,
             "text": "ポイント減った",
-            "translation": ""
+            "translation": "ｐ　ｄｏｗｎ！"
         },
         {
             "address": "0x116473",
             "size": 20,
             "text": "は死んだようになった",
-            "translation": ""
+            "translation": "Ｐｌａｙｓ　ｄｅａｄ"
         },
         {
             "address": "0x11648a",
             "size": 12,
             "text": "の毒は消えた",
-            "translation": ""
+            "translation": "　ｃｕｒｅｄ"
         },
         {
             "address": "0x116499",
             "size": 12,
             "text": "の病は治った",
-            "translation": ""
+            "translation": "　ｃｕｒｅｄ"
         },
         {
             "address": "0x1164a8",
             "size": 14,
             "text": "の麻痺は消えた",
-            "translation": ""
+            "translation": "　ｃｕｒｅｄ！"
         },
         {
             "address": "0x1164b9",
             "size": 14,
             "text": "は疲労してきた",
-            "translation": ""
+            "translation": "　ｔｉｒｅｄ！"
         },
         {
             "address": "0x1164ca",
             "size": 18,
             "text": "どうにか逃げのびた",
-            "translation": ""
+            "translation": "Ｅｓｃａｐｅｄ．．"
         },
         {
             "address": "0x1164df",
             "size": 24,
             "text": "逃げることができなかった",
-            "translation": ""
+            "translation": "Ｎｏ　ｑｕａｒｔｅｒ！"
         },
         {
             "address": "0x1164fa",
             "size": 14,
             "text": "敵は逃げ出した",
-            "translation": ""
+            "translation": "Ｒａｎ　ｏｆｆ"
         },
         {
             "address": "0x11650b",
             "size": 12,
             "text": "敵は降伏した",
-            "translation": ""
+            "translation": "ＧａｖｅＵｐ"
         },
         {
             "address": "0x11651a",
             "size": 16,
             "text": "誰にかけますか？",
-            "translation": ""
+            "translation": "Ｏｎ　ｗｈｏｍ？"
         },
         {
             "address": "0x11652d",
             "size": 14,
             "text": "は戦意を失った",
-            "translation": ""
+            "translation": "　ｐａｃｉｆｙ"
         },
         {
             "address": "0x11653e",
             "size": 18,
             "text": "どこにかけますか？",
-            "translation": ""
+            "translation": "Ｗｈｅｒｅ？"
         },
         {
             "address": "0x116553",
             "size": 18,
             "text": "どれにかけますか？",
-            "translation": ""
+            "translation": "Ｗｈｉｃｈ？"
         },
         {
             "address": "0x116568",
             "size": 16,
             "text": "ＭＰが足りません",
-            "translation": ""
+            "translation": "Ｎｏ　ＭＰ！"
         },
         {
             "address": "0x11657b",
             "size": 20,
             "text": "どこへ移動しますか？",
-            "translation": ""
+            "translation": "Ｍｏｖｅ　ｔｏ？"
         },
         {
             "address": "0x116592",
             "size": 20,
             "text": "どれを攻撃しますか？",
-            "translation": ""
+            "translation": "Ｗｈｉｃｈ？"
         },
         {
             "address": "0x1165a9",
             "size": 22,
             "text": "どの魔法を使いますか？",
-            "translation": ""
+            "translation": "Ｗｈａｔ　ｓｐｅｌｌ？"
         },
         {
             "address": "0x1165c2",
             "size": 26,
             "text": "どのアイテムを使いますか？",
-            "translation": ""
+            "translation": "Ｕｓｅ　ｗｈｉｃｈ？"
         },
         {
             "address": "0x1165df",
             "size": 24,
             "text": "該当する魔法を知りません",
-            "translation": ""
+            "translation": "Ｎｏ　ｍａｇｉｃ．"
         },
         {
             "address": "0x1165fa",
             "size": 34,
             "text": "呼び出すエレメントを指定して下さい",
-            "translation": ""
+            "translation": "Ｗｈｉｃｈ　ｅｌｅｍｅｎｔａｌ？"
         },
         {
             "address": "0x11661f",
             "size": 18,
             "text": "戦いを続けますか？",
-            "translation": ""
+            "translation": "Ｃｏｎｔｉｎｕｅ？"
         },
         {
             "address": "0x116634",
             "size": 32,
             "text": "辺り一帯は魔法の効果を封じられた",
-            "translation": ""
+            "translation": "Ｍａｇｉｃ　ｉｓ　ｓｅａｌｅｄ！"
         },
         {
             "address": "0x116657",
             "size": 20,
             "text": "は力が強くなってきた",
-            "translation": ""
+            "translation": "　ｐｏｗｅｒ　ｕｐ！"
         },
         {
             "address": "0x11666e",
             "size": 18,
             "text": "は身軽になってきた",
-            "translation": ""
+            "translation": "　ａｇｉｌ　ｕｐ！"
         },
         {
             "address": "0x116683",
             "size": 4,
             "text": "は　",
-            "translation": ""
+            "translation": "："
         },
         {
             "address": "0x11668a",
             "size": 2,
             "text": "に",
-            "translation": ""
+            "translation": "ｘ"
         },
         {
             "address": "0x11668f",
             "size": 8,
             "text": "回当たり",
-            "translation": ""
+            "translation": "ｈｉｔｓ"
         },
         {
             "address": "0x11669a",
             "size": 18,
             "text": "のダメージを与えた",
-            "translation": ""
+            "translation": "ｐ　ｄａｍａｇｅ！"
         },
         {
             "address": "0x1166af",
             "size": 38,
             "text": "C2ミス！！　C7攻撃をかわされてしまった",
-            "translation": ""
+            "translation": "C2Ｍｉｓｓ！C7Ａｔｋ　ｄｏｄｇｅｄ．"
         },
         {
             "address": "0x1166d8",
             "size": 8,
             "text": "しかし、",
-            "translation": ""
+            "translation": "Ｂｕｔ，"
         },
         {
             "address": "0x1166e3",
             "size": 26,
             "text": "は敵の攻撃をうまくかわした",
-            "translation": ""
+            "translation": "　ｅｖａｄｅｄ　ａｔｋ！"
         },
         {
             "address": "0x116700",
             "size": 20,
             "text": "は痛くもかゆくもない",
-            "translation": ""
+            "translation": "ＦｅｅｌＮｏＰａｉｎ"
         },
         {
             "address": "0x116717",
             "size": 20,
             "text": "モンスターは全滅した",
-            "translation": ""
+            "translation": "Ｖｉｃｔｏｒｙ！！"
         },
         {
             "address": "0x11672e",
             "size": 22,
             "text": "パーティーはそれぞれ、",
-            "translation": ""
+            "translation": "Ｅａｃｈ　ｇａｉｎ"
         },
         {
             "address": "0x116747",
             "size": 22,
             "text": "ポイントの経験値を得た",
-            "translation": ""
+            "translation": "ｐ　ｏｆ　ＥＸＰ．"
         },
         {
             "address": "0x116760",
             "size": 20,
             "text": "パーティーは全滅した",
-            "translation": ""
+            "translation": "Ｐａｒｔｙ　ＫＯ．．"
         },
         {
             "address": "0x116777",
             "size": 4,
             "text": "魔法",
-            "translation": ""
+            "translation": "Ｍｇ"
         },
         {
             "address": "0x11677e",
             "size": 4,
             "text": "防御",
-            "translation": ""
+            "translation": "Ｄｆ"
         },
         {
             "address": "0x116785",
             "size": 4,
             "text": "前列",
-            "translation": ""
+            "translation": "ＶＧ"
         },
         {
             "address": "0x11678c",
             "size": 6,
             "text": "C5後列",
-            "translation": ""
+            "translation": "C5ＲＧ"
         },
         {
             "address": "0x116795",
@@ -994,43 +994,43 @@
             "address": "0x11679e",
             "size": 8,
             "text": "　正常　",
-            "translation": ""
+            "translation": "　ＯＫ　"
         },
         {
             "address": "0x1167a9",
             "size": 10,
             "text": "　C2死亡　",
-            "translation": ""
+            "translation": "C2Ｄｅａｄ"
         },
         {
             "address": "0x1167b6",
             "size": 10,
             "text": "　C3石化　",
-            "translation": ""
+            "translation": "　C3ＳＴ　"
         },
         {
             "address": "0x1167c3",
             "size": 10,
             "text": "　C3麻痺　",
-            "translation": ""
+            "translation": "　C3ＰＡ　"
         },
         {
             "address": "0x1167d0",
             "size": 10,
             "text": "C3意識不明",
-            "translation": ""
+            "translation": "C3Ｃｏｎｆ"
         },
         {
             "address": "0x1167dd",
             "size": 10,
             "text": "　C3気絶　",
-            "translation": ""
+            "translation": "　C3ＫＯ　"
         },
         {
             "address": "0x1167ea",
             "size": 10,
             "text": "C5精神疲労",
-            "translation": ""
+            "translation": "C5Ｃｒａｚ"
         },
         {
             "address": "0x1167f7",
@@ -1042,961 +1042,961 @@
             "address": "0x116806",
             "size": 10,
             "text": "　C5病気　",
-            "translation": ""
+            "translation": "C5Ｓｉｃｋ"
         },
         {
             "address": "0x116813",
             "size": 8,
             "text": "　浮遊　",
-            "translation": ""
+            "translation": "　ＦＬ　"
         },
         {
             "address": "0x11681e",
             "size": 10,
             "text": "　C6睡眠　",
-            "translation": ""
+            "translation": "　C6ＳＬ　"
         },
         {
             "address": "0x11682b",
             "size": 10,
             "text": "　C6混乱　",
-            "translation": ""
+            "translation": "　C6ＣＨ　"
         },
         {
             "address": "0x116838",
             "size": 18,
             "text": "ゴールド手に入れた",
-            "translation": ""
+            "translation": "Ｇ　ｆｏｕｎｄ．"
         },
         {
             "address": "0x11684d",
             "size": 10,
             "text": "　C3着網　",
-            "translation": ""
+            "translation": "C3Ｎｅｔ"
         },
         {
             "address": "0x11685a",
             "size": 20,
             "text": "は素早く身をかわした",
-            "translation": ""
+            "translation": "　ｄｏｄｇｅｄ！"
         },
         {
             "address": "0x116871",
             "size": 32,
             "text": "しかし、魔法は封じ込められている",
-            "translation": ""
+            "translation": "Ｍａｇｉｃ　ｉｓ　ｓｅａｌｅｄ．"
         },
         {
             "address": "0x116894",
             "size": 26,
             "text": "パーティーは宝箱を見つけた",
-            "translation": ""
+            "translation": "Ｔｒｅａｓｕｒｅ　ｂｏｘ！"
         },
         {
             "address": "0x1168b1",
             "size": 16,
             "text": "誰が開けますか？",
-            "translation": ""
+            "translation": "Ｏｐｅｎｅｒ："
         },
         {
             "address": "0x1168c4",
             "size": 12,
             "text": "を手に入れた",
-            "translation": ""
+            "translation": "　ｆｏｕｎｄ"
         },
         {
             "address": "0x1168d3",
             "size": 28,
             "text": "はこれを開けることができない",
-            "translation": ""
+            "translation": "　ｃａｎ´ｔ　ｏｐｅｎ　ｉｔ"
         },
         {
             "address": "0x1168f2",
             "size": 28,
             "text": "パーティーは宝箱をあきらめた",
-            "translation": ""
+            "translation": "Ｌｅｆｔ　ｔｈｅ　ｃｈｅｓｔ"
         },
         {
             "address": "0x116911",
             "size": 32,
             "text": "はうまく毒針をかわすことができた",
-            "translation": ""
+            "translation": "ＤｏｄｇｅｄＰｏｉｓｏｎＤａｒｔ"
         },
         {
             "address": "0x116934",
             "size": 20,
             "text": "罠を外すのに成功した",
-            "translation": ""
+            "translation": "ＴｒａｐＤｉｓａｒｍ"
         },
         {
             "address": "0x11694b",
             "size": 22,
             "text": "C2罠を外すのに失敗した",
-            "translation": ""
+            "translation": "C2ＤｉｓａｒｍＦａｉｌ"
         },
         {
             "address": "0x116964",
             "size": 8,
             "text": "毒針だ！",
-            "translation": ""
+            "translation": "Ｐｏｉｓ"
         },
         {
             "address": "0x11696f",
             "size": 20,
             "text": "マインドブラストだ！",
-            "translation": ""
+            "translation": "ＭｉｎｄＢｌａｓｔ！"
         },
         {
             "address": "0x116986",
             "size": 8,
             "text": "ガスだ！",
-            "translation": ""
+            "translation": "Ｇａｓ！"
         },
         {
             "address": "0x116991",
             "size": 14,
             "text": "は宝箱を開けた",
-            "translation": ""
+            "translation": "　ｏｐｅｎｅｄ"
         },
         {
             "address": "0x1169a2",
             "size": 10,
             "text": "スケルトン",
-            "translation": ""
+            "translation": "Ｂｏｎｅｓ"
         },
         {
             "address": "0x1169af",
             "size": 6,
             "text": "リッチ",
-            "translation": ""
+            "translation": "Ｌｃｈ"
         },
         {
             "address": "0x1169b8",
             "size": 28,
             "text": "ドラゴントゥースウォーリアー",
-            "translation": ""
+            "translation": "Ｄｒａｇｏｎｔｏｏｔｈ Ｗｒ"
         },
         {
             "address": "0x1169d7",
             "size": 6,
             "text": "ゾンビ",
-            "translation": ""
+            "translation": "Ｚｏｍ"
         },
         {
             "address": "0x1169e0",
             "size": 6,
             "text": "グール",
-            "translation": ""
+            "translation": "Ｇｈｕ"
         },
         {
             "address": "0x1169e9",
             "size": 6,
             "text": "ワイト",
-            "translation": ""
+            "translation": "Ｗｙｔ"
         },
         {
             "address": "0x1169f2",
             "size": 6,
             "text": "レイス",
-            "translation": ""
+            "translation": "Ｗｒａ"
         },
         {
             "address": "0x1169fb",
             "size": 10,
             "text": "スペクター",
-            "translation": ""
+            "translation": "Ｓｐｃｔｒ"
         },
         {
             "address": "0x116a08",
             "size": 16,
             "text": "ポルターガイスト",
-            "translation": ""
+            "translation": "Ｐｏｌｔｒｇｓｔ"
         },
         {
             "address": "0x116a1b",
             "size": 8,
             "text": "ゴースト",
-            "translation": ""
+            "translation": "Ｇｈｓｔ"
         },
         {
             "address": "0x116a26",
             "size": 10,
             "text": "ファントム",
-            "translation": ""
+            "translation": "Ｐｈｎｔｍ"
         },
         {
             "address": "0x116a33",
             "size": 12,
             "text": "ヴァンパイア",
-            "translation": ""
+            "translation": "Ｖｍｐｉｒｅ"
         },
         {
             "address": "0x116a42",
             "size": 20,
             "text": "レッサーヴァンパイア",
-            "translation": ""
+            "translation": "ＬｅｓｓｅｒＶａｍｐ"
         },
         {
             "address": "0x116a59",
             "size": 8,
             "text": "バンシー",
-            "translation": ""
+            "translation": "ＢａｎＣ"
         },
         {
             "address": "0x116a64",
             "size": 6,
             "text": "シルフ",
-            "translation": ""
+            "translation": "Ｓｙｌ"
         },
         {
             "address": "0x116a6d",
             "size": 12,
             "text": "ドライアード",
-            "translation": ""
+            "translation": "Ｄｒｙａｄ"
         },
         {
             "address": "0x116a7c",
             "size": 10,
             "text": "マーメイド",
-            "translation": ""
+            "translation": "Ｍｅｒｍｙ"
         },
         {
             "address": "0x116a89",
             "size": 22,
             "text": "ウィル・オー・ウィスプ",
-            "translation": ""
+            "translation": "Ｗｉｌ－ｏ－Ｗｉｓｐ"
         },
         {
             "address": "0x116aa2",
             "size": 14,
             "text": "エナジーボール",
-            "translation": ""
+            "translation": "ＮＲＧＢａｌｌ"
         },
         {
             "address": "0x116ab3",
             "size": 4,
             "text": "ジン",
-            "translation": ""
+            "translation": "Ｄｊ"
         },
         {
             "address": "0x116aba",
             "size": 10,
             "text": "エフリート",
-            "translation": ""
+            "translation": "Ｉｆｒｉｔ"
         },
         {
             "address": "0x116ac7",
             "size": 8,
             "text": "シェード",
-            "translation": ""
+            "translation": "Ｓｈｄｅ"
         },
         {
             "address": "0x116ad2",
             "size": 10,
             "text": "フューリー",
-            "translation": ""
+            "translation": "Ｆｕｒｙ"
         },
         {
             "address": "0x116adf",
             "size": 6,
             "text": "ウルフ",
-            "translation": ""
+            "translation": "Ｗｌｆ"
         },
         {
             "address": "0x116ae8",
             "size": 10,
             "text": "ワーウルフ",
-            "translation": ""
+            "translation": "ＷｅｒｅＷ"
         },
         {
             "address": "0x116af5",
             "size": 12,
             "text": "ゲイズボアー",
-            "translation": ""
+            "translation": "ＧａｚｅＢｒ"
         },
         {
             "address": "0x116b04",
             "size": 4,
             "text": "ベア",
-            "translation": ""
+            "translation": "Ｂｒ"
         },
         {
             "address": "0x116b0b",
             "size": 8,
             "text": "ワーベア",
-            "translation": ""
+            "translation": "Ｄｉｒｅ"
         },
         {
             "address": "0x116b16",
             "size": 18,
             "text": "ジャイアントアント",
-            "translation": ""
+            "translation": "Ｇｉａｎｔ　Ａｎｔ"
         },
         {
             "address": "0x116b2b",
             "size": 20,
             "text": "プレイングマンティス",
-            "translation": ""
+            "translation": "ＰｒｅｙＭａｎｔｉｓ"
         },
         {
             "address": "0x116b42",
             "size": 10,
             "text": "スパイダー",
-            "translation": ""
+            "translation": "Ｓｐｉｄｒ"
         },
         {
             "address": "0x116b4f",
             "size": 12,
             "text": "タランチュラ",
-            "translation": ""
+            "translation": "Ｔａｒａｎｔ"
         },
         {
             "address": "0x116b5e",
             "size": 16,
             "text": "ブラックウィドウ",
-            "translation": ""
+            "translation": "Ｂ．Ｗｉｄｏｗ"
         },
         {
             "address": "0x116b71",
             "size": 24,
             "text": "ジャイアントスコーピオン",
-            "translation": ""
+            "translation": "Ｇｉａｎｔ　Ｓｃｏｒｐ．"
         },
         {
             "address": "0x116b8c",
             "size": 20,
             "text": "デューンスコーピオン",
-            "translation": ""
+            "translation": "Ｄｕｎｅ　Ｓｃｏｒｐ"
         },
         {
             "address": "0x116ba3",
             "size": 6,
             "text": "ラット",
-            "translation": ""
+            "translation": "Ｒａｔ"
         },
         {
             "address": "0x116bac",
             "size": 10,
             "text": "ワーラット",
-            "translation": ""
+            "translation": "Ｗｅｒａｔ"
         },
         {
             "address": "0x116bb9",
             "size": 18,
             "text": "ジャイアントバット",
-            "translation": ""
+            "translation": "Ｇｉａｎｔ　Ｒａｔ"
         },
         {
             "address": "0x116bce",
             "size": 18,
             "text": "ヴァンパイアバット",
-            "translation": ""
+            "translation": "ＶａｍｐｉｒＢａｔ"
         },
         {
             "address": "0x116be3",
             "size": 14,
             "text": "ブラッドバット",
-            "translation": ""
+            "translation": "ＢｌｕｄＢａｔ"
         },
         {
             "address": "0x116bf4",
             "size": 16,
             "text": "デサートウォーム",
-            "translation": ""
+            "translation": "ＤｅｓｒｔＷｒｍ"
         },
         {
             "address": "0x116c07",
             "size": 16,
             "text": "スワンプウォーム",
-            "translation": ""
+            "translation": "ＳｗａｍｐＷｒｍ"
         },
         {
             "address": "0x116c1a",
             "size": 8,
             "text": "スネーク",
-            "translation": ""
+            "translation": "Ｓｎｅｋ"
         },
         {
             "address": "0x116c25",
             "size": 8,
             "text": "バイパー",
-            "translation": ""
+            "translation": "Ｖｉｐｒ"
         },
         {
             "address": "0x116c30",
             "size": 10,
             "text": "サーペント",
-            "translation": ""
+            "translation": "Ｓｒｐｎｔ"
         },
         {
             "address": "0x116c3d",
             "size": 16,
             "text": "ケツアルクアトル",
-            "translation": ""
+            "translation": "Ｑｕｅｔｚａｌ"
         },
         {
             "address": "0x116c50",
             "size": 6,
             "text": "ワーム",
-            "translation": ""
+            "translation": "Ｗｒｍ"
         },
         {
             "address": "0x116c59",
             "size": 18,
             "text": "ツーヘッドスネーク",
-            "translation": ""
+            "translation": "ＴｗｉｎＳｎａｋｅ"
         },
         {
             "address": "0x116c6e",
             "size": 12,
             "text": "ダークエルフ",
-            "translation": ""
+            "translation": "ＤｒｋＥｌｆ"
         },
         {
             "address": "0x116c7d",
             "size": 12,
             "text": "ダークロード",
-            "translation": ""
+            "translation": "ＤｋＬｏｒｄ"
         },
         {
             "address": "0x116c8c",
             "size": 16,
             "text": "ダークプリースト",
-            "translation": ""
+            "translation": "ＤｋＰｒｉｅｓｔ"
         },
         {
             "address": "0x116c9f",
             "size": 16,
             "text": "ダークマジシャン",
-            "translation": ""
+            "translation": "ＤｋＳｈａｍａｎ"
         },
         {
             "address": "0x116cb2",
             "size": 16,
             "text": "ストーンゴーレム",
-            "translation": ""
+            "translation": "ＳｔｎＧｏｌｅｍ"
         },
         {
             "address": "0x116cc5",
             "size": 16,
             "text": "アイアンゴーレム",
-            "translation": ""
+            "translation": "ＩｒｎＧｏｌｅｍ"
         },
         {
             "address": "0x116cd8",
             "size": 14,
             "text": "ウッドゴーレム",
-            "translation": ""
+            "translation": "ＷｏｏｄＧｌｍ"
         },
         {
             "address": "0x116ce9",
             "size": 18,
             "text": "フレッシュゴーレム",
-            "translation": ""
+            "translation": "ＦｌｅｓｈＧｏｌｍ"
         },
         {
             "address": "0x116cfe",
             "size": 8,
             "text": "ゴブリン",
-            "translation": ""
+            "translation": "Ｇｏｂ"
         },
         {
             "address": "0x116d09",
             "size": 18,
             "text": "ゴブリンシャーマン",
-            "translation": ""
+            "translation": "ＧｏｂＳｈａｍａｎ"
         },
         {
             "address": "0x116d1e",
             "size": 8,
             "text": "コボルド",
-            "translation": ""
+            "translation": "Ｋｏｂｏ"
         },
         {
             "address": "0x116d29",
             "size": 18,
             "text": "コボルドチーフテン",
-            "translation": ""
+            "translation": "ＫｏｂｏｌｄＣｈｆ"
         },
         {
             "address": "0x116d3e",
             "size": 12,
             "text": "レプラカーン",
-            "translation": ""
+            "translation": "Ｌｅｐｒｃｈ"
         },
         {
             "address": "0x116d4d",
             "size": 12,
             "text": "ホブゴブリン",
-            "translation": ""
+            "translation": "ＨｏｂＧｏｂ"
         },
         {
             "address": "0x116d5c",
             "size": 14,
             "text": "ゴブリンキング",
-            "translation": ""
+            "translation": "ＧｏｂＫｉｎｇ"
         },
         {
             "address": "0x116d6d",
             "size": 8,
             "text": "オーガー",
-            "translation": ""
+            "translation": "Ｏｇｒｅ"
         },
         {
             "address": "0x116d78",
             "size": 8,
             "text": "トロール",
-            "translation": ""
+            "translation": "Ｔｒｏｌ"
         },
         {
             "address": "0x116d83",
             "size": 12,
             "text": "ミノタウロス",
-            "translation": ""
+            "translation": "Ｍｉｎｏｔａ"
         },
         {
             "address": "0x116d92",
             "size": 24,
             "text": "フォーレストジャイアント",
-            "translation": ""
+            "translation": "Ｆｏｒｅｓｔ　Ｇｉａｎｔ"
         },
         {
             "address": "0x116dad",
             "size": 16,
             "text": "ヒルジャイアント",
-            "translation": ""
+            "translation": "ＨｉｌｌＧｉａｎ"
         },
         {
             "address": "0x116dc0",
             "size": 8,
             "text": "ベヒモス",
-            "translation": ""
+            "translation": "Ｂｅｈｍ"
         },
         {
             "address": "0x116dcb",
             "size": 20,
             "text": "ファイアジャイアント",
-            "translation": ""
+            "translation": "Ｆｉｒｅ　Ｇｉａｎｔ"
         },
         {
             "address": "0x116de2",
             "size": 20,
             "text": "フロストジャイアント",
-            "translation": ""
+            "translation": "ＦｒｏｓｔＧｉａｎｔ"
         },
         {
             "address": "0x116df9",
             "size": 20,
             "text": "ストームジャイアント",
-            "translation": ""
+            "translation": "ＳｔｏｒｍＧｉａｎｔ"
         },
         {
             "address": "0x116e10",
             "size": 12,
             "text": "サイクロプス",
-            "translation": ""
+            "translation": "Ｃｙｃｌｏｐ"
         },
         {
             "address": "0x116e1f",
             "size": 10,
             "text": "コロッサス",
-            "translation": ""
+            "translation": "Ｃｌｓｕｓ"
         },
         {
             "address": "0x116e2c",
             "size": 12,
             "text": "リザードマン",
-            "translation": ""
+            "translation": "ＬｉｚＭａｎ"
         },
         {
             "address": "0x116e3b",
             "size": 8,
             "text": "マーマン",
-            "translation": ""
+            "translation": "Ｍｙｒｍ"
         },
         {
             "address": "0x116e46",
             "size": 8,
             "text": "デーモン",
-            "translation": ""
+            "translation": "Ｄｅｍｎ"
         },
         {
             "address": "0x116e51",
             "size": 14,
             "text": "アークデーモン",
-            "translation": ""
+            "translation": "Ａｒｃｄｅｍｎ"
         },
         {
             "address": "0x116e62",
             "size": 10,
             "text": "ガーゴイル",
-            "translation": ""
+            "translation": "Ｇａｒｇｏ"
         },
         {
             "address": "0x116e6f",
             "size": 10,
             "text": "グレムリン",
-            "translation": ""
+            "translation": "Ｇｒｅｍｌ"
         },
         {
             "address": "0x116e7c",
             "size": 6,
             "text": "インプ",
-            "translation": ""
+            "translation": "Ｉｍｐ"
         },
         {
             "address": "0x116e85",
             "size": 8,
             "text": "ピクシー",
-            "translation": ""
+            "translation": "Ｐｉｘｉ"
         },
         {
             "address": "0x116e90",
             "size": 8,
             "text": "スライム",
-            "translation": ""
+            "translation": "Ｓｌｉｍ"
         },
         {
             "address": "0x116e9b",
             "size": 8,
             "text": "ブロッブ",
-            "translation": ""
+            "translation": "Ｂｌｏｂ"
         },
         {
             "address": "0x116ea6",
             "size": 12,
             "text": "ワーグウルフ",
-            "translation": ""
+            "translation": "Ｗａｒｇ"
         },
         {
             "address": "0x116eb5",
             "size": 12,
             "text": "ヘルハウンド",
-            "translation": ""
+            "translation": "ＨｅｌＨｎｄ"
         },
         {
             "address": "0x116ec4",
             "size": 12,
             "text": "スノーウルフ",
-            "translation": ""
+            "translation": "ＳｎｏＷｌｆ"
         },
         {
             "address": "0x116ed3",
             "size": 10,
             "text": "グリフィン",
-            "translation": ""
+            "translation": "Ｇｒｙｐｈ"
         },
         {
             "address": "0x116ee0",
             "size": 12,
             "text": "ヒッポグリフ",
-            "translation": ""
+            "translation": "Ｈｙｐｏｇｒ"
         },
         {
             "address": "0x116eef",
             "size": 10,
             "text": "ワイバーン",
-            "translation": ""
+            "translation": "Ｗｙｖｒｎ"
         },
         {
             "address": "0x116efc",
             "size": 8,
             "text": "ドラゴン",
-            "translation": ""
+            "translation": "Ｄｒａｇ"
         },
         {
             "address": "0x116f07",
             "size": 6,
             "text": "ロック",
-            "translation": ""
+            "translation": "Ｒｏｃ"
         },
         {
             "address": "0x116f10",
             "size": 10,
             "text": "ハーピィー",
-            "translation": ""
+            "translation": "Ｈａｒｐｙ"
         },
         {
             "address": "0x116f1d",
             "size": 6,
             "text": "ヒドラ",
-            "translation": ""
+            "translation": "Ｈｙｄ"
         },
         {
             "address": "0x116f26",
             "size": 12,
             "text": "マンティコア",
-            "translation": ""
+            "translation": "Ｍａｎｔｃｒ"
         },
         {
             "address": "0x116f35",
             "size": 6,
             "text": "キメラ",
-            "translation": ""
+            "translation": "Ｃｈｉ"
         },
         {
             "address": "0x116f3e",
             "size": 12,
             "text": "ストーンブル",
-            "translation": ""
+            "translation": "ＳｔｏｎＢｌ"
         },
         {
             "address": "0x116f4d",
             "size": 12,
             "text": "メデューサー",
-            "translation": ""
+            "translation": "Ｍｅｄｕｓａ"
         },
         {
             "address": "0x116f5c",
             "size": 10,
             "text": "コカトリス",
-            "translation": ""
+            "translation": "Ｃｏｋｔｒ"
         },
         {
             "address": "0x116f69",
             "size": 12,
             "text": "フェニックス",
-            "translation": ""
+            "translation": "Ｐｈｏｅｎｘ"
         },
         {
             "address": "0x116f78",
             "size": 10,
             "text": "バジリスク",
-            "translation": ""
+            "translation": "Ｂａｓｌｋ"
         },
         {
             "address": "0x116f85",
             "size": 20,
             "text": "ジャイアントリザード",
-            "translation": ""
+            "translation": "ＧｉａｎｔＬｉｚｒｄ"
         },
         {
             "address": "0x116f9c",
             "size": 12,
             "text": "サラマンダー",
-            "translation": ""
+            "translation": "Ｓｌｍａｎｄ"
         },
         {
             "address": "0x116fab",
             "size": 6,
             "text": "シーフ",
-            "translation": ""
+            "translation": "Ｔｈｆ"
         },
         {
             "address": "0x116fb4",
             "size": 10,
             "text": "アサッシン",
-            "translation": ""
+            "translation": "Ａｓａｓｎ"
         },
         {
             "address": "0x116fc1",
             "size": 12,
             "text": "バンディット",
-            "translation": ""
+            "translation": "Ｂａｎｄｉｔ"
         },
         {
             "address": "0x116fd0",
             "size": 10,
             "text": "パイレーツ",
-            "translation": ""
+            "translation": "Ｐｉｒａｔ"
         },
         {
             "address": "0x116fdd",
             "size": 10,
             "text": "ソルジャー",
-            "translation": ""
+            "translation": "Ｓｏｌｄｒ"
         },
         {
             "address": "0x116fea",
             "size": 16,
             "text": "グラディエイター",
-            "translation": ""
+            "translation": "Ｇｌａｄｉａｔｒ"
         },
         {
             "address": "0x116ffd",
             "size": 12,
             "text": "ダークナイト",
-            "translation": ""
+            "translation": "ＤａｒｋＫｎ"
         },
         {
             "address": "0x11700c",
             "size": 14,
             "text": "ネクロマンサー",
-            "translation": ""
+            "translation": "Ｎｅｃｒｏｍａ"
         },
         {
             "address": "0x11701d",
             "size": 14,
             "text": "ブラックメイジ",
-            "translation": ""
+            "translation": "ＢｌａｃｋＭｇ"
         },
         {
             "address": "0x11702e",
             "size": 12,
             "text": "ウォーロック",
-            "translation": ""
+            "translation": "Ｗａｒｌｏｋ"
         },
         {
             "address": "0x11703d",
             "size": 16,
             "text": "ダークプリースト",
-            "translation": ""
+            "translation": "ＤｋＰｒｉｅｓｔ"
         },
         {
             "address": "0x117050",
             "size": 22,
             "text": "ウォーリアープリースト",
-            "translation": ""
+            "translation": "ＷａｒｒｉｏｒＰｒｓｔ"
         },
         {
             "address": "0x117069",
             "size": 6,
             "text": "カーラ",
-            "translation": ""
+            "translation": "Ｋａｒ"
         },
         {
             "address": "0x117072",
             "size": 8,
             "text": "ファーン",
-            "translation": ""
+            "translation": "Ｆａｈｎ"
         },
         {
             "address": "0x11707d",
             "size": 6,
             "text": "ベルド",
-            "translation": ""
+            "translation": "Ｂｅｌ"
         },
         {
             "address": "0x117086",
             "size": 14,
             "text": "リザードキング",
-            "translation": ""
+            "translation": "ＬｚｒｄＫｎｇ"
         },
         {
             "address": "0x117097",
             "size": 4,
             "text": "村娘",
-            "translation": ""
+            "translation": "Ｇｒ"
         },
         {
             "address": "0x11709e",
             "size": 22,
             "text": "ファイア・エレメンタル",
-            "translation": ""
+            "translation": "ＦｉｒｅＥｌｅｍｅｎｔ"
         },
         {
             "address": "0x1170b7",
             "size": 20,
             "text": "アース・エレメンタル",
-            "translation": ""
+            "translation": "ＥａｒｔｈＥｌｅｍｎ"
         },
         {
             "address": "0x1170ce",
             "size": 24,
             "text": "ウォーター・エレメンタル",
-            "translation": ""
+            "translation": "ＷａｔｅｒＥｌｅｍｅｎｔ"
         },
         {
             "address": "0x1170e9",
             "size": 18,
             "text": "エア・エレメンタル",
-            "translation": ""
+            "translation": "ＡｉｒＥｌｍｎｔｌ"
         },
         {
             "address": "0x1170fe",
             "size": 20,
             "text": "ウォリアー・ヒーロー",
-            "translation": ""
+            "translation": "ＷａｒｉｏｒＨｅｒｏ"
         },
         {
             "address": "0x117115",
             "size": 16,
             "text": "ナイト・ヒーロー",
-            "translation": ""
+            "translation": "ＨｅｒｏＫｎ"
         },
         {
             "address": "0x117128",
             "size": 18,
             "text": "スカウト・ヒーロー",
-            "translation": ""
+            "translation": "ＨｅｒｏＳｃｏｕｔ"
         },
         {
             "address": "0x11713d",
             "size": 20,
             "text": "プリースト・ヒーロー",
-            "translation": ""
+            "translation": "ＨｅｒｏＰｒｉｅｓｔ"
         },
         {
             "address": "0x117154",
             "size": 20,
             "text": "シャーマン・ヒーロー",
-            "translation": ""
+            "translation": "ＨｅｒｏＳｈａｍａｎ"
         },
         {
             "address": "0x11716b",
             "size": 20,
             "text": "ソーサラー・ヒーロー",
-            "translation": ""
+            "translation": "ＨｅｒｏＳｏｒｃｅｒ"
         },
         {
             "address": "0x117182",
             "size": 20,
             "text": "ウィザード・ヒーロー",
-            "translation": ""
+            "translation": "ＨｅｒｏＷｉｚａｒｄ"
         },
         {
             "address": "0x117199",
             "size": 10,
             "text": "アンドーナ",
-            "translation": ""
+            "translation": "Ａｎｄｎａ"
         },
         {
             "address": "0x1171a6",
             "size": 8,
             "text": "女魔術師",
-            "translation": ""
+            "translation": "Ｗｉｔｃ"
         },
         {
             "address": "0x1171b1",
             "size": 4,
             "text": "傭兵",
-            "translation": ""
+            "translation": "Ｍｃ"
         },
         {
             "address": "0x1171b8",
             "size": 6,
             "text": "聖騎士",
-            "translation": ""
+            "translation": "ＨＫｎ"
         },
         {
             "address": "0x1171be",
             "size": 22,
             "text": "{1a}ゥースウォーリアー",
-            "translation": ""
+            "translation": "{1a}　Ｗａｒｒｉｏｒ"
         },
         {
             "address": "0x1171d7",
             "size": 6,
             "text": "ゾンビ",
-            "translation": ""
+            "translation": "Ｚｏｍ"
         },
         {
             "address": "0x1171e0",
             "size": 6,
             "text": "グール",
-            "translation": ""
+            "translation": "Ｇｕｌ"
         },
         {
             "address": "0x1171e9",
             "size": 6,
             "text": "ワイト",
-            "translation": ""
+            "translation": "Ｗｙｔ"
         },
         {
             "address": "0x1171f2",
             "size": 6,
             "text": "レイス",
-            "translation": ""
+            "translation": "Ｗｒａ"
         },
         {
             "address": "0x1171fb",
@@ -2008,565 +2008,565 @@
             "address": "0x117209",
             "size": 10,
             "text": "ダガー＋１",
-            "translation": ""
+            "translation": "Ｄａｇ＋１"
         },
         {
             "address": "0x117216",
             "size": 10,
             "text": "ダガー＋２",
-            "translation": ""
+            "translation": "Ｄａｇ＋２"
         },
         {
             "address": "0x117223",
             "size": 10,
             "text": "ダガー＋３",
-            "translation": ""
+            "translation": "Ｄａｇ＋３"
         },
         {
             "address": "0x117230",
             "size": 14,
             "text": "ショートソード",
-            "translation": ""
+            "translation": "ＳｈｔＳｗｒｄ"
         },
         {
             "address": "0x117241",
             "size": 18,
             "text": "ショートソード＋１",
-            "translation": ""
+            "translation": "ＳｈｔＳｗｒｄ＋１"
         },
         {
             "address": "0x117256",
             "size": 18,
             "text": "ショートソード＋２",
-            "translation": ""
+            "translation": "ＳｈｔＳｗｒｄ＋２"
         },
         {
             "address": "0x11726b",
             "size": 18,
             "text": "ショートソード＋３",
-            "translation": ""
+            "translation": "ＳｈｔＳｗｒｄ＋３"
         },
         {
             "address": "0x117280",
             "size": 14,
             "text": "ブロードソード",
-            "translation": ""
+            "translation": "ＢｒｏａｄＳｗ"
         },
         {
             "address": "0x117291",
             "size": 18,
             "text": "ブロードソード＋１",
-            "translation": ""
+            "translation": "ＢｒｏａｄＳｗ＋１"
         },
         {
             "address": "0x1172a6",
             "size": 18,
             "text": "ブロードソード＋２",
-            "translation": ""
+            "translation": "ＢｒｏａｄＳｗ＋２"
         },
         {
             "address": "0x1172bb",
             "size": 18,
             "text": "ブロードソード＋３",
-            "translation": ""
+            "translation": "ＢｒｏａｄＳｗ＋３"
         },
         {
             "address": "0x1172d0",
             "size": 16,
             "text": "バスタードソード",
-            "translation": ""
+            "translation": "ＢａｓｔＳｗｒｄ"
         },
         {
             "address": "0x1172e3",
             "size": 20,
             "text": "バスタードソード＋１",
-            "translation": ""
+            "translation": "ＢａｓｔＳｗｒｄ＋１"
         },
         {
             "address": "0x1172fa",
             "size": 20,
             "text": "バスタードソード＋２",
-            "translation": ""
+            "translation": "ＢａｓｔＳｗｒｄ＋２"
         },
         {
             "address": "0x117311",
             "size": 14,
             "text": "グレートソード",
-            "translation": ""
+            "translation": "ＧｒｅａｔＳｗ"
         },
         {
             "address": "0x117322",
             "size": 18,
             "text": "グレートソード＋１",
-            "translation": ""
+            "translation": "ＧｒｅａｔＳｗ＋１"
         },
         {
             "address": "0x117337",
             "size": 18,
             "text": "グレートソード＋２",
-            "translation": ""
+            "translation": "ＧｒｅａｔＳｗ＋２"
         },
         {
             "address": "0x11734c",
             "size": 18,
             "text": "グレートソード＋３",
-            "translation": ""
+            "translation": "ＧｒｅａｔＳｗ＋３"
         },
         {
             "address": "0x117361",
             "size": 14,
             "text": "ショートスピア",
-            "translation": ""
+            "translation": "ＳｍＳｐｅａｒ"
         },
         {
             "address": "0x117372",
             "size": 18,
             "text": "ショートスピア＋１",
-            "translation": ""
+            "translation": "ＳｍＳｐｅａｒ＋１"
         },
         {
             "address": "0x117387",
             "size": 18,
             "text": "ショートスピア＋２",
-            "translation": ""
+            "translation": "ＳｍＳｐｅａｒ＋２"
         },
         {
             "address": "0x11739c",
             "size": 12,
             "text": "ロングスピア",
-            "translation": ""
+            "translation": "ＬＳｐｅａｒ"
         },
         {
             "address": "0x1173ab",
             "size": 16,
             "text": "ロングスピア＋１",
-            "translation": ""
+            "translation": "ＬＳｐｅａｒ＋１"
         },
         {
             "address": "0x1173be",
             "size": 16,
             "text": "ロングスピア＋２",
-            "translation": ""
+            "translation": "ＬＳｐｅａｒ＋２"
         },
         {
             "address": "0x1173d1",
             "size": 16,
             "text": "ロングスピア＋３",
-            "translation": ""
+            "translation": "ＬＳｐｅａｒ＋３"
         },
         {
             "address": "0x1173e4",
             "size": 14,
             "text": "ハンドアックス",
-            "translation": ""
+            "translation": "Ｈａｎｄａｘｅ"
         },
         {
             "address": "0x1173f5",
             "size": 18,
             "text": "ハンドアックス＋１",
-            "translation": ""
+            "translation": "Ｈａｎｄａｘｅ＋１"
         },
         {
             "address": "0x11740a",
             "size": 18,
             "text": "ハンドアックス＋２",
-            "translation": ""
+            "translation": "Ｈａｎｄａｘｅ＋２"
         },
         {
             "address": "0x11741f",
             "size": 18,
             "text": "ハンドアックス＋３",
-            "translation": ""
+            "translation": "Ｈａｎｄａｘｅ＋３"
         },
         {
             "address": "0x117434",
             "size": 14,
             "text": "バトルアックス",
-            "translation": ""
+            "translation": "ＢａｔｔＡｘｅ"
         },
         {
             "address": "0x117445",
             "size": 18,
             "text": "バトルアックス＋１",
-            "translation": ""
+            "translation": "ＢａｔｔＡｘｅ＋１"
         },
         {
             "address": "0x11745a",
             "size": 18,
             "text": "バトルアックス＋２",
-            "translation": ""
+            "translation": "ＢａｔｔＡｘｅ＋２"
         },
         {
             "address": "0x11746f",
             "size": 18,
             "text": "バトルアックス＋３",
-            "translation": ""
+            "translation": "ＢａｔｔＡｘｅ＋３"
         },
         {
             "address": "0x117484",
             "size": 16,
             "text": "グレートアックス",
-            "translation": ""
+            "translation": "Ｇｒｅａｔａｘｅ"
         },
         {
             "address": "0x117497",
             "size": 20,
             "text": "グレートアックス＋１",
-            "translation": ""
+            "translation": "Ｇｒｅａｔａｘｅ＋１"
         },
         {
             "address": "0x1174ae",
             "size": 20,
             "text": "グレートアックス＋２",
-            "translation": ""
+            "translation": "Ｇｒｅａｔａｘｅ＋２"
         },
         {
             "address": "0x1174c5",
             "size": 12,
             "text": "ライトメイス",
-            "translation": ""
+            "translation": "ＬｔＭａｃｅ"
         },
         {
             "address": "0x1174d4",
             "size": 16,
             "text": "ライトメイス＋１",
-            "translation": ""
+            "translation": "ＬｔＭａｃｅ＋１"
         },
         {
             "address": "0x1174e7",
             "size": 16,
             "text": "ライトメイス＋２",
-            "translation": ""
+            "translation": "ＬｔＭａｃｅ＋２"
         },
         {
             "address": "0x1174fa",
             "size": 16,
             "text": "ライトメイス＋３",
-            "translation": ""
+            "translation": "ＬｔＭａｃｅ＋３"
         },
         {
             "address": "0x11750d",
             "size": 12,
             "text": "ヘビーメイス",
-            "translation": ""
+            "translation": "ＨｖＭａｃｅ"
         },
         {
             "address": "0x11751c",
             "size": 16,
             "text": "ヘビーメイス＋１",
-            "translation": ""
+            "translation": "ＨｖＭａｃｅ＋１"
         },
         {
             "address": "0x11752f",
             "size": 16,
             "text": "ヘビーメイス＋２",
-            "translation": ""
+            "translation": "ＨｖＭａｃｅ＋２"
         },
         {
             "address": "0x117542",
             "size": 16,
             "text": "ヘビーメイス＋３",
-            "translation": ""
+            "translation": "ＨｖＭａｃｅ＋３"
         },
         {
             "address": "0x117555",
             "size": 6,
             "text": "モール",
-            "translation": ""
+            "translation": "Ｍａｕ"
         },
         {
             "address": "0x11755e",
             "size": 10,
             "text": "モール＋１",
-            "translation": ""
+            "translation": "Ｍａｕ＋１"
         },
         {
             "address": "0x11756b",
             "size": 10,
             "text": "モール＋２",
-            "translation": ""
+            "translation": "Ｍａｕ＋２"
         },
         {
             "address": "0x117578",
             "size": 8,
             "text": "スタッフ",
-            "translation": ""
+            "translation": "Ｓｔａｆ"
         },
         {
             "address": "0x117583",
             "size": 12,
             "text": "スタッフ＋１",
-            "translation": ""
+            "translation": "Ｓｔａｆ＋１"
         },
         {
             "address": "0x117592",
             "size": 12,
             "text": "スタッフ＋２",
-            "translation": ""
+            "translation": "Ｓｔａｆ＋２"
         },
         {
             "address": "0x1175a1",
             "size": 16,
             "text": "モーニングスター",
-            "translation": ""
+            "translation": "ＭｏｒｎＳｔａｒ"
         },
         {
             "address": "0x1175b4",
             "size": 20,
             "text": "モーニングスター＋１",
-            "translation": ""
+            "translation": "ＭｏｒｎＳｔａｒ＋１"
         },
         {
             "address": "0x1175cb",
             "size": 20,
             "text": "モーニングスター＋２",
-            "translation": ""
+            "translation": "ＭｏｒｎＳｔａｒ＋２"
         },
         {
             "address": "0x1175e2",
             "size": 8,
             "text": "フレイル",
-            "translation": ""
+            "translation": "Ｆｌａｉ"
         },
         {
             "address": "0x1175ed",
             "size": 12,
             "text": "フレイル＋１",
-            "translation": ""
+            "translation": "Ｆｌａｉ＋１"
         },
         {
             "address": "0x1175fc",
             "size": 12,
             "text": "フレイル＋２",
-            "translation": ""
+            "translation": "Ｆｌａｉ＋２"
         },
         {
             "address": "0x11760b",
             "size": 12,
             "text": "ショートボウ",
-            "translation": ""
+            "translation": "ＳｍｌＢｏｗ"
         },
         {
             "address": "0x11761a",
             "size": 16,
             "text": "ショートボウ＋１",
-            "translation": ""
+            "translation": "ＳｍｌＢｏｗ＋１"
         },
         {
             "address": "0x11762d",
             "size": 16,
             "text": "ショートボウ＋２",
-            "translation": ""
+            "translation": "ＳｍｌＢｏｗ＋２"
         },
         {
             "address": "0x117640",
             "size": 10,
             "text": "ロングボウ",
-            "translation": ""
+            "translation": "ＬｇＢｏｗ"
         },
         {
             "address": "0x11764d",
             "size": 14,
             "text": "ロングボウ＋１",
-            "translation": ""
+            "translation": "ＬｇＢｏｗ＋１"
         },
         {
             "address": "0x11765e",
             "size": 14,
             "text": "ロングボウ＋２",
-            "translation": ""
+            "translation": "ＬｇＢｏｗ＋２"
         },
         {
             "address": "0x11766f",
             "size": 16,
             "text": "ライトクロスボウ",
-            "translation": ""
+            "translation": "ＬＣｒｏｓｓｂｏ"
         },
         {
             "address": "0x117682",
             "size": 20,
             "text": "ライトクロスボウ＋１",
-            "translation": ""
+            "translation": "ＬＣｒｏｓｓｂｏ＋１"
         },
         {
             "address": "0x117699",
             "size": 20,
             "text": "ライトクロスボウ＋２",
-            "translation": ""
+            "translation": "ＬＣｒｏｓｓｂｏ＋２"
         },
         {
             "address": "0x1176b0",
             "size": 16,
             "text": "ヘビークロスボウ",
-            "translation": ""
+            "translation": "ＨＣｒｏｓｓｂｏ"
         },
         {
             "address": "0x1176c3",
             "size": 20,
             "text": "ヘビークロスボウ＋１",
-            "translation": ""
+            "translation": "ＨＣｒｏｓｓｂｏ＋１"
         },
         {
             "address": "0x1176da",
             "size": 20,
             "text": "ヘビークロスボウ＋２",
-            "translation": ""
+            "translation": "ＨＣｒｏｓｓｂｏ＋２"
         },
         {
             "address": "0x1176f1",
             "size": 8,
             "text": "スリング",
-            "translation": ""
+            "translation": "Ｓｌｎｇ"
         },
         {
             "address": "0x1176fc",
             "size": 12,
             "text": "スリング＋１",
-            "translation": ""
+            "translation": "Ｓｌｎｇ＋１"
         },
         {
             "address": "0x11770b",
             "size": 12,
             "text": "スリング＋２",
-            "translation": ""
+            "translation": "Ｓｌｎｇ＋２"
         },
         {
             "address": "0x11771a",
             "size": 14,
             "text": "レザーアーマー",
-            "translation": ""
+            "translation": "Ｌｅａｔｈｅｒ"
         },
         {
             "address": "0x11772b",
             "size": 18,
             "text": "レザーアーマー＋１",
-            "translation": ""
+            "translation": "Ｌｅａｔｈｅｒ＋１"
         },
         {
             "address": "0x117740",
             "size": 18,
             "text": "レザーアーマー＋２",
-            "translation": ""
+            "translation": "Ｌｅａｔｈｅｒ＋２"
         },
         {
             "address": "0x117755",
             "size": 18,
             "text": "レザーアーマー＋３",
-            "translation": ""
+            "translation": "Ｌｅａｔｈｅｒ＋３"
         },
         {
             "address": "0x11776a",
             "size": 20,
             "text": "リングメイルアーマー",
-            "translation": ""
+            "translation": "Ｒｉｎｇ　Ｍａｉｌ"
         },
         {
             "address": "0x117781",
             "size": 24,
             "text": "リングメイルアーマー＋１",
-            "translation": ""
+            "translation": "Ｒｉｎｇ　Ｍａｉｌ＋１"
         },
         {
             "address": "0x11779c",
             "size": 24,
             "text": "リングメイルアーマー＋２",
-            "translation": ""
+            "translation": "Ｒｉｎｇ　Ｍａｉｌ＋２"
         },
         {
             "address": "0x1177b7",
             "size": 22,
             "text": "チェインメイルアーマー",
-            "translation": ""
+            "translation": "Ｃｈａｉｎ　Ｍａｉｌ"
         },
         {
             "address": "0x1177d0",
             "size": 26,
             "text": "チェインメイルアーマー＋１",
-            "translation": ""
+            "translation": "Ｃｈａｉｎ　Ｍａｉｌ＋１"
         },
         {
             "address": "0x1177ed",
             "size": 26,
             "text": "チェインメイルアーマー＋２",
-            "translation": ""
+            "translation": "Ｃｈａｉｎ　Ｍａｉｌ＋２"
         },
         {
             "address": "0x11780a",
             "size": 26,
             "text": "チェインメイルアーマー＋３",
-            "translation": ""
+            "translation": "Ｃｈａｉｎ　Ｍａｉｌ＋３"
         },
         {
             "address": "0x117827",
             "size": 22,
             "text": "スケールメイルアーマー",
-            "translation": ""
+            "translation": "Ｓｃａｌｅ　Ｍａｉｌ"
         },
         {
             "address": "0x117840",
             "size": 26,
             "text": "スケールメイルアーマー＋１",
-            "translation": ""
+            "translation": "Ｓｃａｌｅ　Ｍａｉｌ＋１"
         },
         {
             "address": "0x11785d",
             "size": 26,
             "text": "スケールメイルアーマー＋２",
-            "translation": ""
+            "translation": "Ｓｃａｌｅ　Ｍａｉｌ＋２"
         },
         {
             "address": "0x11787a",
             "size": 22,
             "text": "プレートメイルアーマー",
-            "translation": ""
+            "translation": "Ｐｌａｔｅ　Ｍａｉｌ"
         },
         {
             "address": "0x117893",
             "size": 26,
             "text": "プレートメイルアーマー＋１",
-            "translation": ""
+            "translation": "Ｐｌａｔｅ　Ｍａｉｌ＋１"
         },
         {
             "address": "0x1178b0",
             "size": 26,
             "text": "プレートメイルアーマー＋２",
-            "translation": ""
+            "translation": "Ｐｌａｔｅ　Ｍａｉｌ＋２"
         },
         {
             "address": "0x1178cd",
             "size": 26,
             "text": "プレートメイルアーマー＋３",
-            "translation": ""
+            "translation": "Ｐｌａｔｅ　Ｍａｉｌ＋３"
         },
         {
             "address": "0x1178ea",
             "size": 6,
             "text": "マスク",
-            "translation": ""
+            "translation": "Ｍｓｋ"
         },
         {
             "address": "0x1178f3",
             "size": 6,
             "text": "マント",
-            "translation": ""
+            "translation": "Ｃｐｅ"
         },
         {
             "address": "0x1178fc",
             "size": 6,
             "text": "ロッド",
-            "translation": ""
+            "translation": "Ｒｏｄ"
         },
         {
             "address": "0x117905",
             "size": 2,
             "text": "鍵",
-            "translation": ""
+            "translation": "Ｋ"
         },
         {
             "address": "0x11790a",
             "size": 10,
             "text": "ポーション",
-            "translation": ""
+            "translation": "Ｈ．Ｐｏｔ"
         },
         {
             "address": "0x117917",
@@ -2596,253 +2596,253 @@
             "address": "0x117953",
             "size": 16,
             "text": "クロースアーマー",
-            "translation": ""
+            "translation": "Ｃｌｏｔｈ"
         },
         {
             "address": "0x117966",
             "size": 16,
             "text": "スモールシールド",
-            "translation": ""
+            "translation": "ＳｍＳｈｉｅｌｄ"
         },
         {
             "address": "0x117979",
             "size": 20,
             "text": "スモールシールド＋１",
-            "translation": ""
+            "translation": "ＳｍＳｈｉｅｌｄ＋１"
         },
         {
             "address": "0x117990",
             "size": 20,
             "text": "スモールシールド＋２",
-            "translation": ""
+            "translation": "ＳｍＳｈｉｅｌｄ＋２"
         },
         {
             "address": "0x1179a7",
             "size": 20,
             "text": "スモールシールド＋３",
-            "translation": ""
+            "translation": "ＳｍＳｈｉｅｌｄ＋３"
         },
         {
             "address": "0x1179be",
             "size": 18,
             "text": "ミディアムシールド",
-            "translation": ""
+            "translation": "ＭｅｄＳｈｉｅｌｄ"
         },
         {
             "address": "0x1179d3",
             "size": 22,
             "text": "ミディアムシールド＋１",
-            "translation": ""
+            "translation": "ＭｅｄＳｈｉｅｌｄ＋１"
         },
         {
             "address": "0x1179ec",
             "size": 22,
             "text": "ミディアムシールド＋２",
-            "translation": ""
+            "translation": "ＭｅｄＳｈｉｅｌｄ＋２"
         },
         {
             "address": "0x117a05",
             "size": 14,
             "text": "ラージシールド",
-            "translation": ""
+            "translation": "ＬＳｈｉｅｌｄ"
         },
         {
             "address": "0x117a16",
             "size": 18,
             "text": "ラージシールド＋１",
-            "translation": ""
+            "translation": "ＬＳｈｉｅｌｄ＋１"
         },
         {
             "address": "0x117a2b",
             "size": 18,
             "text": "ラージシールド＋２",
-            "translation": ""
+            "translation": "ＬＳｈｉｅｌｄ＋２"
         },
         {
             "address": "0x117a40",
             "size": 18,
             "text": "ラージシールド＋３",
-            "translation": ""
+            "translation": "ＬＳｈｉｅｌｄ＋３"
         },
         {
             "address": "0x117a55",
             "size": 10,
             "text": "ダガー−１",
-            "translation": ""
+            "translation": "Ｄａｇ−１"
         },
         {
             "address": "0x117a62",
             "size": 18,
             "text": "ショートソード−１",
-            "translation": ""
+            "translation": "ＳｈＳｗｏｒｄ−１"
         },
         {
             "address": "0x117a77",
             "size": 18,
             "text": "ブロードソード−１ ",
-            "translation": ""
+            "translation": "ＢｒｄＳｗｒｄ−１"
         },
         {
             "address": "0x117a8d",
             "size": 20,
             "text": "バスタードソード−１",
-            "translation": ""
+            "translation": "ＢａｓｔＳｗｒｄ−１"
         },
         {
             "address": "0x117aa4",
             "size": 18,
             "text": "グレートソード−１",
-            "translation": ""
+            "translation": "ＧｒｅａｔＳｗ−１"
         },
         {
             "address": "0x117ab9",
             "size": 18,
             "text": "ショートスピア−１",
-            "translation": ""
+            "translation": "ＳｍＳｐｅａｒ−１"
         },
         {
             "address": "0x117ace",
             "size": 16,
             "text": "ロングスピア−１",
-            "translation": ""
+            "translation": "ＬＳｐｅａｒ−１"
         },
         {
             "address": "0x117ae1",
             "size": 18,
             "text": "ハンドアックス−１",
-            "translation": ""
+            "translation": "Ｈａｎｄａｘｅ−１"
         },
         {
             "address": "0x117af6",
             "size": 18,
             "text": "バトルアックス−１",
-            "translation": ""
+            "translation": "ＢａｔｔＡｘｅ−１"
         },
         {
             "address": "0x117b0b",
             "size": 20,
             "text": "グレートアックス−１",
-            "translation": ""
+            "translation": "Ｇｒｅａｔａｘｅ−１"
         },
         {
             "address": "0x117b22",
             "size": 16,
             "text": "ライトメイス−１",
-            "translation": ""
+            "translation": "ＬｔＭａｃｅ−１"
         },
         {
             "address": "0x117b35",
             "size": 16,
             "text": "ヘビーメイス−１",
-            "translation": ""
+            "translation": "ＨｖＭａｃｅ−１"
         },
         {
             "address": "0x117b48",
             "size": 10,
             "text": "モール−１",
-            "translation": ""
+            "translation": "Ｍａｕ−１"
         },
         {
             "address": "0x117b55",
             "size": 12,
             "text": "スタッフ−１",
-            "translation": ""
+            "translation": "Ｓｔａｆ−１"
         },
         {
             "address": "0x117b64",
             "size": 20,
             "text": "モーニングスター−１",
-            "translation": ""
+            "translation": "ＭｏｒｎＳｔａｒ−１"
         },
         {
             "address": "0x117b7b",
             "size": 12,
             "text": "フレイル−１",
-            "translation": ""
+            "translation": "Ｆｌａｉ−１"
         },
         {
             "address": "0x117b8a",
             "size": 16,
             "text": "ショートボウ−１",
-            "translation": ""
+            "translation": "ＳｍｌＢｏｗ−１"
         },
         {
             "address": "0x117b9d",
             "size": 14,
             "text": "ロングボウ−１",
-            "translation": ""
+            "translation": "ＬｇＢｏｗ−１"
         },
         {
             "address": "0x117bae",
             "size": 20,
             "text": "ライトクロスボウ−１",
-            "translation": ""
+            "translation": "ＬＣｒｏｓｓｂｏ−１"
         },
         {
             "address": "0x117bc5",
             "size": 20,
             "text": "ヘビークロスボウ−１",
-            "translation": ""
+            "translation": "ＨＣｒｏｓｓｂｏ−１"
         },
         {
             "address": "0x117bdc",
             "size": 12,
             "text": "スリング−１",
-            "translation": ""
+            "translation": "Ｓｌｎｇ−１"
         },
         {
             "address": "0x117beb",
             "size": 18,
             "text": "レザーアーマー−１",
-            "translation": ""
+            "translation": "Ｌｅａｔｈｅｒ−１"
         },
         {
             "address": "0x117c00",
             "size": 24,
             "text": "リングメイルアーマー−１",
-            "translation": ""
+            "translation": "Ｒｉｎｇ Ｍａｉｌ−１"
         },
         {
             "address": "0x117c1b",
             "size": 26,
             "text": "チェインメイルアーマー−１",
-            "translation": ""
+            "translation": "Ｃｈａｉｎ　Ｍａｉｌ−１"
         },
         {
             "address": "0x117c38",
             "size": 26,
             "text": "スケールメイルアーマー−１",
-            "translation": ""
+            "translation": "Ｓｃａｌｅ　Ｍａｉｌ−１"
         },
         {
             "address": "0x117c55",
             "size": 26,
             "text": "プレートメイルアーマー−１",
-            "translation": ""
+            "translation": "Ｐｌａｔｅ　Ｍａｉｌ−１"
         },
         {
             "address": "0x117c72",
             "size": 20,
             "text": "スモールシールド−１",
-            "translation": ""
+            "translation": "ＳｍＳｈｉｅｌｄ−１"
         },
         {
             "address": "0x117c89",
             "size": 22,
             "text": "ミディアムシールド−１",
-            "translation": ""
+            "translation": "ＭｅｄＳｈｉｅｌｄ−１"
         },
         {
             "address": "0x117ca2",
             "size": 18,
             "text": "ラージシールド−１",
-            "translation": ""
+            "translation": "ＬＳｈｉｅｌｄ−１"
         },
         {
             "address": "0x117cb7",
             "size": 10,
             "text": "スピード☆",
-            "translation": ""
+            "translation": "Ｓｐｄ　☆"
         },
         {
             "address": "0x117cc4",
@@ -2866,25 +2866,25 @@
             "address": "0x117cf7",
             "size": 14,
             "text": "ストレンクス☆",
-            "translation": ""
+            "translation": "ＳＴＲ　　　☆"
         },
         {
             "address": "0x117d08",
             "size": 14,
             "text": "アンティドート",
-            "translation": ""
+            "translation": "Ａｎｔｉｄｏｔ"
         },
         {
             "address": "0x117d19",
             "size": 18,
             "text": "インビジビリティ☆",
-            "translation": ""
+            "translation": "Ｉｎｖｉｓｉｂｌ☆"
         },
         {
             "address": "0x117d2e",
             "size": 8,
             "text": "ポイズン",
-            "translation": ""
+            "translation": "Ｐｏｉｓ"
         },
         {
             "address": "0x117d39",
@@ -2944,79 +2944,79 @@
             "address": "0x117e02",
             "size": 20,
             "text": "デンジャーフィンガー",
-            "translation": ""
+            "translation": "ＤａｎｇｒＦｉｎｇｒ"
         },
         {
             "address": "0x117e19",
             "size": 18,
             "text": "ルビー○ファイアー",
-            "translation": ""
+            "translation": "Ｒｕｂｙ○Ｆｉｒｅ"
         },
         {
             "address": "0x117e2e",
             "size": 16,
             "text": "サファイア○エア",
-            "translation": ""
+            "translation": "Ｓａｐｈ○Ａｉｒ"
         },
         {
             "address": "0x117e41",
             "size": 22,
             "text": "エメラルド○ウォーター",
-            "translation": ""
+            "translation": "Ｅｍｒｌｄ○Ｗａｔｅｒ"
         },
         {
             "address": "0x117e5a",
             "size": 16,
             "text": "アンバー○アース",
-            "translation": ""
+            "translation": "Ａｍ○Ｅａｒｔｈ"
         },
         {
             "address": "0x117e6d",
             "size": 20,
             "text": "ダイアモンド○ライト",
-            "translation": ""
+            "translation": "Ｄｍｎｄ○Ｌｉｇｈｔ"
         },
         {
             "address": "0x117e84",
             "size": 18,
             "text": "オニクス○シャドウ",
-            "translation": ""
+            "translation": "Ｏｎｙｘ○Ｓｈｄｗ"
         },
         {
             "address": "0x117e99",
             "size": 22,
             "text": "アミュレット○ナレッジ",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ○Ｋｎｏｗ"
         },
         {
             "address": "0x117eb2",
             "size": 26,
             "text": "アミュレット○ビューティー",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ○Ｂｅａｕｔｙ"
         },
         {
             "address": "0x117ecf",
             "size": 22,
             "text": "アミュレット○タフネス",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ○Ｔｇｈｎ"
         },
         {
             "address": "0x117ee8",
             "size": 22,
             "text": "アミュレット○マイティ",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ○Ｍｇｈｔ"
         },
         {
             "address": "0x117f01",
             "size": 26,
             "text": "アミュレット○ライトフット",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ○ＬｔＦｏｏｔ"
         },
         {
             "address": "0x117f1e",
             "size": 16,
             "text": "リーピングブーツ",
-            "translation": ""
+            "translation": "ＬｅａｐＢｏｏｔ"
         },
         {
             "address": "0x117f31",
@@ -3040,67 +3040,67 @@
             "address": "0x117f7c",
             "size": 20,
             "text": "バインディングブーツ",
-            "translation": ""
+            "translation": "ＢｉｎｄｎｇＢｏｏｔ"
         },
         {
             "address": "0x117f93",
             "size": 18,
             "text": "グラブ○クラッシュ",
-            "translation": ""
+            "translation": "Ｇｌｏｖ○Ｃｒｓｈ"
         },
         {
             "address": "0x117fa8",
             "size": 18,
             "text": "グラブ○マスタリー",
-            "translation": ""
+            "translation": "Ｇｌｏｖ○Ｍｓｔｒ"
         },
         {
             "address": "0x117fbd",
             "size": 18,
             "text": "グラブ○ファンブル",
-            "translation": ""
+            "translation": "Ｇｌｏｖ○Ｆｕｍｂ"
         },
         {
             "address": "0x117fd2",
             "size": 16,
             "text": "マスク○ドラゴン",
-            "translation": ""
+            "translation": "Ｍａｓｋ○Ｄｒａ"
         },
         {
             "address": "0x117fe5",
             "size": 18,
             "text": "マスク○ウォリアー",
-            "translation": ""
+            "translation": "Ｍａｓｋ○Ｗａｒｒ"
         },
         {
             "address": "0x117ffa",
             "size": 18,
             "text": "マスク○シャーマン",
-            "translation": ""
+            "translation": "Ｍａｓｋ○Ｓｈａｍ"
         },
         {
             "address": "0x11800f",
             "size": 18,
             "text": "マスク○ソーサラー",
-            "translation": ""
+            "translation": "Ｍａｓｋ○Ｓｏｒｃ"
         },
         {
             "address": "0x118024",
             "size": 18,
             "text": "マスク○プリースト",
-            "translation": ""
+            "translation": "Ｍａｓｋ○Ｐｒｉｅ"
         },
         {
             "address": "0x118039",
             "size": 8,
             "text": "知識の石",
-            "translation": ""
+            "translation": "ＫｎＳｔ"
         },
         {
             "address": "0x118044",
             "size": 8,
             "text": "知識の石",
-            "translation": ""
+            "translation": "ＫｎＳｔ"
         },
         {
             "address": "0x11804f",
@@ -3148,187 +3148,187 @@
             "address": "0x1180b8",
             "size": 16,
             "text": "マスク○スカウト",
-            "translation": ""
+            "translation": "Ｍａｓｋ○Ｓｃｔ"
         },
         {
             "address": "0x1180cb",
             "size": 24,
             "text": "クラウン○アイアンウィル",
-            "translation": ""
+            "translation": "Ｃｒｏｗｎ○ＩｒｏｎＷｌ"
         },
         {
             "address": "0x1180e6",
             "size": 30,
             "text": "マント○ミサイルプロテクション",
-            "translation": ""
+            "translation": "Ｃａｐｅ○ＭｉｓｓｉｌＰｒｏｔ"
         },
         {
             "address": "0x118107",
             "size": 20,
             "text": "マント○チョーキング",
-            "translation": ""
+            "translation": "Ｃａｐｅ○Ｃｈｏｋｅ"
         },
         {
             "address": "0x11811e",
             "size": 14,
             "text": "ホーリーロッド",
-            "translation": ""
+            "translation": "ＨｏｌｙＲｏｄ"
         },
         {
             "address": "0x11812f",
             "size": 20,
             "text": "ロッド○ライトニング",
-            "translation": ""
+            "translation": "Ｒｏｄ○Ｌｉｔｎｇ"
         },
         {
             "address": "0x118146",
             "size": 14,
             "text": "ルーンスタッフ",
-            "translation": ""
+            "translation": "ＲｕｎｅＳｔａ"
         },
         {
             "address": "0x118157",
             "size": 16,
             "text": "ソウルクラッシュ",
-            "translation": ""
+            "translation": "ＳｏｕｌＣｒａｓ"
         },
         {
             "address": "0x11816a",
             "size": 16,
             "text": "ローフルブレード",
-            "translation": ""
+            "translation": "ＬａｗＢｌａｄｅ"
         },
         {
             "address": "0x11817d",
             "size": 18,
             "text": "リフレクトシールド",
-            "translation": ""
+            "translation": "ＲｅｆＳｈｉｅｌｄ"
         },
         {
             "address": "0x118192",
             "size": 12,
             "text": "ジャスティス",
-            "translation": ""
+            "translation": "Ｊｕｓｔｉｃ"
         },
         {
             "address": "0x1181a1",
             "size": 4,
             "text": "宝石",
-            "translation": ""
+            "translation": "Ｇｍ"
         },
         {
             "address": "0x1181a8",
             "size": 14,
             "text": "ゴールドリング",
-            "translation": ""
+            "translation": "ＧｏｌｄＲｎｇ"
         },
         {
             "address": "0x1181b9",
             "size": 14,
             "text": "シルバーリング",
-            "translation": ""
+            "translation": "ＳｉｌｖＲｎｇ"
         },
         {
             "address": "0x1181ca",
             "size": 10,
             "text": "ネックレス",
-            "translation": ""
+            "translation": "Ｎｅｃｌａ"
         },
         {
             "address": "0x1181d7",
             "size": 6,
             "text": "ワイン",
-            "translation": ""
+            "translation": "Ａｌｅ"
         },
         {
             "address": "0x1181e0",
             "size": 22,
             "text": "ライトブリンガーソード",
-            "translation": ""
+            "translation": "Ｌｉｇｈｔｂｒｉｎｇｒ"
         },
         {
             "address": "0x1181f9",
             "size": 16,
             "text": "スパイダーソード",
-            "translation": ""
+            "translation": "ＳｐｉｄｒＳｗｄ"
         },
         {
             "address": "0x11820c",
             "size": 10,
             "text": "地下牢の鍵",
-            "translation": ""
+            "translation": "Ｂ１Ｋｅｙ"
         },
         {
             "address": "0x118219",
             "size": 16,
             "text": "カーラからの手紙",
-            "translation": ""
+            "translation": "ＫａｒｌａＬｔｒ"
         },
         {
             "address": "0x11822c",
             "size": 14,
             "text": "★○バニッシュ",
-            "translation": ""
+            "translation": "★○Ｖａｎｓｈ"
         },
         {
             "address": "0x11823d",
             "size": 4,
             "text": "書物",
-            "translation": ""
+            "translation": "Ｂｋ"
         },
         {
             "address": "0x118244",
             "size": 6,
             "text": "ワンド",
-            "translation": ""
+            "translation": "Ｗｎｄ"
         },
         {
             "address": "0x11824d",
             "size": 6,
             "text": "赤い石",
-            "translation": ""
+            "translation": "ＲＧｍ"
         },
         {
             "address": "0x118256",
             "size": 6,
             "text": "青い石",
-            "translation": ""
+            "translation": "ＢＧｍ"
         },
         {
             "address": "0x11825f",
             "size": 6,
             "text": "オール",
-            "translation": ""
+            "translation": "Ａｌｌ"
         },
         {
             "address": "0x118268",
             "size": 6,
             "text": "船の鍵",
-            "translation": ""
+            "translation": "Ｋｅｙ"
         },
         {
             "address": "0x118271",
             "size": 14,
             "text": "古代王国の王冠",
-            "translation": ""
+            "translation": "Ｃｒｏｗｎ"
         },
         {
             "address": "0x118282",
             "size": 14,
             "text": "ユニコーンの角",
-            "translation": ""
+            "translation": "ＵｎｉｃｒｎＨ"
         },
         {
             "address": "0x118293",
             "size": 18,
             "text": "アサッシン用ダガー",
-            "translation": ""
+            "translation": "ＡｓｓｎＤａｇｇｒ"
         },
         {
             "address": "0x1182a8",
             "size": 12,
             "text": "アミュレット",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ"
         },
         {
             "address": "0x1182b7",
@@ -3340,121 +3340,121 @@
             "address": "0x1182c6",
             "size": 4,
             "text": "書物",
-            "translation": ""
+            "translation": "Ｂｋ"
         },
         {
             "address": "0x1182cd",
             "size": 16,
             "text": "ドラゴンウイング",
-            "translation": ""
+            "translation": "Ｄｒａｇｎｗｎｇ"
         },
         {
             "address": "0x1182e0",
             "size": 20,
             "text": "★○エネルギーボルト",
-            "translation": ""
+            "translation": "★○ＥｎｒｇｙＢｌｔ"
         },
         {
             "address": "0x1182f7",
             "size": 12,
             "text": "★○シールド",
-            "translation": ""
+            "translation": "★○Ｓｈｌｄ"
         },
         {
             "address": "0x118306",
             "size": 20,
             "text": "★○スリープクラウド",
-            "translation": ""
+            "translation": "★○ＳｌｅｅｐＣｌｄ"
         },
         {
             "address": "0x11831d",
             "size": 20,
             "text": "★○シャドウボディー",
-            "translation": ""
+            "translation": "★○ＳｈａｄｗＢｄｙ"
         },
         {
             "address": "0x118334",
             "size": 22,
             "text": "★○カウンターマジック",
-            "translation": ""
+            "translation": "★○ＣｏｕｎｔｒＭａｇ"
         },
         {
             "address": "0x11834d",
             "size": 16,
             "text": "★○エアアーマー",
-            "translation": ""
+            "translation": "★○ＡｉｒＡｍｒ"
         },
         {
             "address": "0x118360",
             "size": 20,
             "text": "★○ファイアストーム",
-            "translation": ""
+            "translation": "★○ＦｉｒＳｔｏｒｍ"
         },
         {
             "address": "0x118377",
             "size": 6,
             "text": "リング",
-            "translation": ""
+            "translation": "Ｒｎｇ"
         },
         {
             "address": "0x118380",
             "size": 6,
             "text": "ブーツ",
-            "translation": ""
+            "translation": "Ｂｔｓ"
         },
         {
             "address": "0x118389",
             "size": 10,
             "text": "スクロール",
-            "translation": ""
+            "translation": "Ｓｃｒｏｌ"
         },
         {
             "address": "0x118396",
             "size": 8,
             "text": "クラウン",
-            "translation": ""
+            "translation": "Ｃｒｗｎ"
         },
         {
             "address": "0x1183a1",
             "size": 6,
             "text": "トーチ",
-            "translation": ""
+            "translation": "Ｔｏｒ"
         },
         {
             "address": "0x1183aa",
             "size": 6,
             "text": "グラブ",
-            "translation": ""
+            "translation": "Ｇｌｖ"
         },
         {
             "address": "0x1183b3",
             "size": 14,
             "text": "デザートセット",
-            "translation": ""
+            "translation": "ＤｅｓｅｒｔＳ"
         },
         {
             "address": "0x1183c4",
             "size": 4,
             "text": "日記",
-            "translation": ""
+            "translation": "Ｄｉ"
         },
         {
             "address": "0x1183cb",
             "size": 14,
             "text": "パーンアーマー",
-            "translation": ""
+            "translation": "ＰａｒｎＡｍｒ"
         },
         {
             "address": "0x1183dc",
             "size": 12,
             "text": "アミュレット",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ"
         },
         {
             "address": "0x1183eb",
             "size": 8,
             "text": "魔神の印",
-            "translation": ""
+            "translation": "Ｓｅａｌ"
         },
         {
             "address": "0x1183f3",
@@ -3466,481 +3466,481 @@
             "address": "0x118400",
             "size": 8,
             "text": "街を出る",
-            "translation": ""
+            "translation": "Ｅｘｉｔ"
         },
         {
             "address": "0x11840b",
             "size": 8,
             "text": "村を出る",
-            "translation": ""
+            "translation": "Ｅｘｉｔ"
         },
         {
             "address": "0x118416",
             "size": 10,
             "text": "広場へ戻る",
-            "translation": ""
+            "translation": "Ｌｅａｖｅ"
         },
         {
             "address": "0x118423",
             "size": 12,
             "text": "城の中に入る",
-            "translation": ""
+            "translation": "Ｃａｓｔｌｅ"
         },
         {
             "address": "0x118432",
             "size": 16,
             "text": "酒場＆宿屋に行く",
-            "translation": ""
+            "translation": "Ｂａｒ＆Ｉｎｎ"
         },
         {
             "address": "0x118445",
             "size": 10,
             "text": "市場に行く",
-            "translation": ""
+            "translation": "Ｍｒｋｅｔ"
         },
         {
             "address": "0x118452",
             "size": 10,
             "text": "酒場に行く",
-            "translation": ""
+            "translation": "Ｂａｒ"
         },
         {
             "address": "0x11845f",
             "size": 10,
             "text": "宿屋に行く",
-            "translation": ""
+            "translation": "Ｉｎｎ"
         },
         {
             "address": "0x11846c",
             "size": 10,
             "text": "寺院に行く",
-            "translation": ""
+            "translation": "Ｔｅｍｐｌ"
         },
         {
             "address": "0x118479",
             "size": 22,
             "text": "シーブズ・ギルドに行く",
-            "translation": ""
+            "translation": "ＴｈｉｅｖｅｓＧｌｄ"
         },
         {
             "address": "0x118492",
             "size": 26,
             "text": "ウィザーズ・カレッジに行く",
-            "translation": ""
+            "translation": "ＷｉｚａｒｄＣｏｌｌｅｇｅ"
         },
         {
             "address": "0x1184af",
             "size": 12,
             "text": "情報屋に行く",
-            "translation": ""
+            "translation": "Ｉｎｆｏｒｍ"
         },
         {
             "address": "0x1184be",
             "size": 12,
             "text": "城の中に入る",
-            "translation": ""
+            "translation": "Ｃａｓｔｌｅ"
         },
         {
             "address": "0x1184cd",
             "size": 12,
             "text": "村長宅に行く",
-            "translation": ""
+            "translation": "Ｃｈｉｅｆｓ"
         },
         {
             "address": "0x1184dc",
             "size": 8,
             "text": "港に行く",
-            "translation": ""
+            "translation": "Ｐｏｒｔ"
         },
         {
             "address": "0x1184e7",
             "size": 8,
             "text": "街に戻る",
-            "translation": ""
+            "translation": "Ｂａｃｋ"
         },
         {
             "address": "0x1184f2",
             "size": 8,
             "text": "酒を飲む",
-            "translation": ""
+            "translation": "Ａｌｅ"
         },
         {
             "address": "0x1184fd",
             "size": 12,
             "text": "客に話かける",
-            "translation": ""
+            "translation": "Ｔａｌｋ"
         },
         {
             "address": "0x11850c",
             "size": 18,
             "text": "パーティーから外す",
-            "translation": ""
+            "translation": "Ｐａｒｔ　ｗａｙｓ"
         },
         {
             "address": "0x118521",
             "size": 12,
             "text": "二階へ上がる",
-            "translation": ""
+            "translation": "Ｔｏ　２Ｆ"
         },
         {
             "address": "0x118530",
             "size": 12,
             "text": "一階に降りる",
-            "translation": ""
+            "translation": "Ｂａｃｋ"
         },
         {
             "address": "0x11853f",
             "size": 14,
             "text": "アイテムを買う",
-            "translation": ""
+            "translation": "ＢｕｙＩｔｅｍ"
         },
         {
             "address": "0x118550",
             "size": 14,
             "text": "アイテムを売る",
-            "translation": ""
+            "translation": "Ｓｅｌｌ"
         },
         {
             "address": "0x118561",
             "size": 10,
             "text": "情報を買う",
-            "translation": ""
+            "translation": "Ｉｎｆｏ"
         },
         {
             "address": "0x11856e",
             "size": 16,
             "text": "魔術師の話を聞く",
-            "translation": ""
+            "translation": "Ｔａｌｋ　ｔｏ"
         },
         {
             "address": "0x118581",
             "size": 24,
             "text": "アイテムを鑑定してもらう",
-            "translation": ""
+            "translation": "ＩｄｅｎｔｉｆｙＩｔｅｍ"
         },
         {
             "address": "0x11859c",
             "size": 14,
             "text": "治療してもらう",
-            "translation": ""
+            "translation": "Ｈｅａｌ"
         },
         {
             "address": "0x1185ad",
             "size": 14,
             "text": "司祭の話を聞く",
-            "translation": ""
+            "translation": "Ｔａｌｋ　ｔｏ"
         },
         {
             "address": "0x1185be",
             "size": 8,
             "text": "キャンプ",
-            "translation": ""
+            "translation": "Ｃａｍｐ"
         },
         {
             "address": "0x1185c9",
             "size": 8,
             "text": "ドワーフ",
-            "translation": ""
+            "translation": "Ｄｗａｒ"
         },
         {
             "address": "0x1185d4",
             "size": 6,
             "text": "木コリ",
-            "translation": ""
+            "translation": "Ｌｕｍ"
         },
         {
             "address": "0x1185dd",
             "size": 4,
             "text": "僧侶",
-            "translation": ""
+            "translation": "Ｐｒ"
         },
         {
             "address": "0x1185e4",
             "size": 4,
             "text": "商人",
-            "translation": ""
+            "translation": "Ｍｒ"
         },
         {
             "address": "0x1185eb",
             "size": 8,
             "text": "バーテン",
-            "translation": ""
+            "translation": "Ｂａｒｍ"
         },
         {
             "address": "0x1185f6",
             "size": 8,
             "text": "若い戦士",
-            "translation": ""
+            "translation": "Ｓｌｄｒ"
         },
         {
             "address": "0x118601",
             "size": 10,
             "text": "ローブの男",
-            "translation": ""
+            "translation": "Ｍａｎ"
         },
         {
             "address": "0x11860e",
             "size": 4,
             "text": "村人",
-            "translation": ""
+            "translation": "Ｍ"
         },
         {
             "address": "0x118615",
             "size": 8,
             "text": "吟遊詩人",
-            "translation": ""
+            "translation": "Ｂａｒｄ"
         },
         {
             "address": "0x118620",
             "size": 12,
             "text": "遊び人風の男",
-            "translation": ""
+            "translation": "Ｔｒａｖｌｒ"
         },
         {
             "address": "0x11862f",
             "size": 4,
             "text": "老人",
-            "translation": ""
+            "translation": "Ｏｌ"
         },
         {
             "address": "0x118636",
             "size": 4,
             "text": "戦士",
-            "translation": ""
+            "translation": "Ｗａ"
         },
         {
             "address": "0x11863d",
             "size": 4,
             "text": "山師",
-            "translation": ""
+            "translation": "Ｈｒ"
         },
         {
             "address": "0x118644",
             "size": 10,
             "text": "皮の服の男",
-            "translation": ""
+            "translation": "Ｈｕｎｔｒ"
         },
         {
             "address": "0x118651",
             "size": 6,
             "text": "エルフ",
-            "translation": ""
+            "translation": "Ｅｌｆ"
         },
         {
             "address": "0x11865a",
             "size": 4,
             "text": "小男",
-            "translation": ""
+            "translation": "Ｄｗ"
         },
         {
             "address": "0x118661",
             "size": 4,
             "text": "猟師",
-            "translation": ""
+            "translation": "Ｈｕ"
         },
         {
             "address": "0x118668",
             "size": 8,
             "text": "行商人Ａ",
-            "translation": ""
+            "translation": "ＭｃｔＡ"
         },
         {
             "address": "0x118673",
             "size": 8,
             "text": "行商人Ｂ",
-            "translation": ""
+            "translation": "ＭｃｔＢ"
         },
         {
             "address": "0x11867e",
             "size": 8,
             "text": "行商人Ｃ",
-            "translation": ""
+            "translation": "ＭｃｔＣ"
         },
         {
             "address": "0x118689",
             "size": 6,
             "text": "女戦士",
-            "translation": ""
+            "translation": "Ｆｅｍ"
         },
         {
             "address": "0x118692",
             "size": 16,
             "text": "パーティーを見る",
-            "translation": ""
+            "translation": "Ｖｉｅｗ Ｐｔ"
         },
         {
             "address": "0x1186a5",
             "size": 12,
             "text": "ウォーリアー",
-            "translation": ""
+            "translation": "Ｗａｒｒｉｏ"
         },
         {
             "address": "0x1186b4",
             "size": 6,
             "text": "ナイト",
-            "translation": ""
+            "translation": "Ｋｎｉ"
         },
         {
             "address": "0x1186bd",
             "size": 8,
             "text": "スカウト",
-            "translation": ""
+            "translation": "Ｓｃｏｕ"
         },
         {
             "address": "0x1186c8",
             "size": 10,
             "text": "プリースト",
-            "translation": ""
+            "translation": "Ｐｒｉｅｓ"
         },
         {
             "address": "0x1186d5",
             "size": 10,
             "text": "シャーマン",
-            "translation": ""
+            "translation": "Ｓｈａｍａ"
         },
         {
             "address": "0x1186e2",
             "size": 10,
             "text": "ソーサラー",
-            "translation": ""
+            "translation": "Ｓｏｒｃｅ"
         },
         {
             "address": "0x1186ef",
             "size": 10,
             "text": "ウイザード",
-            "translation": ""
+            "translation": "Ｗｉｚａｒ"
         },
         {
             "address": "0x1186fc",
             "size": 8,
             "text": "城に入る",
-            "translation": ""
+            "translation": "ＧｏＩｎ"
         },
         {
             "address": "0x118707",
             "size": 14,
             "text": "行商人と別れる",
-            "translation": ""
+            "translation": "Ｇｏｏｄｂｙｅ"
         },
         {
             "address": "0x118718",
             "size": 24,
             "text": "ディードリットの家に行く",
-            "translation": ""
+            "translation": "ＤｅｅｄｌｉｔＨｏｕｓｅ"
         },
         {
             "address": "0x118733",
             "size": 14,
             "text": "六英雄のサーガ",
-            "translation": ""
+            "translation": "６Ｈｅｒｏｅｓ"
         },
         {
             "address": "0x118744",
             "size": 18,
             "text": "ミノタウロスの迷宮",
-            "translation": ""
+            "translation": "Ｌａｂｙｒｉｎｔｈ"
         },
         {
             "address": "0x118759",
             "size": 10,
             "text": "商人と話す",
-            "translation": ""
+            "translation": "Ｔａｌｋ"
         },
         {
             "address": "0x118766",
             "size": 10,
             "text": "情報を売る",
-            "translation": ""
+            "translation": "Ｓｅｌｌ"
         },
         {
             "address": "0x118773",
             "size": 4,
             "text": "冒険",
-            "translation": ""
+            "translation": "Ａｄ"
         },
         {
             "address": "0x11877a",
             "size": 4,
             "text": "人物",
-            "translation": ""
+            "translation": "Ｈｕ"
         },
         {
             "address": "0x118781",
             "size": 8,
             "text": "アイテム",
-            "translation": ""
+            "translation": "Ｉｔｅｍ"
         },
         {
             "address": "0x11878c",
             "size": 22,
             "text": "闇の森のエルフについて",
-            "translation": ""
+            "translation": "Ｆｏｒｅｓｔ　ｅｌｆｓ"
         },
         {
             "address": "0x1187a5",
             "size": 24,
             "text": "ピラミッドの精霊について",
-            "translation": ""
+            "translation": "Ｐｙｒａｍｉｄ　ｉｎｆｏ"
         },
         {
             "address": "0x1187c0",
             "size": 28,
             "text": "ドワーフの大トンネルについて",
-            "translation": ""
+            "translation": "Ｄｗａｒｆ　ｔｕｎｎｅｌ"
         },
         {
             "address": "0x1187df",
             "size": 14,
             "text": "ベルドについて",
-            "translation": ""
+            "translation": "Ｂｅｌｄ"
         },
         {
             "address": "0x1187f0",
             "size": 16,
             "text": "ウォートについて",
-            "translation": ""
+            "translation": "Ｗｏｒｔ"
         },
         {
             "address": "0x118803",
             "size": 14,
             "text": "カーラについて",
-            "translation": ""
+            "translation": "Ｋａｒｌａ"
         },
         {
             "address": "0x118814",
             "size": 16,
             "text": "知識の石について",
-            "translation": ""
+            "translation": "Ｓｔｏｎｅｓ"
         },
         {
             "address": "0x118827",
             "size": 22,
             "text": "ルーンスタッフについて",
-            "translation": ""
+            "translation": "Ｒｕｎｅ　ｓｔａｆｆ"
         },
         {
             "address": "0x118840",
             "size": 14,
             "text": "ワンドについて",
-            "translation": ""
+            "translation": "Ｗａｎｄ"
         },
         {
             "address": "0x118851",
             "size": 10,
             "text": "キャンセル",
-            "translation": ""
+            "translation": "Ｂａｃｋ"
         },
         {
             "address": "0x11885e",
             "size": 12,
             "text": "船に乗り込む",
-            "translation": ""
+            "translation": "Ｂｏａｒｄ"
         },
         {
             "address": "0x11886d",
             "size": 20,
             "text": "アイテムの呪いをとく",
-            "translation": ""
+            "translation": "Ｄｅ－ｃｕｒｓｅ"
         },
         {
             "address": "0x118881",
@@ -3952,13 +3952,13 @@
             "address": "0x118895",
             "size": 18,
             "text": "アサッシン用ダガー",
-            "translation": ""
+            "translation": "ＡｓｓｎＤａｇｇｒ"
         },
         {
             "address": "0x1188aa",
             "size": 12,
             "text": "アミュレット",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ"
         },
         {
             "address": "0x1188b9",
@@ -3970,19 +3970,19 @@
             "address": "0x1188c4",
             "size": 4,
             "text": "書物",
-            "translation": ""
+            "translation": "Ｂｋ"
         },
         {
             "address": "0x1188cb",
             "size": 16,
             "text": "ドラゴンウイング",
-            "translation": ""
+            "translation": "ＤｒａｇｎＷｎｇ"
         },
         {
             "address": "0x1188de",
             "size": 20,
             "text": "★○エネルギーボルト",
-            "translation": ""
+            "translation": "★○ＥｎｒｇｙＢｌｔ"
         },
         {
             "address": "0x1188f5",
@@ -3994,49 +3994,49 @@
             "address": "0x118909",
             "size": 4,
             "text": "です",
-            "translation": ""
+            "translation": "．"
         },
         {
             "address": "0x118910",
             "size": 10,
             "text": "があります",
-            "translation": ""
+            "translation": "　ｈｅｒｅ"
         },
         {
             "address": "0x11891d",
             "size": 8,
             "text": "に入った",
-            "translation": ""
+            "translation": "．"
         },
         {
             "address": "0x118928",
             "size": 6,
             "text": "を出た",
-            "translation": ""
+            "translation": "　ｅｘ"
         },
         {
             "address": "0x118931",
             "size": 26,
             "text": "アラニアの首都、アランの街",
-            "translation": ""
+            "translation": "Ａｒａｎ，Ｃａｐｉｔａｌ"
         },
         {
             "address": "0x11894e",
             "size": 10,
             "text": "カノンの街",
-            "translation": ""
+            "translation": "Ｋａｎｏｎ"
         },
         {
             "address": "0x11895b",
             "size": 26,
             "text": "ヴァリスの首都、ロイドの街",
-            "translation": ""
+            "translation": "Ｒｏｉｄ，Ｃａｐｉｔａｌ"
         },
         {
             "address": "0x118978",
             "size": 30,
             "text": "モスの首都、ドラゴンブレスの街",
-            "translation": ""
+            "translation": "Ｄｒｇｎｂｒｅｔｈ，Ｃａｐｔｌ"
         },
         {
             "address": "0x118999",
@@ -4096,7 +4096,7 @@
             "address": "0x118a4e",
             "size": 20,
             "text": "C6《どうしますか？》",
-            "translation": ""
+            "translation": "C6《Ａｃｔｉｏｎ？》"
         },
         {
             "address": "0x118a65",
@@ -4120,163 +4120,163 @@
             "address": "0x118a80",
             "size": 8,
             "text": "街を出る",
-            "translation": ""
+            "translation": "Ｅｘｉｔ"
         },
         {
             "address": "0x118a8b",
             "size": 8,
             "text": "村を出る",
-            "translation": ""
+            "translation": "Ｅｘｉｔ"
         },
         {
             "address": "0x118a96",
             "size": 10,
             "text": "広場へ戻る",
-            "translation": ""
+            "translation": "Ｂａｃｋ"
         },
         {
             "address": "0x118aa3",
             "size": 12,
             "text": "城の中に入る",
-            "translation": ""
+            "translation": "Ｃａｓｔｌｅ"
         },
         {
             "address": "0x118ab2",
             "size": 10,
             "text": "酒場＆宿屋",
-            "translation": ""
+            "translation": "Ｉｎｎ"
         },
         {
             "address": "0x118abf",
             "size": 4,
             "text": "市場",
-            "translation": ""
+            "translation": "Ｍｋ"
         },
         {
             "address": "0x118ac6",
             "size": 4,
             "text": "酒場",
-            "translation": ""
+            "translation": "Ｂｒ"
         },
         {
             "address": "0x118acd",
             "size": 4,
             "text": "宿屋",
-            "translation": ""
+            "translation": "Ｉｎ"
         },
         {
             "address": "0x118ad4",
             "size": 4,
             "text": "寺院",
-            "translation": ""
+            "translation": "Ｔｍ"
         },
         {
             "address": "0x118adb",
             "size": 16,
             "text": "シーブズ・ギルド",
-            "translation": ""
+            "translation": "ＴｈｉｅｆＧｌｄ"
         },
         {
             "address": "0x118aee",
             "size": 20,
             "text": "ウィザーズ・カレッジ",
-            "translation": ""
+            "translation": "ＷｉｚａｒｄＣｌｇｅ"
         },
         {
             "address": "0x118b05",
             "size": 6,
             "text": "情報屋",
-            "translation": ""
+            "translation": "Ｉｎｆ"
         },
         {
             "address": "0x118b0e",
             "size": 2,
             "text": "城",
-            "translation": ""
+            "translation": "Ｃ"
         },
         {
             "address": "0x118b13",
             "size": 6,
             "text": "村長宅",
-            "translation": ""
+            "translation": "Ｃｈｆ"
         },
         {
             "address": "0x118b1c",
             "size": 2,
             "text": "港",
-            "translation": ""
+            "translation": "Ｐ"
         },
         {
             "address": "0x118b21",
             "size": 6,
             "text": "魔術師",
-            "translation": ""
+            "translation": "Ｍａｇ"
         },
         {
             "address": "0x118b2a",
             "size": 6,
             "text": "ロイド",
-            "translation": ""
+            "translation": "Ｒｏｉ"
         },
         {
             "address": "0x118b33",
             "size": 16,
             "text": "C2敵と遭遇した！",
-            "translation": ""
+            "translation": "C2Ｅｎｅｍｙ！"
         },
         {
             "address": "0x118b46",
             "size": 8,
             "text": "街に戻る",
-            "translation": ""
+            "translation": "Ｂａｃｋ"
         },
         {
             "address": "0x118b51",
             "size": 6,
             "text": "へ行く",
-            "translation": ""
+            "translation": "　ｇｏ"
         },
         {
             "address": "0x118b5a",
             "size": 8,
             "text": "の街です",
-            "translation": ""
+            "translation": "Ｔｏｗｎ"
         },
         {
             "address": "0x118b65",
             "size": 8,
             "text": "の村です",
-            "translation": ""
+            "translation": "Ｖｉｌｇ"
         },
         {
             "address": "0x118b70",
             "size": 8,
             "text": "の城です",
-            "translation": ""
+            "translation": "Ｃｓｔｌ"
         },
         {
             "address": "0x118b7b",
             "size": 12,
             "text": "街の広場です",
-            "translation": ""
+            "translation": "ＴｗｎＳｑｒ"
         },
         {
             "address": "0x118b8a",
             "size": 12,
             "text": "村の広場です",
-            "translation": ""
+            "translation": "ＶｌｇＳｑｒ"
         },
         {
             "address": "0x118b99",
             "size": 8,
             "text": "ゴールド",
-            "translation": ""
+            "translation": "Ｇｏｌｄ"
         },
         {
             "address": "0x118ba4",
             "size": 4,
             "text": "です",
-            "translation": ""
+            "translation": "．"
         },
         {
             "address": "0x118bab",
@@ -4288,145 +4288,145 @@
             "address": "0x118bae",
             "size": 12,
             "text": "C6　ドワーフ",
-            "translation": ""
+            "translation": "C6Ｄｗａｒｆ"
         },
         {
             "address": "0x118bbd",
             "size": 10,
             "text": "C6　木コリ",
-            "translation": ""
+            "translation": "C6Ｌｕｍｂ"
         },
         {
             "address": "0x118bca",
             "size": 8,
             "text": "C6　僧侶",
-            "translation": ""
+            "translation": "C6Ｐｒｉ"
         },
         {
             "address": "0x118bd5",
             "size": 8,
             "text": "C6　商人",
-            "translation": ""
+            "translation": "C6Ｍｅｒ"
         },
         {
             "address": "0x118be0",
             "size": 12,
             "text": "C6　バーテン",
-            "translation": ""
+            "translation": "C6Ｂａｒｔｎ"
         },
         {
             "address": "0x118bef",
             "size": 12,
             "text": "C6　若い戦士",
-            "translation": ""
+            "translation": "C6Ｓｏｌｄｒ"
         },
         {
             "address": "0x118bfe",
             "size": 14,
             "text": "C6　ローブの男",
-            "translation": ""
+            "translation": "C6ＲｏｂｅｄＭ"
         },
         {
             "address": "0x118c0f",
             "size": 8,
             "text": "C6　村人",
-            "translation": ""
+            "translation": "C6Ｖｉｌ"
         },
         {
             "address": "0x118c1a",
             "size": 12,
             "text": "C6　吟遊詩人",
-            "translation": ""
+            "translation": "C6　Ｂａｒｄ"
         },
         {
             "address": "0x118c29",
             "size": 16,
             "text": "C6　遊び人風の男",
-            "translation": ""
+            "translation": "C6　ＹｏｕｎｇＭ"
         },
         {
             "address": "0x118c3c",
             "size": 8,
             "text": "C6　老人",
-            "translation": ""
+            "translation": "C6Ｏｌｄ"
         },
         {
             "address": "0x118c47",
             "size": 8,
             "text": "C6　戦士",
-            "translation": ""
+            "translation": "C6Ｗａｒ"
         },
         {
             "address": "0x118c52",
             "size": 8,
             "text": "C6　山師",
-            "translation": ""
+            "translation": "C6Ｈｒｍ"
         },
         {
             "address": "0x118c5d",
             "size": 14,
             "text": "C6　皮の服の男",
-            "translation": ""
+            "translation": "C6Ｈｕｎｔｅｒ"
         },
         {
             "address": "0x118c6e",
             "size": 10,
             "text": "C6　エルフ",
-            "translation": ""
+            "translation": "C6　Ｅｌｆ"
         },
         {
             "address": "0x118c7b",
             "size": 8,
             "text": "C6　小男",
-            "translation": ""
+            "translation": "C6Ｌｉｌ"
         },
         {
             "address": "0x118c86",
             "size": 8,
             "text": "C6　猟師",
-            "translation": ""
+            "translation": "C6Ｈｕｎ"
         },
         {
             "address": "0x118c91",
             "size": 10,
             "text": "C6　行商人",
-            "translation": ""
+            "translation": "C6　Ｍｅｒ"
         },
         {
             "address": "0x118c9e",
             "size": 8,
             "text": "ノービス",
-            "translation": ""
+            "translation": "Ｎｏｖｃ"
         },
         {
             "address": "0x118ca9",
             "size": 8,
             "text": "チャ・ザ",
-            "translation": ""
+            "translation": "ＣｈａＺ"
         },
         {
             "address": "0x118cb4",
             "size": 10,
             "text": "C6　女戦士",
-            "translation": ""
+            "translation": "C6　Ｆｅｍ"
         },
         {
             "address": "0x118cc1",
             "size": 16,
             "text": "選択して下さい。",
-            "translation": ""
+            "translation": "Ｓｅｌｅｃｔ："
         },
         {
             "address": "0x118cd4",
             "size": 16,
             "text": "デードリッドの家",
-            "translation": ""
+            "translation": "Ｄｅｅｄｌｉｔｓ"
         },
         {
             "address": "0x118ce7",
             "size": 24,
             "text": "C6《どこへ行きますか？》",
-            "translation": ""
+            "translation": "C6《Ｗｈｅｒｅ　ｔｏ？》"
         },
         {
             "address": "0x118d02",
@@ -4438,301 +4438,301 @@
             "address": "0x118d05",
             "size": 2,
             "text": "は",
-            "translation": ""
+            "translation": "　"
         },
         {
             "address": "0x118d0a",
             "size": 48,
             "text": "「金がないやつには用はないんだ、さっさと消えな」",
-            "translation": ""
+            "translation": "Ｎｏ　ｍｏｎｅｙ，　ｎｏ　ｂｕｓｉｎｅｓｓ．"
         },
         {
             "address": "0x118d3d",
             "size": 36,
             "text": "「いらっしゃい、何かお求めですか？」",
-            "translation": ""
+            "translation": "Ｈｏｗ　ｃａｎ　Ｉ ｈｅｌｐ？"
         },
         {
             "address": "0x118d64",
             "size": 24,
             "text": "ですがよろしいですか？」",
-            "translation": ""
+            "translation": "，ｉｓ　ｔｈｉｓ　ＯＫ？"
         },
         {
             "address": "0x118d7f",
             "size": 24,
             "text": "「ありがとうございます」",
-            "translation": ""
+            "translation": "Ｔｈａｎｋ　ｙｏｕ．"
         },
         {
             "address": "0x118d9a",
             "size": 28,
             "text": "「他にも何かお求めですか？」",
-            "translation": ""
+            "translation": "Ａｎｙｔｈｉｎｇ　ｅｌｓｅ？"
         },
         {
             "address": "0x118db9",
             "size": 36,
             "text": "「他にも何か売っていただけますか？」",
-            "translation": ""
+            "translation": "Ｗｈａｔ　ｙｏｕ　ｓｅｌｌｉｎｇ？"
         },
         {
             "address": "0x118de0",
             "size": 30,
             "text": "どなたがお売りになりますか？」",
-            "translation": ""
+            "translation": "Ｗｈｏ　ｉｓ　ｓｅｌｌｉｎｇ？"
         },
         {
             "address": "0x118e01",
             "size": 32,
             "text": "「どなたがお持ちになりますか？」",
-            "translation": ""
+            "translation": "Ｗｈｏ　ｃａｒｒｉｅｓ　ｉｔ？"
         },
         {
             "address": "0x118e24",
             "size": 18,
             "text": "またおいで下さい」",
-            "translation": ""
+            "translation": "Ｔｈａｎｋｓ！"
         },
         {
             "address": "0x118e39",
             "size": 14,
             "text": "何か用かな？」",
-            "translation": ""
+            "translation": "Ｙｅｓ？"
         },
         {
             "address": "0x118e4a",
             "size": 18,
             "text": "用はそれだけか？」",
-            "translation": ""
+            "translation": "Ｔｈａｔ　ｉｔ？"
         },
         {
             "address": "0x118e5f",
             "size": 20,
             "text": "誰が売りたいんだ？」",
-            "translation": ""
+            "translation": "Ｗｈｏ　ｓｅｌｌｓ？"
         },
         {
             "address": "0x118e76",
             "size": 14,
             "text": "だが払うか？」",
-            "translation": ""
+            "translation": "，　ｐａｙ？"
         },
         {
             "address": "0x118e87",
             "size": 24,
             "text": "なら引き取ってもいいぞ」",
-            "translation": ""
+            "translation": "Ｓｏｕｎｄｓ　ｇｏｏｄ．"
         },
         {
             "address": "0x118ea2",
             "size": 22,
             "text": "へまをして捕まるなよ」",
-            "translation": ""
+            "translation": "Ｓｔａｙ　ｃｌｅａｎ．"
         },
         {
             "address": "0x118ebb",
             "size": 8,
             "text": "「ここは",
-            "translation": ""
+            "translation": "Ｔｈｉｓ"
         },
         {
             "address": "0x118ec6",
             "size": 36,
             "text": "の寺院です。どなたかお困りですか？」",
-            "translation": ""
+            "translation": "Ｔｐｌ．Ｈｏｗ　ｃａｎ　Ｉ ｈｅｌｐ"
         },
         {
             "address": "0x118eed",
             "size": 32,
             "text": "「どなたを治療いたしましょう？」",
-            "translation": ""
+            "translation": "Ｗｈｏ　ｎｅｅｄｓ　ｈｅａｌｓ？"
         },
         {
             "address": "0x118f10",
             "size": 28,
             "text": "「寄付していただけますか？」",
-            "translation": ""
+            "translation": "Ｔｈｅ　ｄｏｎａｔｉｏｎ？"
         },
         {
             "address": "0x118f2f",
             "size": 20,
             "text": "「お金が足りません」",
-            "translation": ""
+            "translation": "Ｎｏｔ　ｅｎｏｕｇｈ"
         },
         {
             "address": "0x118f46",
             "size": 26,
             "text": "他にご用はありませんか？」",
-            "translation": ""
+            "translation": "Ｗｈａｔ　ｅｌｓｅ？"
         },
         {
             "address": "0x118f63",
             "size": 30,
             "text": "の神のご加護がありますように」",
-            "translation": ""
+            "translation": "　ｂｌｅｓｓｉｎｇｓ．"
         },
         {
             "address": "0x118f84",
             "size": 26,
             "text": "魔法に興味がおありかね？」",
-            "translation": ""
+            "translation": "Ｍａｇｉｃｋｓ　ｈｅｒｅ．"
         },
         {
             "address": "0x118fa1",
             "size": 20,
             "text": "これ以上持てません」",
-            "translation": ""
+            "translation": "Ｉｎｖ　ｆｕｌｌ．"
         },
         {
             "address": "0x118fb8",
             "size": 20,
             "text": "どれがご入用かな？」",
-            "translation": ""
+            "translation": "Ｗｈｉｃｈ？"
         },
         {
             "address": "0x118fcf",
             "size": 22,
             "text": "誰が売りたいんじゃ？」",
-            "translation": ""
+            "translation": "Ｗｈｏ　ｓｅｌｌｓ？"
         },
         {
             "address": "0x118fe8",
             "size": 22,
             "text": "何を売りたいんじゃ？」",
-            "translation": ""
+            "translation": "Ｓｅｌｌ　ｗｈａｔ？"
         },
         {
             "address": "0x119001",
             "size": 16,
             "text": "じゃが払うかね？",
-            "translation": ""
+            "translation": "，ｐａｙ？"
         },
         {
             "address": "0x119014",
             "size": 32,
             "text": "まだわしの手を煩わせる気かい？」",
-            "translation": ""
+            "translation": "Ｕｇｈ，　ｓｔｉｌｌ　ｈｅｒｅ？"
         },
         {
             "address": "0x119037",
             "size": 36,
             "text": "くらいのもんじゃがそれでいいかな？」",
-            "translation": ""
+            "translation": "．Ｔｈｉｓ　ａｌｌ　ｒｉｇｈｔ？"
         },
         {
             "address": "0x11905e",
             "size": 34,
             "text": "弟子になりたければいつでもおいで」",
-            "translation": ""
+            "translation": "Ｌｅａｒｎｅｒｓ　ｗｅｌｃｏｍｅ．"
         },
         {
             "address": "0x119083",
             "size": 38,
             "text": "「いらっしゃいませ、ごゆっくりどうぞ」",
-            "translation": ""
+            "translation": "Ｗｅｌｃｏｍｅ　ａｎｄ　ｅｎｊｏｙ．"
         },
         {
             "address": "0x1190ac",
             "size": 34,
             "text": "「アイテムを持ってないようじゃの」",
-            "translation": ""
+            "translation": "Ｙｏｕ　ｈａｖｅ　ｎｏ　ｉｔｅｍｓ"
         },
         {
             "address": "0x1190d1",
             "size": 24,
             "text": "C6《誰に話かけますか？》",
-            "translation": ""
+            "translation": "C6《Ｔａｌｋ　ｔｏ？》"
         },
         {
             "address": "0x1190ec",
             "size": 26,
             "text": "「もう一杯いかがですか？」",
-            "translation": ""
+            "translation": "Ｗａｎｔ　ａｎｏｔｈｅｒ？"
         },
         {
             "address": "0x119109",
             "size": 22,
             "text": "C6《誰と別れますか？》",
-            "translation": ""
+            "translation": "C6《Ｗｈｏ？》"
         },
         {
             "address": "0x119122",
             "size": 50,
             "text": "「久しぶりですね。また私と一緒に旅をしませんか？」",
-            "translation": ""
+            "translation": "Ｈｅｙ，ｔｒａｖｅｌ ｔｏｇｅｔｈｅｒ ａｇａｉｎ？"
         },
         {
             "address": "0x119157",
             "size": 49,
             "text": "「残念です。しばらくここで飲んだくれていますよ」W",
-            "translation": ""
+            "translation": "Ｉ´ｌｌ　ｂｅ　ｈｅｒｅ，　ｄｒｉｎｋｉｎｇ．W"
         },
         {
             "address": "0x11918b",
             "size": 29,
             "text": "「私がいれば百人力ですよ。」W",
-            "translation": ""
+            "translation": "Ｉ´ｍ　ｒｅａｄｙ！W"
         },
         {
             "address": "0x1191ab",
             "size": 65,
             "text": "「残念ね　しばらくここにいるから、気が変わったら来てちょうだい」W",
-            "translation": ""
+            "translation": "Ｌｅｍｍｅ ｋｎｏｗ ｉｆ ｙｏｕ ｃｈａｎｇｅ ｙｏｕｒ ｍｉｎｄ．W"
         },
         {
             "address": "0x1191ef",
             "size": 27,
             "text": "「ありがとう　よろしくね」W",
-            "translation": ""
+            "translation": "Ｌｅｔ＇ｓ　ｇｏ！W"
         },
         {
             "address": "0x11920d",
             "size": 22,
             "text": "「おはようございます」",
-            "translation": ""
+            "translation": "Ｔｈａｎｋ　ｙｏｕ．"
         },
         {
             "address": "0x119226",
             "size": 16,
             "text": "C6セーブしました",
-            "translation": ""
+            "translation": "C6Ｓａｖｅｄ．"
         },
         {
             "address": "0x119239",
             "size": 30,
             "text": "「どなたがお売りになりますか」",
-            "translation": ""
+            "translation": "Ｗｈｏ　ｗｉｌｌ　ｓｅｌｌ？"
         },
         {
             "address": "0x11925a",
             "size": 34,
             "text": "C6準備ができたらキーを押して下さい",
-            "translation": ""
+            "translation": "C6Ｐｒｅｓｓ　ａｎｙ　ｋｅｙ．．．"
         },
         {
             "address": "0x11927f",
             "size": 28,
             "text": "「どなたが買われるのかな？」",
-            "translation": ""
+            "translation": "Ｗｈｏ　ｗｉｌｌ　ｂｕｙ？"
         },
         {
             "address": "0x11929e",
             "size": 34,
             "text": "「どなたがお買い上げなさいますか」",
-            "translation": ""
+            "translation": "Ｗｈｏ　ｐｕｒｃｈａｓｅｓ？"
         },
         {
             "address": "0x1192c3",
             "size": 26,
             "text": "「５０ゴールド払うかね？」",
-            "translation": ""
+            "translation": "Ｉｓ　５０Ｇ ｏｋａｙ？"
         },
         {
             "address": "0x1192e0",
             "size": 34,
             "text": "じゃあ、残念だが役にはたてないな」",
-            "translation": ""
+            "translation": "Ｔｈｅｎ Ｉ ｃａｎ＇ｔ　ｈｅｌｐ．"
         },
         {
             "address": "0x119305",
@@ -4756,37 +4756,37 @@
             "address": "0x1193b3",
             "size": 8,
             "text": "アイテム",
-            "translation": ""
+            "translation": "Ｉｔｅｍ"
         },
         {
             "address": "0x1193be",
             "size": 38,
             "text": "「どなたのアイテムを鑑定しましょうか」",
-            "translation": ""
+            "translation": "Ｉｄｅｎｔｉｆｙ　ｗｈｏｓｅ？"
         },
         {
             "address": "0x1193e7",
             "size": 38,
             "text": "「どのアイテムを鑑定いたしましょう？」",
-            "translation": ""
+            "translation": "Ｉｄｅｎｔｉｆｙ　ｗｈｉｃｈ？"
         },
         {
             "address": "0x119410",
             "size": 10,
             "text": "の鑑定料は",
-            "translation": ""
+            "translation": "ＩＤ　ｉｓ"
         },
         {
             "address": "0x11941d",
             "size": 36,
             "text": "「なんだ、金を持ってないじゃないか」",
-            "translation": ""
+            "translation": "Ｎｏｔ　ｅｎｏｕｇｈ　ｇｏｌｄ．"
         },
         {
             "address": "0x119444",
             "size": 49,
             "text": "「あら残念ね。しばらくここで飲んだくれているわ」W",
-            "translation": ""
+            "translation": "Ｉ´ｌｌ ｂｅ ｈｅｒｅ ｆｏｒ ａ ｗｈｉｌｅ．W"
         },
         {
             "address": "0x119478",
