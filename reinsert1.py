@@ -30,7 +30,7 @@ for w in data["words"]:
                 while len(_d) < w["size"]:
                     _d += b'\x20'
                     ovr += 1
-                print(_d.decode("sjis"), "unused", ovr)
+                print(tct,_d.decode("sjis"), "unused", ovr)
                 a.txt = _d 
                 a.addr = int(w["address"],16)
                 jlines.append(a)
@@ -125,7 +125,7 @@ k = 0
 while k < len(jlines):
     s = jlines[k]
     bc = s.addr 
-    inby = inby[:bc] + bytes(s.txt) + bytes([ord('#'), 0x0d, 0x0a]) + inby[bc + 3 + len(bytes(s.txt)):]
+    inby = inby[:bc] + bytes(s.txt) + inby[bc + len(bytes(s.txt)):]#+ bytes([ord('#'), 0x0d, 0x0a]) + inby[bc + 3 + len(bytes(s.txt)):]
     k += 1
 
 f = open ("lodoss-ben_e.hdm", "wb")
