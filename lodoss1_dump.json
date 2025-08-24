@@ -94,43 +94,43 @@
             "address": "0x114e81",
             "size": 8,
             "text": "の使い手",
-            "translation": ""
+            "translation": "　ｏｆ　"
         },
         {
             "address": "0x114e8c",
             "size": 12,
             "text": "　　マイリー",
-            "translation": ""
+            "translation": "　Ｍｙｒｉｉ"
         },
         {
             "address": "0x114e9b",
             "size": 12,
             "text": "　　チャ・ザ",
-            "translation": ""
+            "translation": "ＣｈａーＺａ"
         },
         {
             "address": "0x114eaa",
             "size": 12,
             "text": "　　ファリス",
-            "translation": ""
+            "translation": "　Ｆａｒｉｓ"
         },
         {
             "address": "0x114eb9",
             "size": 12,
             "text": "　　マーファ",
-            "translation": ""
+            "translation": "　Ｍａｒｆａ"
         },
         {
             "address": "0x114ec8",
             "size": 10,
             "text": "　　ラーダ",
-            "translation": ""
+            "translation": "Ｒａｈｄａ"
         },
         {
             "address": "0x114ed5",
             "size": 12,
             "text": "の敬虔な信徒",
-            "translation": ""
+            "translation": "　ｌａｍｂ　"
         },
         {
             "address": "0x114ee4",
@@ -142,19 +142,19 @@
             "address": "0x114efd",
             "size": 38,
             "text": "　　サイレントスピリットのオーソリティ",
-            "translation": ""
+            "translation": "Ｓｉｌｅｎｔ　ｓｐｉｒｉｔ　ａｃｅ　　"
         },
         {
             "address": "0x114f26",
             "size": 34,
             "text": "　　ハイエンシェントのオーソリティ",
-            "translation": ""
+            "translation": "Ｈｉｇｈ　ａｎｃｉｅｎｔ　ａｃｅ　"
         },
         {
             "address": "0x114f4b",
             "size": 30,
             "text": "　　すべての魔法のオーソリティ",
-            "translation": ""
+            "translation": "Ａｌｌーｍａｇｉｃ　ａｃｅ　　"
         },
         {
             "address": "0x114f6c",
@@ -202,37 +202,37 @@
             "address": "0x115047",
             "size": 40,
             "text": "勇者は戦いに勝ち、そして己の意志に負ける",
-            "translation": ""
+            "translation": "Ｖｉｃｔｏｒｉｅｓ　ｂｒｉｎｇ　ｌｏｓｓ"
         },
         {
             "address": "0x115072",
             "size": 20,
             "text": "ひとりのカーラは去り",
-            "translation": ""
+            "translation": "Ｋａｒｌａ，ｇｏｎｅ"
         },
         {
             "address": "0x115089",
             "size": 36,
             "text": "　　　　　新たなカーラが生まれたのだ",
-            "translation": ""
+            "translation": "Ｋａｒｌａ　ｉｓ　ｂｏｒｎ　ａｎｅｗ"
         },
         {
             "address": "0x1150b0",
             "size": 24,
             "text": "困難な戦いに勇者は勝った",
-            "translation": ""
+            "translation": "　　Ｖｉｃｔｏｒｙ！　　"
         },
         {
             "address": "0x1150cb",
             "size": 26,
             "text": "灰色の霧はついに晴れたのだ",
-            "translation": ""
+            "translation": "Ｔｈｅ　ｆｏｇ　ｃｌｅａｒ"
         },
         {
             "address": "0x1150e8",
             "size": 22,
             "text": "格闘技のオーソリティー",
-            "translation": ""
+            "translation": "　Ｆｉｇｈｔ　ｐｒｏ　"
         },
         {
             "address": "0x115e00",
@@ -4678,7 +4678,7 @@
             "address": "0x1191ab",
             "size": 65,
             "text": "「残念ね　しばらくここにいるから、気が変わったら来てちょうだい」W",
-            "translation": "Ｌｅｍｍｅ ｋｎｏｗ ｉｆ ｙｏｕ ｃｈａｎｇｅ ｙｏｕｒ ｍｉｎｄ．W"
+            "translation": "Ｉ’ｌｌ　ｂｅ　ｈｅｒｅ　ｆｏｒ　ａ　ｗｈｉｌｅ．W"
         },
         {
             "address": "0x1191ef",
@@ -4738,13 +4738,13 @@
             "address": "0x119305",
             "size": 82,
             "text": "「あんまり、オレ達をからかっちゃいけねえな。これからは背中に気をつけて歩くこった」",
-            "translation": ""
+            "translation": "Ｙｏｕ’ｄ　ｂｅｔｔｅｒ　ｗａｔｃｈ　ｙｏｕｒ　ｂａｃｋｓ．"
         },
         {
             "address": "0x11935a",
             "size": 83,
             "text": "はここで治療されるほどのことはありませんね。宿でゆっくりと休まれるとよいでしょう」W",
-            "translation": ""
+            "translation": "　ｉｓ　ｂｅｔｔｅｒ　ｏｆｆ　ｒｅｓｔｉｎｇ　ａｔ　ｔｈｅ　ｉｎｎ．　　　　　　　W"
         },
         {
             "address": "0x1193b0",
@@ -4792,7 +4792,7 @@
             "address": "0x119478",
             "size": 12,
             "text": "ヴァリスの城",
-            "translation": ""
+            "translation": "ＶａｌｉｓＣ"
         },
         {
             "address": "0x119487",
@@ -4810,145 +4810,145 @@
             "address": "0x119491",
             "size": 34,
             "text": "「なんだお前達は。帰れ！、帰れ！」",
-            "translation": ""
+            "translation": "”Ｇｅｔ　ｏｕｔｔａ　ｈｅｒｅ！”"
         },
         {
             "address": "0x1194b6",
             "size": 22,
             "text": "「何をお求めですか？」",
-            "translation": ""
+            "translation": "”Ｙｅｓ？”"
         },
         {
             "address": "0x1194cf",
             "size": 32,
             "text": "「どれを売っていただけますか？」",
-            "translation": ""
+            "translation": "”Ｓｅｌｌ　ｗｈｉｃｈ？”"
         },
         {
             "address": "0x1194f2",
             "size": 20,
             "text": "「誰が持つんじゃ？」",
-            "translation": ""
+            "translation": "Ｆｏｒ　ｗｈｏｍ？"
         },
         {
             "address": "0x119509",
             "size": 22,
             "text": "「誰のアイテムかの？」",
-            "translation": ""
+            "translation": "Ｗｈｏｓｅ　ｉｔｅｍ？"
         },
         {
             "address": "0x119522",
             "size": 24,
             "text": "「どれじゃ、どれじゃ？」",
-            "translation": ""
+            "translation": "Ｗｈｉｃｈ　ｎｏｗ？"
         },
         {
             "address": "0x11953d",
             "size": 22,
             "text": "「何を売りたいんだ？」",
-            "translation": ""
+            "translation": "Ｓｅｌｌ　ｗｈａｔ？"
         },
         {
             "address": "0x119556",
             "size": 38,
             "text": "「アイテムを持っていないじゃないか！」",
-            "translation": ""
+            "translation": "”Ｙｏｕ　ｈａｖｅ　ｎｏｔｈｉｎｇ！”"
         },
         {
             "address": "0x11957f",
             "size": 18,
             "text": "「誰が売るんだい」",
-            "translation": ""
+            "translation": "”Ｗｈｏ？”"
         },
         {
             "address": "0x119594",
             "size": 16,
             "text": "「君たちの情報は",
-            "translation": ""
+            "translation": "Ｔｈｉｓ　ｉｓ　"
         },
         {
             "address": "0x1195a7",
             "size": 60,
             "text": "ゴールドくらいのものだ。新しい情報が入ったらまた来るといい」",
-            "translation": ""
+            "translation": "ｇ　ｗｏｒｔｈ　ｏｆ　ｉｎｆｏ．Ｃｏｍｅ　ａｇａｉｎ．"
         },
         {
             "address": "0x1195e6",
             "size": 34,
             "text": "「その程度の情報には金は払えんな」",
-            "translation": ""
+            "translation": "Ｎｏｔｈｉｎｇ　Ｉ　ｗａｎｔ．"
         },
         {
             "address": "0x11960b",
             "size": 18,
             "text": "１　六英雄のサーガ",
-            "translation": ""
+            "translation": "１　６Ｈｅｒｏｅｓ"
         },
         {
             "address": "0x119620",
             "size": 22,
             "text": "２　ミノタウロスの迷宮",
-            "translation": ""
+            "translation": "２　ＭｉｎｏＬａｂｙｒ"
         },
         {
             "address": "0x119639",
             "size": 24,
             "text": "「どの歌にしましょう？」",
-            "translation": ""
+            "translation": "Ｗｈｉｃｈ　ｓｏｎｇ？"
         },
         {
             "address": "0x119654",
             "size": 40,
             "text": "でいいんなら引き取ってやるぜ。どうだい？",
-            "translation": ""
+            "translation": "　ａｎｄ　Ｉ’ｌｌ　ｄｏ　ｉｔ！"
         },
         {
             "address": "0x11967f",
             "size": 36,
             "text": "でいいなら引き取るがな。よろしいかな",
-            "translation": ""
+            "translation": "　ａｎｄ　Ｉ’ｌｌ　ｄｏ　ｉｔ．"
         },
         {
             "address": "0x1196a6",
             "size": 24,
             "text": "「ほかにも何か御用は？」",
-            "translation": ""
+            "translation": "Ｗｈａｔ　ｅｌｓｅ？"
         },
         {
             "address": "0x1196c1",
             "size": 28,
             "text": "C6《誰が店員と話しますか？》",
-            "translation": ""
+            "translation": "C6《Ｗｈｏ　ｔａｌｋｓ？》"
         },
         {
             "address": "0x1196e0",
             "size": 20,
             "text": "「何になさいますか」",
-            "translation": ""
+            "translation": "Ｙｅｓ？"
         },
         {
             "address": "0x1196f7",
             "size": 20,
             "text": "はこれ以上持てません",
-            "translation": ""
+            "translation": "　ｉｎｖ．　ｆｕｌｌ"
         },
         {
             "address": "0x11970e",
             "size": 20,
             "text": "は何も持っていません",
-            "translation": ""
+            "translation": "　ｉｎｖ．ｅｍｐｔｙ"
         },
         {
             "address": "0x119725",
             "size": 34,
             "text": "でお引き取りしますがよろしいですか",
-            "translation": ""
+            "translation": "　ｗｉｌｌ　ｔｒａｄｅ．Ｏｋａｙ？"
         },
         {
             "address": "0x11974a",
             "size": 38,
             "text": "「いらっしゃいませ、お泊まりですか？」",
-            "translation": ""
+            "translation": "Ｗｅｌｃｏｍｅ．Ｓｔａｙ　ｏｖｅｒ？"
         },
         {
             "address": "0x119773",
@@ -4960,181 +4960,181 @@
             "address": "0x11978c",
             "size": 30,
             "text": "「ごゆっくりお泊まりください」",
-            "translation": ""
+            "translation": "Ｓｌｅｅｐ　ｗｅｌｌ．"
         },
         {
             "address": "0x1197ad",
             "size": 48,
             "text": "「おはようございます。昨日はよく眠れましたか？」",
-            "translation": ""
+            "translation": "Ｇｏｏｄ　ｍｏｒｎｉｎｇ．Ｒｅｓｔ　ｗｅｌｌ？"
         },
         {
             "address": "0x1197e0",
             "size": 28,
             "text": "C6パーティーは宿をあとにした",
-            "translation": ""
+            "translation": "C6Ｌｅｆｔ　ｔｈｅ　ｉｎｎ"
         },
         {
             "address": "0x1197ff",
             "size": 41,
             "text": "C2パーティーは恐ろしい夢から目を覚ましたW",
-            "translation": ""
+            "translation": "C2Ｗｏｋｅ　ｆｒｏｍ　ｎｉｇｈｔｍａｒｅW"
         },
         {
             "address": "0x11982b",
             "size": 22,
             "text": "C6データをセーブします",
-            "translation": ""
+            "translation": "C6Ｓａｖｉｎｇ．．．"
         },
         {
             "address": "0x119844",
             "size": 6,
             "text": "C6か？",
-            "translation": ""
+            "translation": "C6？"
         },
         {
             "address": "0x11984d",
             "size": 20,
             "text": "C4《おやすみなさい》",
-            "translation": ""
+            "translation": "C4《Ｎｉｇｈｔ！》"
         },
         {
             "address": "0x119864",
             "size": 32,
             "text": "「ひやかしなら出て行ってくれ！」",
-            "translation": ""
+            "translation": "Ｃｏｍｅ　ｏｎ　ｏｕｔ！"
         },
         {
             "address": "0x119887",
             "size": 20,
             "text": "「よろしいですか？」",
-            "translation": ""
+            "translation": "Ｔｈｉｓ　ＯＫ？"
         },
         {
             "address": "0x11989e",
             "size": 12,
             "text": "「おひとり様",
-            "translation": ""
+            "translation": "Ａｌｏｎｅ，"
         },
         {
             "address": "0x1198ad",
             "size": 28,
             "text": "は治療の必要がありませんよ」",
-            "translation": ""
+            "translation": "　ｎｅｅｄｓ　ｎｏ　ｈｅａｌ"
         },
         {
             "address": "0x1198cc",
             "size": 12,
             "text": "パーティーは",
-            "translation": ""
+            "translation": "Ｐａｒｔｙ　"
         },
         {
             "address": "0x1198db",
             "size": 12,
             "text": "をあとにした",
-            "translation": ""
+            "translation": "　ｌｅｆｔ．"
         },
         {
             "address": "0x1198ea",
             "size": 14,
             "text": "二階へ上がった",
-            "translation": ""
+            "translation": "Ｔｏ　２Ｆ．．"
         },
         {
             "address": "0x1198fb",
             "size": 20,
             "text": "を見捨てるんですか？",
-            "translation": ""
+            "translation": "　ａｂａｎｄｏｎ？"
         },
         {
             "address": "0x119912",
             "size": 26,
             "text": "をパーティーからはずします",
-            "translation": ""
+            "translation": "　ｌｅｆｔ　ｂｅｈｉｎｄ．"
         },
         {
             "address": "0x11992f",
             "size": 22,
             "text": "C6《よろしいですか？》",
-            "translation": ""
+            "translation": "C6《ＴｈｉｓＯＫ？》"
         },
         {
             "address": "0x119948",
             "size": 6,
             "text": "ターバ",
-            "translation": ""
+            "translation": "Ｔａｂ"
         },
         {
             "address": "0x119951",
             "size": 8,
             "text": "マーファ",
-            "translation": ""
+            "translation": "Ｍａｒｆ"
         },
         {
             "address": "0x11995c",
             "size": 6,
             "text": "ニース",
-            "translation": ""
+            "translation": "Ｎｉｓ"
         },
         {
             "address": "0x119965",
             "size": 10,
             "text": "は回復した",
-            "translation": ""
+            "translation": "　ｈｅａｌ"
         },
         {
             "address": "0x119972",
             "size": 22,
             "text": "C6《誰が払いますか？》",
-            "translation": ""
+            "translation": "C6Ｗｈｏ　ｐａｙｓ？"
         },
         {
             "address": "0x11998b",
             "size": 20,
             "text": "を仲間に加えますか？",
-            "translation": ""
+            "translation": "　ｒｅｃｒｕｉｔ？"
         },
         {
             "address": "0x1199a2",
             "size": 4,
             "text": "ギム",
-            "translation": ""
+            "translation": "Ｇｈ"
         },
         {
             "address": "0x1199a9",
             "size": 8,
             "text": "スレイン",
-            "translation": ""
+            "translation": "Ｓｌａｙ"
         },
         {
             "address": "0x1199b4",
             "size": 6,
             "text": "パーン",
-            "translation": ""
+            "translation": "Ｐａｒ"
         },
         {
             "address": "0x1199bd",
             "size": 14,
             "text": "ディードリット",
-            "translation": ""
+            "translation": "Ｄｅｅｄｌｉｔ"
         },
         {
             "address": "0x1199ce",
             "size": 4,
             "text": "エト",
-            "translation": ""
+            "translation": "Ｅｔ"
         },
         {
             "address": "0x1199d5",
             "size": 14,
             "text": "ウッドチャック",
-            "translation": ""
+            "translation": "Ｗｏｏｄｃｈｕ"
         },
         {
             "address": "0x1199e6",
             "size": 30,
             "text": "C2パーティーに空きがありません",
-            "translation": ""
+            "translation": "C2Ｎｏ　ｆｒｅｅ　ｓｐａｃｅ"
         },
         {
             "address": "0x119a07",
@@ -6226,91 +6226,91 @@
             "address": "0x11a7b5",
             "size": 10,
             "text": "休息を取る",
-            "translation": ""
+            "translation": "Ｒｅｓｔ"
         },
         {
             "address": "0x11a7c2",
             "size": 14,
             "text": "ステータス表示",
-            "translation": ""
+            "translation": "Ｓｔａｔｕｓ"
         },
         {
             "address": "0x11a7d3",
             "size": 16,
             "text": "メンバー隊列変更",
-            "translation": ""
+            "translation": "Ｆｏｒｍーｕｐ"
         },
         {
             "address": "0x11a7e6",
             "size": 14,
             "text": "表示速度の変更",
-            "translation": ""
+            "translation": "ＤｉｓｐＳｐｄ"
         },
         {
             "address": "0x11a7f7",
             "size": 14,
             "text": "勢力範囲の表示",
-            "translation": ""
+            "translation": "Ｆａｃｔｉｏｎ"
         },
         {
             "address": "0x11a808",
             "size": 12,
             "text": "魔法を唱える",
-            "translation": ""
+            "translation": "Ｍａｇｉｃ"
         },
         {
             "address": "0x11a817",
             "size": 14,
             "text": "アイテムを見る",
-            "translation": ""
+            "translation": "ＶｉｅｗＩｔｍ"
         },
         {
             "address": "0x11a828",
             "size": 14,
             "text": "アイテムを使う",
-            "translation": ""
+            "translation": "ＵｓｅＩｔｅｍ"
         },
         {
             "address": "0x11a839",
             "size": 14,
             "text": "アイテムを渡す",
-            "translation": ""
+            "translation": "ＧｉｖｅＩｔｍ"
         },
         {
             "address": "0x11a84a",
             "size": 16,
             "text": "アイテムを捨てる",
-            "translation": ""
+            "translation": "ＴｏｓｓＩｔｍ"
         },
         {
             "address": "0x11a85d",
             "size": 22,
             "text": "アイテムに名前を付ける",
-            "translation": ""
+            "translation": "Ｒｅｎａｍｅ　Ｉｔｅｍ"
         },
         {
             "address": "0x11a876",
             "size": 18,
             "text": "アイテムを装備する",
-            "translation": ""
+            "translation": "Ｅｑｕｉｐ"
         },
         {
             "address": "0x11a88b",
             "size": 16,
             "text": "通常時の表示速度",
-            "translation": ""
+            "translation": "Ｔｅｘｔ　Ｓｐｄ"
         },
         {
             "address": "0x11a89e",
             "size": 16,
             "text": "戦闘時の表示速度",
-            "translation": ""
+            "translation": "ＢａｔｔｌＳｐｄ"
         },
         {
             "address": "0x11a8b1",
             "size": 18,
             "text": "C6現在の表示速度：",
-            "translation": ""
+            "translation": "C6Ｃｕｒｒｅｎｔ："
         },
         {
             "address": "0x11a8c6",
@@ -6382,7 +6382,7 @@
             "address": "0x11a905",
             "size": 44,
             "text": "C5§か左クリックで次へ、●か右クリックで前へ",
-            "translation": ""
+            "translation": "C5§ｏｒＬＭＢ　＞、●ｏｒＲＭＢ　＜"
         },
         {
             "address": "0x11a934",
@@ -6406,60 +6406,60 @@
             "address": "0x11a95b",
             "size": 8,
             "text": "C6参戦国",
-            "translation": ""
+            "translation": "C6Ｗａｒ"
         },
         {
             "address": "0x11a966",
             "size": 8,
             "text": "C5中立国",
-            "translation": ""
+            "translation": "C5Ｎｅｕ"
         },
         {
             "address": "0x11a971",
             "size": 8,
             "text": "C0滅亡国",
-            "translation": ""
+            "translation": "C0ＫＩＡ"
         },
         {
             "address": "0x11a97c",
             "size": 12,
             "text": "　　ヴァリス",
-            "translation": ""
+            "translation": "　Ｖａｌｉｓ"
         },
         {
             "address": "0x11a98b",
             "size": 12,
-            "text": "　　マーモ　",
+            "text": "　Ｍａｒｍｏ",
             "translation": ""
         },
         {
             "address": "0x11a99a",
             "size": 12,
-            "text": "　　アラニア",
+            "text": "Ａｒａｎｉａ",
             "translation": ""
         },
         {
             "address": "0x11a9a9",
             "size": 12,
-            "text": "　　カノン　",
+            "text": "　Ｋａｎｏｎ",
             "translation": ""
         },
         {
             "address": "0x11a9b8",
             "size": 12,
-            "text": "　　モス　　",
+            "text": "　　Ｍｏｓｓ",
             "translation": ""
         },
         {
             "address": "0x11a9c7",
             "size": 12,
-            "text": "　　フレイム",
+            "text": " Ｆｌａｍｅ",
             "translation": ""
         },
         {
             "address": "0x11a9d6",
             "size": 10,
-            "text": "　　コモン",
+            "text": "Ｃｏｍｍｎ",
             "translation": ""
         },
         {
@@ -6514,127 +6514,127 @@
             "address": "0x11aa1b",
             "size": 16,
             "text": "リードランゲッジ",
-            "translation": ""
+            "translation": "ＲｅａｄＬａｎｇ"
         },
         {
             "address": "0x11aa2e",
             "size": 8,
             "text": "ビジョン",
-            "translation": ""
+            "translation": "Ｖｉｓｎ"
         },
         {
             "address": "0x11aa39",
             "size": 16,
             "text": "テレポテーション",
-            "translation": ""
+            "translation": "Ｔｅｌｅｐｏｒｔ"
         },
         {
             "address": "0x11aa4c",
             "size": 6,
             "text": "ロアー",
-            "translation": ""
+            "translation": "Ｌｏｗ"
         },
         {
             "address": "0x11aa55",
             "size": 14,
             "text": "コモンマジック",
-            "translation": ""
+            "translation": "ＣｏｍｎＭａｇ"
         },
         {
             "address": "0x11aa66",
             "size": 6,
             "text": "ライト",
-            "translation": ""
+            "translation": "Ｌｇｔ"
         },
         {
             "address": "0x11aa6f",
             "size": 12,
             "text": "デテクション",
-            "translation": ""
+            "translation": "Ｄｅｔｅｃｔ"
         },
         {
             "address": "0x11aa7e",
             "size": 10,
             "text": "アンロック",
-            "translation": ""
+            "translation": "Ｕｎｌｏｋ"
         },
         {
             "address": "0x11aa8b",
             "size": 10,
             "text": "ヒーリング",
-            "translation": ""
+            "translation": "Ｈｅａｌ"
         },
         {
             "address": "0x11aa98",
             "size": 28,
             "text": "トランスファーメンタルパワー",
-            "translation": ""
+            "translation": "ＴｒａｎｓｆｅｒＭｅｎｔａｌ"
         },
         {
             "address": "0x11aab7",
             "size": 20,
             "text": "キュアーインジャリー",
-            "translation": ""
+            "translation": "ＣｕｒｅＩｎｊｕｒｙ"
         },
         {
             "address": "0x11aace",
             "size": 24,
             "text": "ニュートラライズポイズン",
-            "translation": ""
+            "translation": "Ｃｕｒｅ　Ｐｏｉｓｏｎ"
         },
         {
             "address": "0x11aae9",
             "size": 18,
             "text": "キュアーパラライズ",
-            "translation": ""
+            "translation": "ＣｕｒｅＰａｒａ"
         },
         {
             "address": "0x11aafe",
             "size": 18,
             "text": "キュアーディシーズ",
-            "translation": ""
+            "translation": "ＣｕｒｅＤｉｓｅａ"
         },
         {
             "address": "0x11ab13",
             "size": 12,
             "text": "リフレッシュ",
-            "translation": ""
+            "translation": "Ｒｅｆｒｓｈ"
         },
         {
             "address": "0x11ab22",
             "size": 14,
             "text": "リザレクション",
-            "translation": ""
+            "translation": "Ｒｅｓｒｅｃｔ"
         },
         {
             "address": "0x11ab33",
             "size": 6,
             "text": "ラック",
-            "translation": ""
+            "translation": "Ｌｕｃ"
         },
         {
             "address": "0x11ab3c",
             "size": 8,
             "text": "アラート",
-            "translation": ""
+            "translation": "Ａｌｒｔ"
         },
         {
             "address": "0x11ab47",
             "size": 22,
             "text": "レベルレストレーション",
-            "translation": ""
+            "translation": "ＲｅｓｔｏｒｅＬｖｌｓ"
         },
         {
             "address": "0x11ab60",
             "size": 28,
             "text": "ガイディッドテレポテーション",
-            "translation": ""
+            "translation": "ＧｕｉｄｅｄＴｅｌｅｐｏｒｔ"
         },
         {
             "address": "0x11ab7f",
             "size": 26,
             "text": "C2　　　　ＭＰが足りません",
-            "translation": ""
+            "translation": "C2　　Ｎｅｅｄ　ＭＰ！"
         },
         {
             "address": "0x11ab9c",
@@ -7588,151 +7588,151 @@
             "address": "0x11b840",
             "size": 16,
             "text": "C2敵と遭遇した！",
-            "translation": ""
+            "translation": "C2Ｅｎｅｍｙ！"
         },
         {
             "address": "0x11b853",
             "size": 16,
             "text": "テントがあります",
-            "translation": ""
+            "translation": "Ａ　ｔｅｎｔ．"
         },
         {
             "address": "0x11b866",
             "size": 38,
             "text": "　　　ちょっと賢くなったような気がする",
-            "translation": ""
+            "translation": "　　Ｙｏｕ　ｆｅｅｌ　ｓｍａｒｔｅｒ．"
         },
         {
             "address": "0x11b88f",
             "size": 34,
             "text": "　　　　　美しさにみがきがかかった",
-            "translation": ""
+            "translation": "　　　　Ｂｅａｕｔｙ　ｓｈｉｎｅｓ"
         },
         {
             "address": "0x11b8b4",
             "size": 28,
             "text": "　　　　　　体が丈夫になった",
-            "translation": ""
+            "translation": " Ｂｏｄｙ　ｔｏｕｇｈｅｎｓ"
         },
         {
             "address": "0x11b8d3",
             "size": 28,
             "text": "　　　　　体に力がみなぎった",
-            "translation": ""
+            "translation": "　　　Ｐｏｗｅｒ　ｆｌｏｗｓ"
         },
         {
             "address": "0x11b8f2",
             "size": 26,
             "text": "　　　　　より敏捷になった",
-            "translation": ""
+            "translation": "Ｂｅｃｏｍｅｓ　ｑｕｉｃｋ"
         },
         {
             "address": "0x11b90f",
             "size": 20,
             "text": "C6Ｎｅｘｔ　Ｅｘｐ：",
-            "translation": ""
+            "translation": "C6ＥＸＰ ＴＮＬ："
         },
         {
             "address": "0x11b926",
             "size": 38,
             "text": "C2　　　シールドで手がふさがっています",
-            "translation": ""
+            "translation": "C2Ｃａｒｒｙｉｎｇ　ａ　ｓｈｉｅｌｄ"
         },
         {
             "address": "0x11b94f",
             "size": 38,
             "text": "C2　　　ウェポンで手がふさがっています",
-            "translation": ""
+            "translation": "C2Ｃａｒｒｙｉｎｇ　ａ　ｗｅａｐｏｎ"
         },
         {
             "address": "0x11b978",
             "size": 16,
             "text": "片手持ちウェポン",
-            "translation": ""
+            "translation": "１Ｈ Ｗｅａｐｎ"
         },
         {
             "address": "0x11b98b",
             "size": 16,
             "text": "両手持ちウェポン",
-            "translation": ""
+            "translation": "２Ｈ Ｗｅａｐｎ"
         },
         {
             "address": "0x11b99e",
             "size": 12,
             "text": "入りますか？",
-            "translation": ""
+            "translation": "Ｅｎｔｅｒ？"
         },
         {
             "address": "0x11b9ad",
             "size": 16,
             "text": "ここはターバです",
-            "translation": ""
+            "translation": "Ｔａｒｂａ．"
         },
         {
             "address": "0x11b9c0",
             "size": 18,
             "text": "ここはザクソンです",
-            "translation": ""
+            "translation": "Ｚａｘｏｎ．"
         },
         {
             "address": "0x11b9d5",
             "size": 16,
             "text": "ここはアランです",
-            "translation": ""
+            "translation": "Ａｒａｎ．"
         },
         {
             "address": "0x11b9e8",
             "size": 18,
             "text": "ここはノービスです",
-            "translation": ""
+            "translation": "Ｎｏｖｉｃｅ．"
         },
         {
             "address": "0x11b9fd",
             "size": 30,
             "text": "ここはシャイニングトゥリーです",
-            "translation": ""
+            "translation": "Ｓｈｉｎｉｎｇ　Ｔｒｅｅ．"
         },
         {
             "address": "0x11ba1e",
             "size": 16,
             "text": "ここはロイドです",
-            "translation": ""
+            "translation": "Ｒｏｉｄ．"
         },
         {
             "address": "0x11ba31",
             "size": 14,
             "text": "ここはウズです",
-            "translation": ""
+            "translation": "Ｕｚｕ．"
         },
         {
             "address": "0x11ba42",
             "size": 24,
             "text": "ここはドラゴンブレスです",
-            "translation": ""
+            "translation": "Ｄｒａｇｏｎｂｒｅａｔｈ"
         },
         {
             "address": "0x11ba5d",
             "size": 18,
             "text": "ここはブレードです",
-            "translation": ""
+            "translation": "Ｂｌａｄｅ．"
         },
         {
             "address": "0x11ba72",
             "size": 18,
             "text": "ここはライデンです",
-            "translation": ""
+            "translation": "Ｒａｉｄｅｎ．"
         },
         {
             "address": "0x11ba87",
             "size": 16,
             "text": "ここはアダンです",
-            "translation": ""
+            "translation": "Ａｄａｎ．"
         },
         {
             "address": "0x11ba9a",
             "size": 26,
             "text": "ここはドラゴンスケールです",
-            "translation": ""
+            "translation": "Ｄｒａｇｏｎｓｃａｌｅ．"
         },
         {
             "address": "0x11bab7",
@@ -7744,79 +7744,79 @@
             "address": "0x11bac4",
             "size": 14,
             "text": "屋敷があります",
-            "translation": ""
+            "translation": "Ａ　ｈｏｕｓｅ"
         },
         {
             "address": "0x11bad5",
             "size": 12,
             "text": "城があります",
-            "translation": ""
+            "translation": "Ｃａｓｔｌｅ"
         },
         {
             "address": "0x11bae4",
             "size": 12,
             "text": "塔があります",
-            "translation": ""
+            "translation": "Ｔｏｗｅｒ．"
         },
         {
             "address": "0x11baf3",
             "size": 20,
             "text": "洞窟の入口があります",
-            "translation": ""
+            "translation": "Ｃａｖｅ　ｅｎｔｒ．"
         },
         {
             "address": "0x11bb0a",
             "size": 18,
             "text": "ここは街の廃墟です",
-            "translation": ""
+            "translation": "ＴｏｗｎＲｕｉｎｓ"
         },
         {
             "address": "0x11bb1f",
             "size": 20,
             "text": "ピラミッドがあります",
-            "translation": ""
+            "translation": "Ａ　ｐｙｒａｍｉｄ．"
         },
         {
             "address": "0x11bb36",
             "size": 22,
             "text": "ここはカノンの廃墟です",
-            "translation": ""
+            "translation": "Ｋａｎｏｎ　ｒｕｉｎｓ"
         },
         {
             "address": "0x11bb4f",
             "size": 16,
             "text": "C6村を見つけた！",
-            "translation": ""
+            "translation": "C6Ｖｉｌｌａ！"
         },
         {
             "address": "0x11bb62",
             "size": 30,
             "text": "C2霧が深くて、辺りが見えない！",
-            "translation": ""
+            "translation": "C2Ｆｏｇ！Ｃａｎｔ　ｓｅｅ！"
         },
         {
             "address": "0x11bb83",
             "size": 44,
             "text": "C5●か右クリックで、キャンプから抜けます．　",
-            "translation": ""
+            "translation": "C5●ｏｒ　ＲＭＢ　ｔｏ　ｅｘｉｔ．"
         },
         {
             "address": "0x11bbb2",
             "size": 28,
             "text": "C2魔法は封じ込められている！",
-            "translation": ""
+            "translation": "C2Ｍａｇｉｃ　ｓｅａｌｅｄ"
         },
         {
             "address": "0x11bbd1",
             "size": 34,
             "text": "C2　　　　すべての装備をはずした！",
-            "translation": ""
+            "translation": "C2Ｅｑｕｉｐ．　ｒｅｍｏｖｅｄ！"
         },
         {
             "address": "0x11bbf6",
             "size": 40,
             "text": "C6　　　隊列の変更は、これでいいですか？",
-            "translation": ""
+            "translation": "C6Ｔｈｉｓ　ｆｏｒｍａｔｉｏｎ　ＯＫ？"
         },
         {
             "address": "0x11bd00",
@@ -9736,7 +9736,7 @@
             "address": "0x12166b",
             "size": 16,
             "text": "敵と遭遇した！！",
-            "translation": ""
+            "translation": "Ｅｎｅｍｙ！！"
         },
         {
             "address": "0x12167e",
@@ -12538,7 +12538,7 @@
             "address": "0x125d31",
             "size": 61,
             "text": "スレイン「ゴブリンのすみかにしては、きれいなところですねぇ」W",
-            "translation": ""
+            "translation": "Ｓｌａｙｎ　”Ｃｌｅａｎ，ｆｏｒ　ｇｏｂｌｉｎｓ．．．”　　W"
         },
         {
             "address": "0x125d71",
@@ -13642,7 +13642,7 @@
             "address": "0x12812c",
             "size": 16,
             "text": "C2敵と遭遇した！",
-            "translation": ""
+            "translation": "C2Ｅｎｅｍｙ！"
         },
         {
             "address": "0x12813f",
