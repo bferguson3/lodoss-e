@@ -5140,67 +5140,67 @@
             "address": "0x119a07",
             "size": 48,
             "text": "「あら、久しぶりね。また私と一緒に旅をしない？」",
-            "translation": ""
+            "translation": "Ｒｅａｄｙ　ｔｏ　ｔｒａｖｅｌ　ｗｉｔｈ　ｍｅ？"
         },
         {
             "address": "0x119a3a",
             "size": 14,
             "text": "は仲間になった",
-            "translation": ""
+            "translation": "　ｊｏｉｎｅｄ"
         },
         {
             "address": "0x119a4b",
             "size": 8,
             "text": "ザクソン",
-            "translation": ""
+            "translation": "Ｚａｘｏ"
         },
         {
             "address": "0x119a56",
             "size": 6,
             "text": "ラーダ",
-            "translation": ""
+            "translation": "Ｒａｈ"
         },
         {
             "address": "0x119a5f",
             "size": 8,
             "text": "C6　司祭",
-            "translation": ""
+            "translation": "C6　Ｐｒ"
         },
         {
             "address": "0x119a6a",
             "size": 10,
             "text": "村長宅です",
-            "translation": ""
+            "translation": "Ｃｈｉｅｆ"
         },
         {
             "address": "0x119a77",
             "size": 28,
             "text": "C6《依頼を引き受けますか？》",
-            "translation": ""
+            "translation": "C6《Ａｃｃｅｐｔ？》"
         },
         {
             "address": "0x119a96",
             "size": 8,
             "text": "アラニア",
-            "translation": ""
+            "translation": "Ａｒａｎ"
         },
         {
             "address": "0x119aa1",
             "size": 8,
             "text": "ファリス",
-            "translation": ""
+            "translation": "Ｐｈａｒ"
         },
         {
             "address": "0x119aac",
             "size": 20,
             "text": "ゴールド払うかね？」",
-            "translation": ""
+            "translation": "ｇ．Ｐａｙ？"
         },
         {
             "address": "0x119ac3",
             "size": 20,
             "text": "「お金が足りません」",
-            "translation": ""
+            "translation": "Ｎｏｔ　ｅｎｏｕｇｈ"
         },
         {
             "address": "0x119ada",
@@ -5248,7 +5248,7 @@
             "address": "0x119b27",
             "size": 12,
             "text": "C6の鑑定結果",
-            "translation": ""
+            "translation": "C6　ｓｅｅｓ"
         },
         {
             "address": "0x119b36",
@@ -5266,55 +5266,55 @@
             "address": "0x119b4e",
             "size": 16,
             "text": "C6アイテムタイプ",
-            "translation": ""
+            "translation": "C6ＩｔｅｍＴｙｐ"
         },
         {
             "address": "0x119b61",
             "size": 8,
             "text": "C6命中率",
-            "translation": ""
+            "translation": "C6Ａｃｃ"
         },
         {
             "address": "0x119b6c",
             "size": 8,
             "text": "C6攻撃力",
-            "translation": ""
+            "translation": "C6ＡＴＰ"
         },
         {
             "address": "0x119b77",
             "size": 8,
             "text": "C6防御力",
-            "translation": ""
+            "translation": "C6ＤＦＰ"
         },
         {
             "address": "0x119b82",
             "size": 32,
             "text": "C6このアイテムを装備可能なクラス",
-            "translation": ""
+            "translation": "C6Ｅｑｕｉｐｐａｂｌｅ　ｂｙ："
         },
         {
             "address": "0x119ba5",
             "size": 20,
             "text": "呪いがかかっています",
-            "translation": ""
+            "translation": "Ｃｕｒｓｅｄ．"
         },
         {
             "address": "0x119bbc",
             "size": 10,
             "text": "装備中です",
-            "translation": ""
+            "translation": "　ｗｏｒｎ"
         },
         {
             "address": "0x119bc9",
             "size": 20,
             "text": "魔法がかかっています",
-            "translation": ""
+            "translation": "Ｍａｇｉｃａｌ．"
         },
         {
             "address": "0x119be0",
             "size": 20,
             "text": "タレントアイテムです",
-            "translation": ""
+            "translation": "ＴａｌｅｎｔＩｔｅｍ"
         },
         {
             "address": "0x119bf7",
@@ -5344,199 +5344,199 @@
             "address": "0x119c0b",
             "size": 8,
             "text": "ウエポン",
-            "translation": ""
+            "translation": "Ｗｅａｐ"
         },
         {
             "address": "0x119c16",
             "size": 8,
             "text": "アーマー",
-            "translation": ""
+            "translation": "Ａｒｍｒ"
         },
         {
             "address": "0x119c21",
             "size": 8,
             "text": "シールド",
-            "translation": ""
+            "translation": "Ｓｈｌｄ"
         },
         {
             "address": "0x119c2c",
             "size": 6,
             "text": "リング",
-            "translation": ""
+            "translation": "Ｒｎｇ"
         },
         {
             "address": "0x119c35",
             "size": 6,
             "text": "ブーツ",
-            "translation": ""
+            "translation": "Ｂｔｓ"
         },
         {
             "address": "0x119c3e",
             "size": 6,
             "text": "グラブ",
-            "translation": ""
+            "translation": "Ｇｌｖ"
         },
         {
             "address": "0x119c47",
             "size": 6,
             "text": "マント",
-            "translation": ""
+            "translation": "Ｃａｐ"
         },
         {
             "address": "0x119c50",
             "size": 8,
             "text": "クラウン",
-            "translation": ""
+            "translation": "Ｃｒｗｎ"
         },
         {
             "address": "0x119c5b",
             "size": 6,
             "text": "マスク",
-            "translation": ""
+            "translation": "Ｍｓｋ"
         },
         {
             "address": "0x119c64",
             "size": 10,
             "text": "ポーション",
-            "translation": ""
+            "translation": "Ｈ．Ｐｏｔ"
         },
         {
             "address": "0x119c71",
             "size": 4,
             "text": "宝石",
-            "translation": ""
+            "translation": "Ｇｍ"
         },
         {
             "address": "0x119c78",
             "size": 12,
             "text": "アミュレット",
-            "translation": ""
+            "translation": "Ａｍｕｌｅｔ"
         },
         {
             "address": "0x119c87",
             "size": 10,
             "text": "スクロール",
-            "translation": ""
+            "translation": "Ｓｃｒｏｌ"
         },
         {
             "address": "0x119c94",
             "size": 8,
             "text": "ストーン",
-            "translation": ""
+            "translation": "Ｓｔｏｎ"
         },
         {
             "address": "0x119c9f",
             "size": 10,
             "text": "ファーン王",
-            "translation": ""
+            "translation": "Ｆａｈｎ"
         },
         {
             "address": "0x119cac",
             "size": 12,
             "text": "フィアンナ姫",
-            "translation": ""
+            "translation": "Ｆｉａｎｎａ"
         },
         {
             "address": "0x119cbb",
             "size": 46,
             "text": "C6フィアンナ姫にファーン王の遺品を渡しますか？",
-            "translation": ""
+            "translation": "C6Ｇｉｖｅ　Ｆｉａｎｎａ　ｔｈｅ　ｉｔｅｍ？"
         },
         {
             "address": "0x119cec",
             "size": 22,
             "text": "「またお越しください」",
-            "translation": ""
+            "translation": "Ｃｏｍｅ　ａｇａｉｎ．"
         },
         {
             "address": "0x119d05",
             "size": 14,
             "text": "ドラゴンブレス",
-            "translation": ""
+            "translation": "ＤｒｇｎＢｒｔ"
         },
         {
             "address": "0x119d16",
             "size": 6,
             "text": "ラーダ",
-            "translation": ""
+            "translation": "Ｒａｈ"
         },
         {
             "address": "0x119d1f",
             "size": 43,
             "text": "「あーあ、昨日はひどい目に会ったぜ．．．」W",
-            "translation": ""
+            "translation": "Ｕｇｈ，ｔｏｄａｙ　ｗａｓ　ｒｏｕｇｈ．W"
         },
         {
             "address": "0x119d4d",
             "size": 43,
             "text": "「あーあ、昨日はひどい目に会ったわ．．．」W",
-            "translation": ""
+            "translation": "Ｔｏｄａｙ　ｗａｓ　ｒｏｕｇｈ．．．W"
         },
         {
             "address": "0x119d7b",
             "size": 8,
             "text": "マイリー",
-            "translation": ""
+            "translation": "Ｍｙｒｉ"
         },
         {
             "address": "0x119d86",
             "size": 8,
             "text": "チャ・ザ",
-            "translation": ""
+            "translation": "ＣｈａＺ"
         },
         {
             "address": "0x119d91",
             "size": 12,
             "text": "ライデンの港",
-            "translation": ""
+            "translation": "Ｒａｉｄｅｎ"
         },
         {
             "address": "0x119da0",
             "size": 18,
             "text": "マルフェス情報商会",
-            "translation": ""
+            "translation": "Ｉｎｆｏ　Ｓｈｏｐ"
         },
         {
             "address": "0x119db5",
             "size": 6,
             "text": "アダン",
-            "translation": ""
+            "translation": "Ａｄａ"
         },
         {
             "address": "0x119dbe",
             "size": 8,
             "text": "マイリー",
-            "translation": ""
+            "translation": "Ｍｙｒｉ"
         },
         {
             "address": "0x119dc9",
             "size": 16,
             "text": "ドラゴンスケール",
-            "translation": ""
+            "translation": "ＤｒｇｎＳｃａｌ"
         },
         {
             "address": "0x119ddc",
             "size": 40,
             "text": "「そのアイテムに呪いはかかっておらんぞ」",
-            "translation": ""
+            "translation": "Ｔｈｉｓ　ｉｓｎ’ｔ　ｃｕｒｓｅｄ．"
         },
         {
             "address": "0x119e07",
             "size": 34,
             "text": "支払えば呪いをといて差し上げるがの",
-            "translation": ""
+            "translation": "Ｐａｙ　ｆｏｒ　ａ　ｄｅｃｕｒｓｅ"
         },
         {
             "address": "0x119e2c",
             "size": 60,
             "text": "「チッ、買わねえんなら始めっから買うなんていうんじゃねえよ」",
-            "translation": ""
+            "translation": "Ｉｆ　ｙｅｒ　ｗｉｎｄｏｗ　ｓｈｏｐｐｉｎ，ｇｅｔ　ｏｕｔ！"
         },
         {
             "address": "0x119e6b",
             "size": 10,
             "text": "の治療費は",
-            "translation": ""
+            "translation": "ｈｅａｌｓ"
         },
         {
             "address": "0x119e78",
@@ -5548,49 +5548,49 @@
             "address": "0x119ea3",
             "size": 13,
             "text": "「お大事に」W",
-            "translation": ""
+            "translation": "Ｂｙｅ！W"
         },
         {
             "address": "0x119eb3",
             "size": 4,
             "text": "ウズ",
-            "translation": ""
+            "translation": "Ｕｚ"
         },
         {
             "address": "0x119eba",
             "size": 25,
             "text": "「これで呪いはとけたぞ」W",
-            "translation": ""
+            "translation": "Ｃｕｒｓｅーａｗａｙ！W"
         },
         {
             "address": "0x119ed6",
             "size": 24,
             "text": "C6ここでセーブができます",
-            "translation": ""
+            "translation": "C6（Ｃａｎ　Ｓａｖｅ）"
         },
         {
             "address": "0x119ef0",
             "size": 14,
             "text": "セーブしますか",
-            "translation": ""
+            "translation": "Ｓａｖｅ？"
         },
         {
             "address": "0x119f01",
             "size": 17,
             "text": "C6セーブしましたW",
-            "translation": ""
+            "translation": "C6Ｓａｖｅｄ．W"
         },
         {
             "address": "0x119f15",
             "size": 37,
             "text": "C6パーティーはゆっくりと休息をとったW",
-            "translation": ""
+            "translation": "C6Ｔｈｅ　ｐａｒｔｙ　ｒｅｓｔｅｄ．W"
         },
         {
             "address": "0x119f3a",
             "size": 6,
             "text": "{1a}名",
-            "translation": ""
+            "translation": "{1a}"
         },
         {
             "address": "0x119f43",
@@ -5602,55 +5602,55 @@
             "address": "0x119f4e",
             "size": 16,
             "text": "C6アイテムタイプ",
-            "translation": ""
+            "translation": "C6ＩｔｍＴｙｐｅ"
         },
         {
             "address": "0x119f61",
             "size": 8,
             "text": "C6命中率",
-            "translation": ""
+            "translation": "C6Ａｃｃ"
         },
         {
             "address": "0x119f6c",
             "size": 8,
             "text": "C6攻撃力",
-            "translation": ""
+            "translation": "C6ＡＴＰ"
         },
         {
             "address": "0x119f77",
             "size": 8,
             "text": "C6防御力",
-            "translation": ""
+            "translation": "C6ＤＦＰ"
         },
         {
             "address": "0x119f82",
             "size": 32,
             "text": "C6このアイテムを装備可能なクラス",
-            "translation": ""
+            "translation": "C6Ｅｑｕｉｐｐａｂｌｅ　ｂｙ："
         },
         {
             "address": "0x119fa5",
             "size": 20,
             "text": "呪いがかかっています",
-            "translation": ""
+            "translation": "Ｉｓ　ｃｕｒｓｅｄ．"
         },
         {
             "address": "0x119fbc",
             "size": 10,
             "text": "装備中です",
-            "translation": ""
+            "translation": "Ｗｏｒｎ"
         },
         {
             "address": "0x119fc9",
             "size": 20,
             "text": "魔法がかかっています",
-            "translation": ""
+            "translation": "Ｉｓ　ｍａｇｉｃａｌ"
         },
         {
             "address": "0x119fe0",
             "size": 20,
             "text": "タレントアイテムです",
-            "translation": ""
+            "translation": "ＴａｌｅｎｔＩｔｅｍ"
         },
         {
             "address": "0x119ff7",
@@ -5662,157 +5662,157 @@
             "address": "0x119ffe",
             "size": 12,
             "text": "Ｂ休息を取る",
-            "translation": ""
+            "translation": "ＢＲｅｓｔ"
         },
         {
             "address": "0x11a00d",
             "size": 14,
             "text": "ステータス表示",
-            "translation": ""
+            "translation": "Ｓｔａｔｕｓ"
         },
         {
             "address": "0x11a01e",
             "size": 16,
             "text": "メンバー隊列変更",
-            "translation": ""
+            "translation": "Ｆｏｒｍａｔｎ"
         },
         {
             "address": "0x11a031",
             "size": 14,
             "text": "表示速度の変更",
-            "translation": ""
+            "translation": "Ｔｘｔ　Ｓｐｄ"
         },
         {
             "address": "0x11a042",
             "size": 14,
             "text": "勢力範囲の表示",
-            "translation": ""
+            "translation": "Ｆａｃｔｉｏｎ"
         },
         {
             "address": "0x11a053",
             "size": 12,
             "text": "魔法を唱える",
-            "translation": ""
+            "translation": "Ｓｐｅｌｌｓ"
         },
         {
             "address": "0x11a062",
             "size": 14,
             "text": "アイテムを見る",
-            "translation": ""
+            "translation": "Ｉｔｅｍｓ"
         },
         {
             "address": "0x11a073",
             "size": 14,
             "text": "アイテムを使う",
-            "translation": ""
+            "translation": "ＵｓｅＩｔｅｍ"
         },
         {
             "address": "0x11a084",
             "size": 14,
             "text": "アイテムを渡す",
-            "translation": ""
+            "translation": "ＧｉｖｅＩｔｍ"
         },
         {
             "address": "0x11a095",
             "size": 16,
             "text": "アイテムを捨てる",
-            "translation": ""
+            "translation": "ＴｏｓｓＩｔｅｍ"
         },
         {
             "address": "0x11a0a8",
             "size": 22,
             "text": "アイテムに名前を付ける",
-            "translation": ""
+            "translation": "Ｎａｍｅ　Ｉｔｅｍ"
         },
         {
             "address": "0x11a0c1",
             "size": 18,
             "text": "アイテムを装備する",
-            "translation": ""
+            "translation": "Ｅｑｕｉｐ"
         },
         {
             "address": "0x11a0d6",
             "size": 20,
             "text": "通常時表示速度の変更",
-            "translation": ""
+            "translation": "Ｃｈａｎｇｅ　Ｓｐｄ"
         },
         {
             "address": "0x11a0ed",
             "size": 20,
             "text": "戦闘時表示速度の変更",
-            "translation": ""
+            "translation": "Ｂａｔｔｌｅ　Ｓｐｄ"
         },
         {
             "address": "0x11a104",
             "size": 14,
             "text": "キャンプを張る",
-            "translation": ""
+            "translation": "Ｃａｍｐ"
         },
         {
             "address": "0x11a115",
             "size": 12,
             "text": "周りを調べる",
-            "translation": ""
+            "translation": "Ｓｅａｒｃｈ"
         },
         {
             "address": "0x11a124",
             "size": 14,
             "text": "　　ウエポン　",
-            "translation": ""
+            "translation": "　Ｗｅａｐｏｎ"
         },
         {
             "address": "0x11a135",
             "size": 14,
             "text": "　　アーマー　",
-            "translation": ""
+            "translation": "　Ａｒｍｏｒ　"
         },
         {
             "address": "0x11a146",
             "size": 14,
             "text": "　　シールド　",
-            "translation": ""
+            "translation": "　Ｓｈｉｅｌｄ"
         },
         {
             "address": "0x11a157",
             "size": 14,
             "text": "　　リング　　",
-            "translation": ""
+            "translation": "　　Ｒｉｎｇ　"
         },
         {
             "address": "0x11a168",
             "size": 14,
             "text": "　　ブーツ　　",
-            "translation": ""
+            "translation": "　Ｂｏｏｔｓ　"
         },
         {
             "address": "0x11a179",
             "size": 14,
             "text": "　　グラブ　　",
-            "translation": ""
+            "translation": "　Ｇｌｏｖｅ　"
         },
         {
             "address": "0x11a18a",
             "size": 14,
             "text": "　　マント　　",
-            "translation": ""
+            "translation": "　　Ｃａｐｅ　"
         },
         {
             "address": "0x11a19b",
             "size": 14,
             "text": "　　クラウン　",
-            "translation": ""
+            "translation": "　Ｃｒｏｗｎ　"
         },
         {
             "address": "0x11a1ac",
             "size": 18,
             "text": "全ての装備をはずす",
-            "translation": ""
+            "translation": "ＲｅｍｏｖｅＡｌｌ"
         },
         {
             "address": "0x11a1c1",
             "size": 20,
             "text": "メインメニューへ戻る",
-            "translation": ""
+            "translation": "Ｍａｉｎ　Ｍｅｎｕ"
         },
         {
             "address": "0x11a1d8",
@@ -5830,55 +5830,55 @@
             "address": "0x11a223",
             "size": 14,
             "text": "C2死者　　　　",
-            "translation": ""
+            "translation": "C2Ｄｅａｄ　"
         },
         {
             "address": "0x11a234",
             "size": 14,
             "text": "C2石化　　　　",
-            "translation": ""
+            "translation": "C2Ｓｔｏｎｅ"
         },
         {
             "address": "0x11a245",
             "size": 14,
             "text": "C3麻痺　　　　",
-            "translation": ""
+            "translation": "C3Ｐａｒａｌ"
         },
         {
             "address": "0x11a256",
             "size": 14,
             "text": "C3意識不明　　",
-            "translation": ""
+            "translation": "C3Ｃｏｎｆｕ"
         },
         {
             "address": "0x11a267",
             "size": 14,
             "text": "C4気絶　　　　",
-            "translation": ""
+            "translation": "C4Ｕｎｃｏｎ"
         },
         {
             "address": "0x11a278",
             "size": 14,
             "text": "C4精神疲労　　",
-            "translation": ""
+            "translation": "C4Ｗｅａｋ"
         },
         {
             "address": "0x11a289",
             "size": 14,
             "text": "C5毒　　　　　",
-            "translation": ""
+            "translation": "C5Ｐｏｉｓ"
         },
         {
             "address": "0x11a29a",
             "size": 14,
             "text": "C5病気　　　　",
-            "translation": ""
+            "translation": "C5Ｓｉｃｋ"
         },
         {
             "address": "0x11a2ab",
             "size": 12,
             "text": "正常　　　　",
-            "translation": ""
+            "translation": "Ｎｏｒｍａｌ"
         },
         {
             "address": "0x11a2ba",
@@ -5926,79 +5926,79 @@
             "address": "0x11a34f",
             "size": 12,
             "text": "ウォーリアー",
-            "translation": ""
+            "translation": "Ｗａｒｒｉｏ"
         },
         {
             "address": "0x11a35e",
             "size": 12,
             "text": "ナイト　　　",
-            "translation": ""
+            "translation": "Ｋｎｉｇｈｔ"
         },
         {
             "address": "0x11a36d",
             "size": 12,
             "text": "スカウト　　",
-            "translation": ""
+            "translation": "Ｓｃｏｕｔ"
         },
         {
             "address": "0x11a37c",
             "size": 12,
             "text": "プリースト　",
-            "translation": ""
+            "translation": "Ｐｒｉｅｓｔ"
         },
         {
             "address": "0x11a38b",
             "size": 12,
             "text": "シャーマン　",
-            "translation": ""
+            "translation": "Ｓｈａｍａｎ"
         },
         {
             "address": "0x11a39a",
             "size": 12,
             "text": "ソーサラー　",
-            "translation": ""
+            "translation": "Ｓｏｒｃｅｒ"
         },
         {
             "address": "0x11a3a9",
             "size": 12,
             "text": "ウイザード　",
-            "translation": ""
+            "translation": "Ｗｉｚａｒｄ"
         },
         {
             "address": "0x11a3b8",
             "size": 14,
             "text": "C6Ｃｕｌｔ：　",
-            "translation": ""
+            "translation": "C6Ｇｏｄ：　"
         },
         {
             "address": "0x11a3c9",
             "size": 12,
             "text": "マイリー　　",
-            "translation": ""
+            "translation": "Ｍｙｒｉｉ"
         },
         {
             "address": "0x11a3d8",
             "size": 12,
             "text": "チャ・ザ　　",
-            "translation": ""
+            "translation": "Ｃｈａ－Ｚａ"
         },
         {
             "address": "0x11a3e7",
             "size": 12,
             "text": "ファリス　　",
-            "translation": ""
+            "translation": "Ｐｈａｒｉｓ"
         },
         {
             "address": "0x11a3f6",
             "size": 12,
             "text": "マーファ　　",
-            "translation": ""
+            "translation": "Ｍａｒｆａ"
         },
         {
             "address": "0x11a405",
             "size": 12,
             "text": "ラーダ　　　",
-            "translation": ""
+            "translation": "Ｒａｈｄａ"
         },
         {
             "address": "0x11a414",
@@ -6010,25 +6010,25 @@
             "address": "0x11a425",
             "size": 12,
             "text": "人間　　　　",
-            "translation": ""
+            "translation": "Ｈｕｍａｎ"
         },
         {
             "address": "0x11a434",
             "size": 12,
             "text": "エルフ　　　",
-            "translation": ""
+            "translation": "Ｅｌｆ"
         },
         {
             "address": "0x11a443",
             "size": 12,
             "text": "ドワーフ　　",
-            "translation": ""
+            "translation": "Ｄｗａｒｆ"
         },
         {
             "address": "0x11a452",
             "size": 12,
             "text": "ハーフエルフ",
-            "translation": ""
+            "translation": "ＨａｌｆＥｌ"
         },
         {
             "address": "0x11a461",
@@ -6040,13 +6040,13 @@
             "address": "0x11a472",
             "size": 2,
             "text": "男",
-            "translation": ""
+            "translation": "Ｍ"
         },
         {
             "address": "0x11a477",
             "size": 2,
             "text": "女",
-            "translation": ""
+            "translation": "Ｆ"
         },
         {
             "address": "0x11a47c",
@@ -6088,97 +6088,97 @@
             "address": "0x11a55a",
             "size": 32,
             "text": "　　　　　どの魔法をかけますか？",
-            "translation": ""
+            "translation": "Ｃａｓｔ　ｗｈａｔ　ｓｐｅｌｌ？"
         },
         {
             "address": "0x11a57d",
             "size": 34,
             "text": "　　　　　どのアイテムを見ますか？",
-            "translation": ""
+            "translation": "　Ｖｉｅｗ　ｗｈｉｃｈ　ｉｔｅｍ？"
         },
         {
             "address": "0x11a5a2",
             "size": 34,
             "text": "　　　　どのアイテムを使いますか？",
-            "translation": ""
+            "translation": "　　Ｕｓｅ　ｗｈｉｃｈ　ｉｔｅｍ？"
         },
         {
             "address": "0x11a5c7",
             "size": 34,
             "text": "　　　　どのアイテムを渡しますか？",
-            "translation": ""
+            "translation": "　Ｇｉｖｅ　ｗｈｉｃｈ　ｉｔｅｍ？"
         },
         {
             "address": "0x11a5ec",
             "size": 34,
             "text": "　　　　どのアイテムを捨てますか？",
-            "translation": ""
+            "translation": "　Ｔｏｓｓ　ｗｈｉｃｈ　ｉｔｅｍ？"
         },
         {
             "address": "0x11a611",
             "size": 38,
             "text": "　　　どのアイテムに名前を付けますか？",
-            "translation": ""
+            "translation": "　　　Ｎａｍｅ　ｗｈｉｃｈ　ｉｔｅｍ？"
         },
         {
             "address": "0x11a63a",
             "size": 36,
             "text": "　　　　どのアイテムを装備しますか？",
-            "translation": ""
+            "translation": "　Ｅｑｕｉｐ　ｗｈｉｃｈ　ｉｔｅｍ？"
         },
         {
             "address": "0x11a661",
             "size": 26,
             "text": "　　誰に魔法をかけますか？",
-            "translation": ""
+            "translation": "Ｃａｓｔ　ｏｎ　ｗｈｏｍ？"
         },
         {
             "address": "0x11a67e",
             "size": 32,
             "text": "名前を入力して下さい（１４文字）",
-            "translation": ""
+            "translation": "Ｉｎｐｕｔ　ｎａｍｅ（１４ｃｈ）"
         },
         {
             "address": "0x11a6a1",
             "size": 18,
             "text": "これでいいですか？",
-            "translation": ""
+            "translation": "Ｔｈｉｓ　ＯＫ？"
         },
         {
             "address": "0x11a6b6",
             "size": 32,
             "text": "C2　　　　何も起こらなかった！！",
-            "translation": ""
+            "translation": "C2　　　Ｎｏ　ｅｆｆｅｃｔ！！"
         },
         {
             "address": "0x11a6d9",
             "size": 34,
             "text": "　　　　　勇者のＭＰは、回復した！",
-            "translation": ""
+            "translation": "Ｈｅｒｏｓ　ＭＰ　ｒｅｃｏｖｅｒ！"
         },
         {
             "address": "0x11a6fe",
             "size": 20,
             "text": "誰を呼びだしますか？",
-            "translation": ""
+            "translation": "Ｖｉｅｗ　ｗｈｏｍ？"
         },
         {
             "address": "0x11a715",
             "size": 26,
             "text": "メンバーを選択して下さい。",
-            "translation": ""
+            "translation": "Ｓｅｌｅｃｔ　ｍｅｍｂｅｒ"
         },
         {
             "address": "0x11a732",
             "size": 20,
             "text": "どれを選択しますか？",
-            "translation": ""
+            "translation": "Ｗｈｉｃｈ？"
         },
         {
             "address": "0x11a749",
             "size": 28,
             "text": "　　　　　魔法は知りません。",
-            "translation": ""
+            "translation": "Ｃａｎ’ｔ　ｕｓｅ　ｍａｇ．"
         },
         {
             "address": "0x11a768",
@@ -6220,7 +6220,7 @@
             "address": "0x11a7aa",
             "size": 8,
             "text": "ＣＡＭＰ",
-            "translation": ""
+            "translation": "Ｃａｍｐ"
         },
         {
             "address": "0x11a7b5",
@@ -6382,7 +6382,7 @@
             "address": "0x11a905",
             "size": 44,
             "text": "C5§か左クリックで次へ、●か右クリックで前へ",
-            "translation": "C5§ｏｒＬＭＢ　＞、●ｏｒＲＭＢ　＜"
+            "translation": "C5§ｏｒＬＭＢ　Ｆｗｄ、●ｏｒＲＭＢ　Ｂｋ"
         },
         {
             "address": "0x11a934",
@@ -6640,127 +6640,127 @@
             "address": "0x11ab9c",
             "size": 28,
             "text": "C2　　　　ＭＰのムダ使いだ！",
-            "translation": ""
+            "translation": "C2　　　Ｏｕｔ　ｏｆ　ＭＰ！"
         },
         {
             "address": "0x11abbb",
             "size": 30,
             "text": "C2　　　よく見て選択しなさい！",
-            "translation": ""
+            "translation": "C2Ｐａｙ　ａｔｔｅｎｔｉｏｎ！"
         },
         {
             "address": "0x11abdc",
             "size": 32,
             "text": "　　　　頭が悪くて覚えられない！",
-            "translation": ""
+            "translation": "　Ｃａｎ’ｔ　ｒｅｍｅｍｂｅｒ！"
         },
         {
             "address": "0x11abff",
             "size": 30,
             "text": "　　　　コモンの魔法を覚えた！",
-            "translation": ""
+            "translation": "Ｌｅａｒｎｅｄ　ＣｍｎＭａｇ！"
         },
         {
             "address": "0x11ac20",
             "size": 30,
             "text": "　　　　ガチャと言う音がした！",
-            "translation": ""
+            "translation": "　Ｈｅａｒｄ　ａ　ｃｌａｎｋ！"
         },
         {
             "address": "0x11ac41",
             "size": 30,
             "text": "C2　　　魔法は、効かなかった！",
-            "translation": ""
+            "translation": "C2　　　　Ｎｏ　ｅｆｆｅｃｔ！"
         },
         {
             "address": "0x11ac62",
             "size": 30,
             "text": "　　　べつに、何も無いようだ！",
-            "translation": ""
+            "translation": "　　Ｎｏｔｈｉｎｇ　ｈｅｒｅ！"
         },
         {
             "address": "0x11ac83",
             "size": 26,
             "text": "　　　　　　テレポート！！",
-            "translation": ""
+            "translation": "　　　Ｔｅｌｅｐｏｒｔ！！"
         },
         {
             "address": "0x11aca0",
             "size": 30,
             "text": "　　　　あたりが明るくなった！",
-            "translation": ""
+            "translation": "Ａｒｅａ　ｂｒｉｇｈｔｅｎｓ！"
         },
         {
             "address": "0x11acc1",
             "size": 26,
             "text": "　　　　　ＬＰが回復した！",
-            "translation": ""
+            "translation": "Ｒｅｃｏｖｅｒｅｄ　ＬＰ！"
         },
         {
             "address": "0x11acde",
             "size": 26,
             "text": "　　　　　ＭＰが回復した！",
-            "translation": ""
+            "translation": "Ｒｅｃｏｖｅｒｅｄ　ＭＰ！"
         },
         {
             "address": "0x11acfb",
             "size": 28,
             "text": "　　　　　毒が体から消えた！",
-            "translation": ""
+            "translation": "　Ｐｏｉｓｏｎ　ｆａｄｅｄ！"
         },
         {
             "address": "0x11ad1a",
             "size": 28,
             "text": "　　　　　体の麻痺が治った！",
-            "translation": ""
+            "translation": "Ｐａｒａｌｙｚｅ　ｈｅａｌ！"
         },
         {
             "address": "0x11ad39",
             "size": 26,
             "text": "　　　　　　病気が治った！",
-            "translation": ""
+            "translation": "Ｓｉｃｋｎｅｓｓ　ｈｅａｌ"
         },
         {
             "address": "0x11ad56",
             "size": 22,
             "text": "　　　　　　全快した！",
-            "translation": ""
+            "translation": "ＦｕｌｌＲｅｃｏｖｅｒ"
         },
         {
             "address": "0x11ad6f",
             "size": 22,
             "text": "　　　　　　復活した！",
-            "translation": ""
+            "translation": "　　　Ｒｅｖｉｖｅｄ！"
         },
         {
             "address": "0x11ad88",
             "size": 28,
             "text": "　　　　　ＬＵＫが上がった！",
-            "translation": ""
+            "translation": "　　　　　ＬＵＫ　ｕｐ！"
         },
         {
             "address": "0x11ada7",
             "size": 28,
             "text": "　　　　　魔法をかけ終えた！",
-            "translation": ""
+            "translation": "　　Ｍａｇｉｃ　ｆａｄｅｄ！"
         },
         {
             "address": "0x11adc6",
             "size": 30,
             "text": "　　　　レベルがもとに戻った！",
-            "translation": ""
+            "translation": "　　ＬＶＬ　ｒｅｓｔｏｒｅｄ！"
         },
         {
             "address": "0x11ade7",
             "size": 36,
             "text": "　　　地面がグラグラとゆれだした！！",
-            "translation": ""
+            "translation": "　　　　　　Ｅａｒｔｈｑｕａｋｅ！！"
         },
         {
             "address": "0x11ae0e",
             "size": 34,
             "text": "　　　　アイテムは持っていません！",
-            "translation": ""
+            "translation": "　　　　　　　　Ｎｏ　ｉｔｅｍｓ！"
         },
         {
             "address": "0x11ae33",
@@ -6862,25 +6862,25 @@
             "address": "0x11aecb",
             "size": 12,
             "text": "C6ユーザー用",
-            "translation": ""
+            "translation": "C6Ｕｓｅｒ"
         },
         {
             "address": "0x11aeda",
             "size": 10,
             "text": "C6アイテム",
-            "translation": ""
+            "translation": "C6Ｉｔｅｍ"
         },
         {
             "address": "0x11aee7",
             "size": 10,
             "text": "C6タイプ：",
-            "translation": ""
+            "translation": "C6Ｔｙｐ："
         },
         {
             "address": "0x11aef4",
             "size": 10,
             "text": "C6属性　：",
-            "translation": ""
+            "translation": "C6Ｅｌｅ："
         },
         {
             "address": "0x11af01",
@@ -6898,37 +6898,37 @@
             "address": "0x11af2b",
             "size": 10,
             "text": "C2カース　",
-            "translation": ""
+            "translation": "C2Ｃｒｓｅ"
         },
         {
             "address": "0x11af38",
             "size": 10,
             "text": "C5マジック",
-            "translation": ""
+            "translation": "C5Ｍａｇｃ"
         },
         {
             "address": "0x11af45",
             "size": 10,
             "text": "C6タレント",
-            "translation": ""
+            "translation": "C6Ｔｌｎｔ"
         },
         {
             "address": "0x11af52",
             "size": 36,
             "text": "C2　　このアイテムは、使用できません",
-            "translation": ""
+            "translation": "C2　　Ｃａｎ’ｔ　ｕｓｅ　ｔｈｉｓ．"
         },
         {
             "address": "0x11af79",
             "size": 42,
             "text": "C2このアイテムは、あなたには装備できません",
-            "translation": ""
+            "translation": "C2Ｙｏｕ　ｃａｎ’ｔ　ｅｑｕｉｐ　ｔｈｉｓ"
         },
         {
             "address": "0x11afa6",
             "size": 36,
             "text": "C2　　これ以上アイテムは、持てません",
-            "translation": ""
+            "translation": "C2　　Ｃａｎ’ｔ　ｈｏｌｄ　ｍｏｒｅ"
         },
         {
             "address": "0x11afcd",
