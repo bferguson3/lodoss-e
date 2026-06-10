@@ -4,17 +4,25 @@
 
 import os,sys,json
 
-f = open("lodoss-ben.hdm", "rb")
+f = open("../lodoss1_scen_eng.fdi", "rb")
 inby = f.read()
 f.close()
 
 ranges = [
-(0x10a100,0x10aab7),
-(0x114d00,0x1150ff),
-(0x115e00,0x11bc20),
-(0x11bd00,0x125fff),
-(0x127000,0x12bfff),
-(0x126900,0x126f2f),
+#(0x10a100,0x10aab7),
+#(0x114d00,0x1150ff),
+#(0x115e00,0x11bc20),
+#(0x11bd00,0x125fff),
+#(0x127000,0x12bfff),
+#(0x126900,0x126f2f),
+(0x10b100, 0x10bab5),
+(0x115d00, 0x1160ff),
+(0x116e00, 0x1193f3),
+(0x119400, 0x11cc20),
+(0x11cd00, 0x123af0),
+(0x123b00, 0x126ff1),
+(0x127900, 0x127f2b),
+(0x128000, 0x12cfff)
 ]
 
 class TLWord():
@@ -71,7 +79,14 @@ while i < len(outfiles):
         try:
             k.text = bytes(k.text).decode("sjis")#.encode("sjis")
         except:
-            k.text = "SJIS Decoding error!"
+            #print(k.text, i)
+            try:
+                k.text = "" + bytes(k.text[2:]).decode("sjis")
+            except:    
+                try:
+                    k.text = "{8x}" + bytes(k.text[1:]).decode("sjis")
+                except:
+                    k.text = "SJIS Decoding error!" + str(k.text)
         outstr += k.toJSON() + ",\n"
     i += 1
 outstr = outstr[:len(outstr)-2]

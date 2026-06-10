@@ -1,4 +1,4 @@
-import json,jaconv,os,sys
+import json,os,sys
 
 f = open("lodoss1_dump.json", "r")
 j = f.read()
@@ -30,6 +30,7 @@ for w in data["words"]:
                 while len(_d) < w["size"]:
                     _d += b'\x20'
                     ovr += 1
+                #if ovr > 0:
                 print(tct,_d.decode("sjis"), "unused", ovr)
                 a.txt = _d 
                 a.addr = int(w["address"],16)
@@ -68,7 +69,7 @@ f = open("lodoss-game_e.hdm", "wb")
 f.write(game)
 f.close()
 
-f = open("lodoss-ben.hdm", "rb")
+f = open("scenario_orig.hdm", "rb")
 inby = f.read()
 f.close()
 
@@ -128,6 +129,16 @@ while k < len(jlines):
     inby = inby[:bc] + bytes(s.txt) + inby[bc + len(bytes(s.txt)):]#+ bytes([ord('#'), 0x0d, 0x0a]) + inby[bc + 3 + len(bytes(s.txt)):]
     k += 1
 
-f = open ("lodoss-ben_e.hdm", "wb")
+#{
+#    "address": "0x118ebb",
+#    "size": 8,
+#    "text": "「ここは",
+#    "translation": "→"
+#},
+#inby = inby[:0x118ebb] + b'\x81\xa8\x00' + inby[0x118ebb+3:]       
+
+# EXTRA TEXT AT 0xF4EC0 on GAME disk. 
+# this has been changed in-line, so dont dlete teh disk!!
+f = open ("scenario_orig_e.hdm", "wb")
 f.write(bytes(inby))
 f.close()
